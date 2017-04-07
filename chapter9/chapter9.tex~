@@ -7,31 +7,31 @@
 %\oddsidemargin 0.9 cm 
 %\evensidemargin -.4 cm
 %\setlength{\textwidth}{152.4 mm}
-\chapter{Summary and Conclusion  \label{ Summary and Conclusion}}
+\chapter{Summary and Conclusions  \label{ Summary and Conclusions}}
 
-We presented our studies on three different topics. The first two being the two search analysises in SUSY and one search on Leptoquark. We did not see any evidence of new physics in any of our studies . But the limits are considerably extended from the previous 8TeV studies. Here we compare the upper limits on the cross section just from one channel with four top quark in the final state. We see that the upper limit for zero LSP mass hypothesis has been extended from around 1200 GeV to 1600 GeV with a small amount of 13 TeV data. We have not showncomparison plots from four light quark and four b quark final states but all the plots including the 8TeV and 13 TeV could be found from the CMS twiki page for supersymmetry public results here in Ref.~\cite{CMSSUSPublic}. More ever in 2016 analysis with 12.9 $\rm fb^{-1}$ of data , we extended the 2.3 $\rm fb^{-1}$ limits considerably. 
+In this thesis we have presented our studies on three different topics. The first two are on the search for physics beyond the standard model, especially for supersymmetry and leptoquarks. We did not find any evidence of new physics in these studies, however the limits we obtained significantly more restrictive compared to the previous 8-TeV results. To drive the point home, we compare the upper limits on the cross section just from one channel that has four top quarks in the final state( Fig.~\ref{fig:Limit8vs13SUSY} shows the limits). We see that the upper limit for a zero LSP mass hypothesis has been extended from around 1.2 to 1.6 TeV with a small amount of 13 TeV data. Although we have not shown comparison plots from four light-quark or four b-quark final states (all these results for 8 and 13 TeV could be found at CMS public page ~\cite{CMSSUSPublic})  the message is similar i.e., our results provide more stringent limit on the new physics parameter space. More ever in the 2016 analysis with 12.9 $\rm fb^{-1}$ of data, we extended the 2.3 $\rm fb^{-1}$ limits. 
 
 \begin{figure}[h]
 \centering
 \includegraphics[width=0.42\textwidth]{/home/bibhu/Desktop/PhDThesis/PhDThesis/chapter9/CMS-Limit8TeVT1tttt.pdf}
 \includegraphics[width=0.47\textwidth]{/home/bibhu/Desktop/PhDThesis/PhDThesis/chapter9/T1tttt_2p3_limit.pdf}
-\caption{\label{fig:Limit2016}The 95\% CL upper limits on the gluino pair production cross sections for four top quark final state. The left plot is taken from Ref.~\cite{SUSYhad8TeV}. The right plot is produced by us with 2.3 $\rm fb^{-1}$ of data.}
+\caption{\label{fig:Limit8vs13SUSY}The 95\% CL upper limits on the gluino pair production cross sections for four top quark final state. The left plot is taken from Ref.~\cite{SUSYhad8TeV}. The right plot is produced by us with 2.3 $\rm fb^{-1}$ of data.}
 \end{figure}
 
 
-Similarly in the Leptoquark analysis we have also extended the previous limits. But the limits are not improved as much as in SUSY because the increase in cross section in SUSY in much higher going from 8TeV to 13 TeV as compared to the LQ models. Here we present a comparison of the 8TeV limit vs the 13 TeV limits. More ever a small excess was seen for LQ mass 650 GeV in the 8TeV analysis ~\cite{CMS-PAS-EXO-12-041} but we did not see that excess confirming the prior could be a statistical fluctuation.
+Similarly, in the leptoquark analysis we have  extended the previous limits. However, the limits are not improved as much as in SUSY because the increase in SUSY production cross section is much higher going from 8 to 13 TeV as compared to the LQ models. In Fig.~\ref{fig:LQLimit8TeV13TeV}, we present a comparison of the 8TeV limit vis-a-vis the 13 TeV limit. More ever a small excess seen for an LQ mass 650 GeV in the 8TeV analysis ~\cite{CMS-PAS-EXO-12-041} was not confirmed in our analysis indicating the prior signal could be a fluctuation.
 
 \begin{figure}[h]
 \centering
 \includegraphics[width=0.42\textwidth]{/home/bibhu/Desktop/PhDThesis/PhDThesis/chapter9/LQ18Tevlimit.pdf}
 \includegraphics[width=0.42\textwidth]{/home/bibhu/Desktop/PhDThesis/PhDThesis/chapter9/LQLimitPlot.pdf}
-\caption{\label{fig:LQLimit8TeV13TeV}The 95\% CL upper limits on the lepto quark production cross section . The left plot is taken from Ref.~\cite{CMS-PAS-EXO-12-041}. The right plot is produced by us with 2.6 $\rm fb^{-1}$ of data.}
+\caption{\label{fig:LQLimit8TeV13TeV}The 95\% CL upper limits on the leptoquark production cross section times branching fraction. The left plot is taken from Ref.~\cite{CMS-PAS-EXO-12-041}. The right plot is produced by us with 2.6 $\rm fb^{-1}$ of data.}
 \end{figure}
 
 
-At the end we presented a study on the grooming techiniques. The grooming techniques becomes very useful when jets are contaminated with pileup. Many of the CMS analysises are using grooming techiques in their analysis now.
+At the end, we have presented a study on the various advanced pileup mitigation techniques. It turns out that grooming is very useful when jets are contaminated with pileup. Motivated by our study, many of the current CMS analysises are using grooming techiques for pileup mitigation.
 
-With this we colclude the presentation of the work that has been carried out during my PhD.
+With this we conclude the presentation of various works that are carried out during our PhD.
 
 
 
