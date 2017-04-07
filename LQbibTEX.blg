@@ -1,0 +1,100 @@
+This is BibTeX, Version 0.99d (TeX Live 2012/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: LQbibTEX.aux
+The style file: plain.bst
+Database file #1: LQbibfile.bib
+Warning--entry type for "..." isn't style-file defined
+--line 1 of file LQbibfile.bib
+Repeated entry---line 632 of file LQbibfile.bib
+ : --- COMMENTS may be placed outside the @entrytype{ ...
+ :                                                        } stuctures
+I'm skipping whatever remains of this entry
+Repeated entry---line 675 of file LQbibfile.bib
+ : @article{Brandt:1997gi
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 708 of file LQbibfile.bib
+ : @techreport{CMS-PAS-JME-10-003
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 893 of file LQbibfile.bib
+ : @article{Pythia8
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 915 of file LQbibfile.bib
+ : @article{antiKT
+ :                ,
+I'm skipping whatever remains of this entry
+Warning--to sort, need author or key in ...
+Warning--to sort, need author or key in electronRecoPaper
+Warning--to sort, need author or key in muonRecoPaper
+Warning--to sort, need author or key in pfjetID
+Warning--to sort, need author or key in CMS-PAS-EXO-15-005
+Warning--to sort, need author or key in cmslq8tev
+Warning--to sort, need author or key in heavyNu8tev
+Warning--empty author in pfjetID
+Warning--empty author in heavyNu8tev
+Warning--empty author in muonRecoPaper
+Warning--empty journal in muonRecoPaper
+Warning--empty author in electronRecoPaper
+Warning--empty author in CMS-PAS-EXO-15-005
+Warning--empty author in cmslq8tev
+Warning--empty institution in CMS_NOTE_2006-106
+Warning--empty note in LEPewkfits
+Warning--empty institution in CMS_AN_2006-027
+Warning--empty journal in Bertolini:2014bba
+Warning--empty institution in AN-14-130
+Warning--empty journal in Butterworth:2008tr
+Warning--empty journal in Cacciari:2014jta
+Warning--empty institution in pflowPAS
+Warning--empty institution in CMS-PAS-JME-10-003
+Warning--empty institution in lumiPAS
+Warning--empty journal in cleansing
+Warning--empty journal in Martin:1997ns
+Warning--empty journal in Pich:281332
+Warning--there's a number but no volume in Pich:281332
+Warning--empty institution in read
+Warning--empty journal in puppi
+Warning--empty year in puppi
+You've used 86 entries,
+            2118 wiz_defined-function locations,
+            978 strings with 16797 characters,
+and the built_in function-call counts, 26350 in all, are:
+= -- 2462
+> -- 1494
+< -- 11
++ -- 603
+- -- 510
+* -- 1920
+:= -- 4686
+add.period$ -- 257
+call.type$ -- 86
+change.case$ -- 490
+chr.to.int$ -- 0
+cite$ -- 117
+duplicate$ -- 911
+empty$ -- 1870
+format.name$ -- 510
+if$ -- 5267
+int.to.chr$ -- 0
+int.to.str$ -- 86
+missing$ -- 71
+newline$ -- 431
+num.names$ -- 158
+pop$ -- 396
+preamble$ -- 1
+purify$ -- 406
+quote$ -- 0
+skip$ -- 652
+stack$ -- 0
+substring$ -- 1259
+swap$ -- 91
+text.length$ -- 11
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 344
+warning$ -- 31
+while$ -- 220
+width$ -- 88
+write$ -- 911
+(There were 5 error messages)

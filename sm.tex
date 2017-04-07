@@ -1,0 +1,613 @@
+\documentclass[12pt]{article}
+\usepackage{epsfig}
+\usepackage[retainorgcmds]{IEEEtrantools}
+\usepackage{slashed}
+\newcommand{\be}{\begin{equation}}
+
+\newcommand{\ee}{\end{equation}}
+
+\newcommand{\bea}{\begin{eqnarray}}
+\newcommand{\eea}{\end{eqnarray}}
+
+
+
+\newcommand{\ta}{\tilde\alpha}
+\newcommand{\tb}{\tilde\beta}
+\newcommand{\ba}{\bar\alpha}
+\newcommand{\bb}{\bar\beta}
+\newcommand{\bm}{\bar\mu}
+\newcommand{\bn}{\bar\nu}
+\newcommand{\da}{\dot\alpha}
+\newcommand{\db}{\dot\beta}
+\newcommand{\la}{\lambda}
+\newcommand{\ga}{\gamma}
+\newcommand{\al}{\alpha}
+\newcommand{\bet}{\beta}
+\newcommand{\e}{\eta}
+\newcommand{\nnu}{\nonumber\\}
+\newcommand{\GSM}{$SU(3)\times SU(2)_L \times U(1)_Y\quad $}
+\newcommand{\PS}{$ SU(4)\times SU(2)_L\times SU(2)_R\quad  $}
+\newcommand{\mt}{\tilde m}
+\newcommand{\et}{\tilde \eta}
+\newcommand{\mht}{{\widetilde M}_H}
+\newcommand{\mst}{\tilde M}
+\newcommand{\at}{\tilde a}
+\newcommand{\pt}{\tilde p}
+\newcommand{\omt}{\tilde \omega}
+\newcommand{\om}{\omega}
+\newcommand{\sgt}{\tilde \sigma}
+\newcommand{\LR}{$SU(3)\times SU(2)_L \times SU(2)_R\times U(1)_{B-L}\quad $}
+\newcommand{\sgbt}{\tilde {\overline{ \sigma}}}
+\newcommand{\Sig}{\bf\Sigma}
+\newcommand{\sss}{\sigma}
+\newcommand{\ssb}{{\overline{ \sigma}}}
+\newcommand{\sq}{\sqrt{2}}
+\newcommand{\sqs}{\sqrt{6}}
+\newcommand{\sqt}{\sqrt{3}}
+\newcommand{\sqf}{\sqrt{5}}
+\newcommand{\sqtt}{\sqrt{3\over 2}}
+%%DEFINITIONS FROM SP.11
+\newcommand{\os}{\overline\Sigma}
+\newcommand{\s}{\Sigma}
+\newcommand{\Sigb}{{\overline\Sigma}}
+\newcommand{\oot}{\overline {126}}
+%%definitions by me
+\newcommand{\bh}{\bar h}
+\newcommand{\bt}{\bar t}
+\newcommand{\ovt}{\overline{10}}
+\newcommand{\ovl}{\overline}
+\newcommand{\boot}{${\bf{\oot}}$ }
+\newcommand{\bten}{${\bf{10}}$ }
+
+
+  %-------------------- START OF DATA FILE----------------------------------
+  \textwidth 6.0in
+  \textheight 8.6in
+ % \pagestyle{empty}
+  \topmargin -0.25truein
+  \oddsidemargin 0.30truein
+  \evensidemargin 0.30truein
+  \parindent=1.5pc
+  \baselineskip=15pt
+% define the title
+
+
+\title{\normalsize \hfill \\[1cm]
+\LARGE \bf{Standard Model}}
+\author{
+Jacky Kumar\thanks{E-mail: jka@tifr.res.in} \\
+Tata Institute\\
+Supervisor: Prof.Manoranjan Guchait\thanks{E-mail:guchait@.tifr.res.in}}
+\date{1 January 2013}
+% generates the title
+
+
+
+\begin{document}
+\maketitle
+
+
+\newpage 
+\section{\Large {\bf{Electroweak Theory in Brief}}}
+\textbf{ \underline{Yang-MillsLagrangian and in various interactions terms}}: \\ \\ 
+
+Electroweak theory is the unified theory of electromagnetic and weak interactions. It describes the dynamics of six leptons, six quarks, Weak vector bosons which mediate the weak interactions and photon which mediate the electromagnetic interactions. 
+
+The three families of the quarks and leptons are,
+
+%
+$$\left( \begin{array}{cc} u & \nu_{e} \\ d & e  \end{array} \right), \left( \begin{array}{cc} c & \nu_{\mu}  \\ s & \mu  \end{array} \right),\left( \begin{array}{cc} t & \nu_{\tau} \\ b & \tau  \end{array} \right)$$
+%
+
+Parity symmetry is known to be maximally violated in weak interactions,we know that from various experiments that the vector bosons donot interact with right handed fermions, so different chiral components must be kept in different representations of the gauge group to have different interactions for them.For massless fermions $\psi_{L}$ and $\psi_{R}$ can be given different transformation properties under some symmetry i.e
+%
+\be  \bar{\psi}i \gamma^{\mu} \partial_{\mu} \psi  = \bar{\psi_{L}}i\gamma^{\mu} \partial_{\mu}\psi_{L}+\bar{\psi_{R}}i\gamma^{\mu}\partial_{\mu} \psi_{R}\ee
+
+Here 
+$\psi_{L}=\left( \begin{array}{c} u_{L}  \\ d_{L}   \end{array} \right) $ transforms as  $\mathrm{SU}(2)$ doublet and$ \psi_{R}$ transform seprately as $\mathrm{SU}(2)$ singlts.Note that here $u_{L}\equiv u_{L},c_{L},t_{L},\nu_{eL},\nu_{\mu L},\nu_{\tau L}$ ,$d_{L}\equiv d_{L},s_{L},b_{L},e_{L},\mu_{L},\tau_{L}$ 
+ and $ \psi_{R}\equiv u_{R},d_{R},s_{R},c_{R},t_{R},b_{R}$. Note that there are no right handed neutrions in this theory. 
+
+
+Mass term will break the symmetry if $\psi_{L}$ and $\psi_{R}$  have diffrent transformation properties i.e the term like 
+
+%
+\be-m\bar{\psi}\psi=-m\bar{\psi_{L}}\psi_{R}-m\bar{\psi_{R}}\psi_{L}\ee
+%
+is not gauge invariant. So we cannot add the mass term directly and preserve the gauge symmetry, we will come to this point after discussing higgs mechanism.We will add the mass term for fermions via Yukawa couplings of Higgs and fermions which will provide masses to the fermions.
+
+The gauge group of SM is
+%
+\be G_{electroweak} \equiv  \mathrm{SU}(2)_L \times \mathrm{U}(1)_Y\ee
+%
+If left handed fermions transform as  $\mathrm{SU}(2)$ doublet and right handed fermions transform as $\mathrm{SU}(2)$ singlet the typical 
+$  \mathrm{SU}(2)_L \times \mathrm{U}(1)_Y$ looks like
+ 
+
+\be U_{\psi} = \exp{ \left( \sum_{A=1}^{3} t_{L}^{A} ~\varepsilon _{L}^{A} +\frac{Y_{L}~ \varepsilon(x)}{2} \right )} \left (\frac{1-\gamma_{5}}{2} \right )\times \exp{ \left( \sum_{A=1}^{3} t_{R}^{A}~ \varepsilon _{R}^{A} +\frac{Y_{R} ~\varepsilon(x)}{2} \right)} \left (\frac{1-\gamma_{5}}{2} \right )\ee 
+
+After imposing $\mathrm{SU}(2)_L \times \mathrm{U}(1)_Y$ local gauge invariance
+\be
+{ \partial_{\mu}\psi \rightarrow D_{\mu}} \psi_{L,R} =\left (\partial_{\mu} + ig \sum_{A=1}^{3} t_{L,R}^A ~W_{\mu}^A + ig^{'}~ \frac{Y_{L,R}}{2} ~B_{\mu}\right) \psi_{L,R}
+\ee
+We have four vector bosons, three comes from three generators of 
+$\mathrm{SU}(2)$ and one from generator of $\mathrm{U}(1)$
+
+Adding the kintetic terms for these vector bosons the complete Yang-Mills lagrangian density  looks like
+\be \pounds_{YM}= -\frac{1}{4} \sum_{A=1}^{3} F_{\mu \nu}^{A}~ F^{A \mu \nu} - \frac{1}{4}B_{\mu \nu}~ B^{\mu \nu }+ \bar{\psi_{L}} i\gamma^{\mu} D_{\mu} \psi_{L} + \bar{\psi_{R}} i\gamma^{\mu} D_{\mu} \psi_{R} \ee 
+
+where
+\be F_{\mu \nu}^{A} = \partial_{\mu} W_{\nu}^{A} - \partial_{\nu} W_{\mu}^{A} -g \ \varepsilon_{ABC} ~W_{\mu}^{B}~ W_{\nu}^{C} \ee
+
+and 
+\be B_{\mu \nu} = \partial_{\mu} B_{\nu}- \partial_{\nu} B_{\mu} \ee
+
+Note that there is no mass term for the gauge bosons as well fermions in this lagrangian.So essentially all the aprticles are massless in the standard model.
+
+Now let us look for various interactions terms in the EW theory, rewrite $D_{\mu}$ as
+\be
+{ D_{\mu}} = \partial_{\mu} +ig \left[\frac{1}{\sqrt{2}}  t^{+} ~W_{\mu}^{-}  +\frac{1}{\sqrt{2}} t^{-} ~W_{\mu}^{+}\right] +i g~ t^{3}~ W_{\mu}^{3} +i \frac{1}{2}g^{'}~YB_{\mu}\ee
+
+here we have defined $t^{+}$ and $W^{+}$ as 
+
+\be t^{+} = t^{1} + i t^{2} \ee
+and 
+\be W^{+} =\frac{1}{\sqrt{2}}\left( W_{\mu}^{1} - i W_{\mu}^{2}\right) \ee
+
+
+The second term in eq(9) gives rise to the charged currents as
+\be g  \bar{\psi} \gamma^{\mu} ~\left [~ \frac{ t_{L}^{+} } {\sqrt{2} }\left (\frac {1- \gamma_{5} } {2} \right) + \frac{ t_{R}^{+} } {\sqrt{2} }\left (\frac {1+ \gamma_{5} } {2}\right ) ~\right]~\psi W_{\mu}^{-} +h.c\ee
+
+If we sovlve this equaiton for u and d specificaly the interaction terms look like
+
+\be -\frac{g}{2\sqrt{2}} \left(\bar u \gamma^{\mu} \frac{\left(1-\gamma_{5}\right)}{2} d~ W_{\mu}^{-} + \bar d \gamma^{\mu}\frac{\left(1-\gamma_{5}\right)}{2} u ~W_{\mu}^{+} \right) \ee
+
+We identify the coupling 
+$$g_{uwd}=\frac{g}{2 \sqrt{2}}$$
+Comparing this lw energy phenomenology of the ad hoc intermediate vector bosons, we have
+
+\be \frac{g^2}{8}=\frac{1}{\sqrt{2}}G_{F} M_{W}^{2}\ee
+
+and 
+$$g_{weak}=\sqrt{\frac{G_{F}M_{W}^{2}}{\sqrt{2}}} $$
+
+
+
+As we will see in the next section that the mass $M_{W}=gv/2$
+This implies that $v=\left(G_{F} \sqrt{2}\right)^{-1/2}= 246GeV$\\
+
+
+Now we introduce the weak mixing angle, of last two terms of eq(9),in nature we observe the mixed states of $W_{\mu}^{3}$ and $B_{\mu}$, these states are related to $W_{\mu}^{3}$ and $B_{\mu}$ by rotation of $\theta_{W}$, which we call as Weinberg angle or weak angle i.e
+
+\be W_{\mu}^{3} =  \cos{ \theta_{W}} ~ Z_{\mu} +\sin{ \theta_{W}} ~A_{\mu}\ee
+
+
+\be B_{\mu} = -\sin{ \theta_{W} }~ Z_{\mu} + \cos{ \theta_{W}}~ A_{\mu}  \ee
+
+now if $$ g^{'} \cos{\theta_{W}} =g~ \sin{\theta_{W}} =e~ $$
+
+
+
+ 
+Having all this the third and fourth term in the eq(9) give rise to the unchared currents.The interaction term of the fermions with the photon reads
+
+\be- e \bar{\psi} \gamma^{\mu}~\left [~ \left(t_{L}^{3} +\frac{Y_{L}}{2} \right) \left(\frac {1- \gamma_{5} } {2}\right ) +\left  (t_{R}^{3} +\frac{Y_{R}}{2}\right ) \left(\frac {1+\gamma_{5} } {2}\right )~ \right]~ \psi A_{\mu}\ee
+or
+\be -e \bar{\psi} \gamma^{\mu} Q \psi A_{\mu}\ee
+
+
+here 
+\be Q=  \left (~T_{3\ L,R} +\frac{Y_{L,R}}{2}~\right) \ee \\
+
+With this we identify the electormagnatic coupling of fermions i.e
+
+$$g_{em}=eQ $$
+
+
+
+
+and the interaction term of the fermions with the $Z_{\mu}$ reads
+
+\be \frac{-g}{\cos{\theta_{W}}} ~ \bar{\psi} \gamma^{\mu}\left [ ~t_{L}^{+}~\left (\frac {1- \gamma_{5} } {2} \right) ~+  t_{R}^{+}~\left (\frac {1+ \gamma_{5} } {2}\right )-Q\sin^{2}{\theta_{W}} \right]\psi Z_{\mu} \ee \
+
+
+
+
+
+we can split this into V and AV couplings i.e
+
+\be \frac{-ig}{2\cos \theta_{W}} \bar \psi_{f} \gamma^{\mu} \left( C_{V}^{f}~-C_{A}^{f} \gamma_{5} \right ) \psi_{f} Z_{\mu}\ee
+
+Here $$C_{V}^{f}=t_{3}^{f}-2  Q^{f}\sin^{2} \theta_{W}$$
+and $$C_{A}^{f}=t_{3}^{f}$$ \
+
+so the coupling of the Z boson with fermions look like
+
+\be g_{Zff} =\frac{ig}{\cos \theta_{W} }\gamma^{\mu}\left(C_{V}^{f}-C_{A}^{f} \gamma_{5} \right )\ee \
+
+note that the second term of the eq(12) and eq(20) are zero, because $\psi_{R}$ is 
+$\mathrm{SU}(2)$ singlet so when $t_{R}^{+}$ acts on it, results zero. This means that the W and Z bosons dnonot interact with right handed componets of the fermionic fields.So parity violation is incorporated in our theoy by having left and right handed componets of the fermion fields different representations of $\mathrm{SU}(2)$.\\
+
+
+
+
+
+
+
+\textbf{ \underline{Mass problem and Higgs Mechanism}}: \\
+If we consider following complex scalar field lagrangian
+\be \pounds =\left (\partial_{\mu} \phi\right)^{+} \left (\partial^{\mu}\phi\right)-V(|\phi|) \ee
+
+This lagrangian is invariant under the global gauge transformations like
+\be \phi \rightarrow \phi'= \phi~ e^{iq\xi} \ee
+We can have two realizations of it depending upon the parameters of the potential. 
+
+Normal Phase : When $v=0$
+If we expamd the potential around the vaccum we have
+\be \pounds =\left (\partial_{\mu} \phi\right)^{+} \left (\partial^{\mu}\phi\right)-\mu^{2} |\phi|^{2}+...... \ee
+
+In this case we have nice complex K.G field or two real K.G fields, with same mass.
+
+Spontaniouslly Broken Phase:
+$ v \neq 0$
+
+In this case the minima of the theory is away from the origin so we can decompose the fileds into the form
+\be \phi(x) = \frac{1}{\sqrt{2}} \rho(x) e^{i \theta(x)} \ee
+
+But due the the global gauge symmetry we can rotate the field around the circle with a radius of $\rho$ . Consequently we have a ground state with infinte degeneracy. Note that in the mormal phase we could not rotate the field.
+
+if we put this decompostion in the lagrangian then we have 
+\be \pounds = \frac{1}{2} \left (\partial_{\mu} \rho\right)^{2}-\frac{1}{2} \rho^{2} \left (\partial_{\mu} \theta \right)^{2}  -V(\rho/ \sqrt{2}) \ee
+
+\be \mu^{2} =\frac{\partial^{2}}{\partial \rho^{2}} V(\rho / \sqrt{2})  |_{p=v} \ee
+ We see the field $\theta(x)$ has no mass term. This is obvious because potential does not have $\theta(x)$ in it.So in the radiaal direction which has curvature there is mass and in the angular direction which is flat due the symmetry, there is no mass. This we call the goldston Theorem.
+
+So this theorem says that if there is a symmerty and the ground state is not symmetric then there is a massless field associated with this  symmetry.
+
+Obviously for the Non-Abelian case we will more directions to rotate and we will have more number of massless partiicles.
+
+Now consider the case of Local Gauge symmetry.
+
+Suppose we have a lagrangian which is locally gauge invariant under some $U(1)$ transformation
+\be \pounds =\left |(\partial_{\mu} -iq A_{\mu}\right)|^{2} \phi-V(|\phi|)-\frac{1}{4} F_{\mu \nu}^{2}(A)\ee
+
+Similary here for v=0, this is ordinary QED lagrangian but for $v \neq 0 $ we have a spontanious breaking phase.
+
+under local gauge transformation 
+\be \phi \rightarrow \phi'= \phi~ e^{iq\xi(x)} \ee
+the $\rho, \theta and A_{\mu}$ transfrom as following
+
+$$\rho(x) \rightarrow \rho(x)$$
+$$\theta(x) \rightarrow \theta(x)+ q \xi(x)$$
+$$A_{\mu} \rightarrow A_{\mu}+ \partial_{\mu} \xi(x)$$
+
+
+As for the previous case if we decompose the filed into radial ande angular parts
+
+then lagrangian becomes 
+
+\be \pounds = \frac{1}{2}\left (\partial_{\mu} \rho \right)^{2} -\frac{1}{2} q^{2} \rho^{2} B_{\mu}^{2}-V(\rho/ \sqrt{2})-\frac{1}{4} F_{\mu \nu}^{2}(B)\ee
+
+Note that the field $\theta(x)$ has totally disappeared from the theory!
+
+But this should not be surprise because the only filed which transform under the gauge transformations is $\theta(x)$ and we can always chose a guage such that $\theta $ becomes zero. So due to local gaue invariance this field manifestly should not be there, no surprise. 
+
+One more point to note is that the gauge field has now aquired mass equal to $qv$.
+
+
+
+So we discussed the symmetry properties and interactions of verious kinds in the electoweak theory. Also we could not add mass term because it does not respect the gauge invariance. In order to give masses to the vector bosons and fermions, Peter Higgs introduced a mechansim, in this we add a new lagragian to the Yang-Mills lagrangian. This new lagrangian is gauge invariant except at the ground state i.e the ground state does not gauge invariant. We say the the symmetry is spontaniosly broken.The simplest choice is to introduce a complex scalar doublet field to the Yang-Mills lagrangian.
+
+\be \pounds_{Higgs} =\left (D_{\mu} \phi\right)^{+} \left (D^{\mu}\phi\right)- \mu^{2} \phi^{+} \phi - \lambda \left(\phi^{+} \phi\right)^{2} \ee
+\hskip50pt
+
+%\begin{figure}[h!]
+%\begin{center}
+%\epsfxsize10cm\epsffile{symbreaking.eps}
+ %\caption{$\mu^2 < 0$(left case),  $\mu^2 > 0$(Right case)}
+%\end{center}
+%\end{figure}
+
+\begin{figure}
+\begin{center}
+\includegraphics[width=3in,height=2in]{as.png}
+\end{center}
+\end{figure}
+
+In the figure we plot the field potential for a complex scalar
+field as the height of surface above the $\phi$ plane. We see that
+for $\mu^{2}<0$ the potential minimum is at $<\phi> \neq 0$. A
+proper field theory must then expand around one of these minima
+and not $\phi=0$  which is a maxima.  If $\mathrm{U}(1)$ is global there
+would be massless scalar boson (Goldstone Theorem).  
+
+\be v^{2}=\frac{-\mu^{2}}{\lambda}\ee
+However when $\mathrm{U}(1)$ is a local symmetry the associated gauge bosons become massive(Higgs Mechanism).In Standard Model case for $\mu^2 < 0$,the original symmetry $\mathrm{SU}(2)_L \times \mathrm{U}(1)_Y$ is broken down to a
+$\mathrm{U}(1)_{em}$ symmetry generated by $Q_{em}$ i.e. $\mathrm{U}(1)_Q$ by the vev 
+
+\be\left<0|\Phi|0\right> = \pmatrix {0 \cr \frac{\upsilon}{\sqrt{2}} \cr} \ee
+
+\be \Phi =\left<0|\Phi|0\right> = \pmatrix {0 \cr
+                   \frac{\upsilon+H}{\sqrt{2}} \cr} \ee\\
+Here H is the Higgs field that gives all other particles a mass.
+Every particle in our universe swims through this Higgs field.
+Through this interaction every particle gets its mass. Different
+particles interact with the Higgs field with different strengths,
+hence some particles are heavier (have a larger mass) than others.
+(Some particles like photon have no mass. They don't interact with
+the
+Higgs field; they don't feel the field.) \\
+
+
+
+
+\textbf{\underline{Couplings of Higgs within SM and masses of the vector bosons}}\\
+
+After introducing higgs mechanism the complte lagrangian of the EW theory looks like, 
+\bea \pounds_{SM}&=& \pounds_{YM} +\pounds_{Higgs} +\pounds_{Yukawa} \eea 
+here $\pounds_{YM}$ is Yang-Mills part which we discused in the first section and $\pounds_{Higgs}$ is the higgs lagrangian we discussed in the previous section and $\pounds_{Yukawa} $ is the Yukawa interaction term of the higgs with ferminos, basicaly this term is responsible to to give rise to mass of the all fermions and intercations of the higgs with fermions.
+
+
+\be \pounds_{Higgs} =\left (D_{\mu} \phi\right)^{+} \left (D^{\mu}\phi\right)- \mu^{2} \phi^{+} \phi - \lambda \left(\phi^{+} \phi\right)^{2} \ee
+\hskip50pt
+
+as covariant derivative ${ D_{\mu}}$ of the eq(5) can be rewritten in the matrix form as
+
+
+\be
+{D_{\mu}} =\left( \begin{array}{cc} \partial_{\mu} +\frac{ig~Z_{\mu}}{2\cos \theta_{w}} & \frac{ig~ W_{\mu}^{+}}{\sqrt{2}} \\ \frac{i g ~W_{\mu}^{-}}{\sqrt{2} }~ &~ \partial_{\mu}-\frac{ig~Z_{\mu}}{2\cos\theta_{w}}  \end{array} \right) 
+\ee
+
+We know from higgs mechanims that
+
+\be \Phi = \pmatrix {\Phi^{+}\cr
+                   \Phi^0 \cr}  \> \> and  \> \>  \left<0|\Phi|0\right> = \pmatrix {0 \cr
+                   \frac{\upsilon+H}{\sqrt{2}} \cr} \ee\\
+with this eqn(22) becomes
+
+\begin{IEEEeqnarray}{rCl}
+\pounds_{Higgs} &=& \frac{1}{2}(\partial_{\mu}H)^{2}~ -\lambda v^{2} H^{2} ~-\lambda v H^{3} ~-\frac{\lambda}{4}H^{4}~+  \frac{g^{2}v^{2}}{4}W_{\mu}^{-} W^{+ \mu}+ \frac{g^{2}v^{2}}{\cos^{2}\theta_{w}} Z_{\mu} Z^{\mu}   
+\nonumber\\                   
+&=& A_{\mu} A^{\mu}+\frac{g^{2}v}{2} W_{\mu}^{-}W^{\mu +} H~+\frac{g^{2}v}{4 \cos^{2} \theta_{W}} Z_{\mu} Z^{\mu} H+ \frac{g^{2}}{4} W_{\mu}^{-} W^{\mu +} H^{2} + \frac{g^{2}}{8 \cos^{2} \theta_{W}} Z_{\mu} Z^{\mu } H^{2} ~~~~~~
+\end{IEEEeqnarray}
+
+We identify masses of the higgs and vcetor bosons are
+
+%
+\begin{IEEEeqnarray}{rCl}
+M_{H} &=& \sqrt{ 2\lambda} v 
+\nonumber\\
+M_{A} &=&  0 
+\nonumber\\
+M_{W} &=&  \frac{gv}{2}
+\nonumber\\
+M_{Z} &=& \frac{gv}{2\cos\theta_{w}}F\IEEEyesnumber
+\end{IEEEeqnarray}
+%
+
+and the coupling of the higgs with the vector bosons and with itself are
+
+%
+\begin{IEEEeqnarray}{rCl}
+g_{HHH}&=&3 \frac{M_{H}^{2}}{v} 
+\nonumber\\
+g_{HHHH} &=& 3 \frac{M_{H}^{2}}{v^{2}}
+\nonumber\\
+g_{HVV} &=& \frac{2M_{V}^{2}}{v}
+\nonumber\\
+g_{HHVV} &=&  \frac{2M_{V}^{2}}{v^2}
+\IEEEyesnumber
+\end{IEEEeqnarray}
+%
+
+Finally the Yukawa interaction term look like
+
+\be \pounds_{~Yukawa} ~= ~-\lambda_{1}~ \bar{\psi_{L}} ~\phi ~\psi_{R}  -\lambda_{2} ~\bar{\psi_{R}} ~\tilde{\phi} ~\psi_{L}\ee
+
+ 
+This contains masse of the fermions as well as couplings of the higgs to fermions,where$ \lambda_{1} $and $\lambda_{2}$ are the two new parameters, which are not fixed by theory itself.
+
+
+%
+\begin{IEEEeqnarray}{rCl}
+m_{u} &=&\frac{\lambda_{2} v}{\sqrt{2}}
+\nonumber\\
+m_{d} &=&  \frac{\lambda_{1} v}{\sqrt{2}}
+\nonumber\\
+g_{hff} &=& \frac{m_{f}}{v} 
+\IEEEyesnumber
+\end{IEEEeqnarray}
+%
+
+\textbf{\underline{Partonic Cross Sections}}
+
+
+
+
+\textbf{\underline{$q \bar{q} \rightarrow W^{*} \rightarrow WH$}~~:}
+We calculated the LO cross section for production of the Higgs in assocoated production with vector bosons, this process ocurres via weak interactions.The matrix element for this process is 
+
+%
+\bea
+|M| &=& \frac{g_{W}^{2} {M_{W}}}{2 \sqrt{2} \left[\hat{s^{2}}-M_{W}^{2} \right ]} \left[ \bar{v}(4) \gamma^{\mu} (1- \gamma^{5}) u(1) \right] g_{\mu \nu} \epsilon_{\alpha}^{*}(3) g^{\alpha \nu} 
+\eea
+%
+
+In the actual cross section its the square of the matrix element which apperas. So after squaring and summing over the final states and averaging over the initial states we obtain
+\begin{IEEEeqnarray}{rCl}
+\sum_{spin, pol}|M|^{2} & = & \frac{g_{W}^{4} {M_{W}^{2}}}{32 \left[\hat{s^{2}}-M_{W}^{2} \right ]^{2}}  \sum_{spin}  \left[ \bar{v}(4) \gamma_{\nu} (1- \gamma^{5}) u(1) \right]  \left[ \bar{v}(4) \gamma_{\mu}(1- \gamma^{5}) u(1) \right]^{*}  \sum_{pol} \epsilon^{* \mu }(3) \epsilon^{\nu }(3) 
+\nonumber\\
+& = & \frac{g_{W}^{4} {M_{W}^{2}}}{32 \left[\hat{s^{2}}-M_{W}^{2} \right ]^{2}} Tr\left[ \gamma_{\nu} (1-\gamma^{5}) (\slashed{p_{1}}+m_{1})\gamma_{\mu} (1-\gamma^{5})(\slashed{p_{4}}-m_{4}) \right ] \left(-g^{\nu \mu} +\frac{p_{3}^{\mu} p_{3}^{\nu}}{M_{W}^{2}} \right )
+\nonumber\\
+& = & \frac{g_{W}^{4} {M_{W}^{2}}}{4 \left[\hat{s^{2}}-M_{W}^{2} \right ]^{2}}  \left [p_{1 \nu} p_{4 \mu} + p_{1 \mu} p_{4 \nu} -(p_{1}.p_{4}) g_{\nu \mu} -8 i \epsilon_{\nu \mu \lambda \sigma } p_{1}^{ \lambda } p_{4}^{ \sigma} \right]\left(-g^{\nu \mu} +\frac{p_{3}^{\mu} p_{3}^{\nu}}{M_{W}^{2}} \right )
+\nonumber\\
+& = & \frac{g_{W}^{4} {M_{W}^{2}}}{4 \left[\hat{s^{2}}-M_{W}^{2} \right ]^{2}} \left [(p_{1}.p_{4}) + \frac{2(p_{1}.p_{3})(p_{4}.p_{3})}{M^{2}} \right]
+\IEEEyesnumber
+\end{IEEEeqnarray}
+
+
+
+
+
+Differential cross section can be written as 
+
+\begin{IEEEeqnarray}{rCl}
+\left(\frac{d\sigma}{d\Omega}\right)_{q \bar{q}\rightarrow WH} & = &  \frac{1}{64 \pi^{2}} \frac{S |M|^{2}}{\hat{s}} \frac{|p_{f}|}{|p_{i}|}
+\nonumber\\
+& = & \frac{1}{64\hat{s} \pi^{2}}  \frac{|p_{f}|}{|p_{i}|} \frac{g_{W}^{4} {M_{W}^{2}}}{4 \left[\hat{s^{2}}-M_{W}^{2} \right ]^{2}} \left [(p_{1}.p_{4}) + \frac{2(p_{1}.p_{3})(p_{4}.p_{3})}{M^{2}} \right]
+~~~~\IEEEyesnumber
+\end{IEEEeqnarray}
+
+We have ignored the quarks masses and in comparison to the momenta we also ignored the mass of Higgs and the vectors boson in the final state. Further assume that the H and W do not fly of the x-z plane, $\theta$ is the angle made my vector boson with Z-axis in CMS.In the CMS of two partons the various four vectors are
+\begin{IEEEeqnarray}{rCl}
+p_{1} & = &  (\sqrt{\hat{s}}/2,0,0,\sqrt{\hat{s}}/2)
+\nonumber\\
+ p_{4} & = & (\sqrt{\hat{s}}/2,0,0,-\sqrt{\hat{s}}/2)
+\nonumber\\
+ p_{3} & = & (p_{f},~p_{f} \sin{\theta},0,~p_{f} \cos{\theta})
+\nonumber\\
+ p_{2} & = &(p_{f},-p_{f} \sin{\theta},~0~,-p_{f} \cos{\theta})
+~~~~\IEEEyesnumber
+\end{IEEEeqnarray}
+
+with this information 
+
+\be \left(\frac{d\hat{\sigma}}{d\Omega}\right)_{q \bar{q}\rightarrow WH}= \frac{1}{8 \pi^{2} } \frac{ G_{F}^{2} M_{W}^{4}}{\left[\hat{s^{2}}-M_{W}^{2} \right ]^{2}} \frac {|p_{f}|} { \sqrt{\hat{s}}  } \left(  3M_{W}^{2} + p_{f}^{2} \sin^{2}{\theta}   \right)
+\ee
+
+on integration over $\theta$ and $\phi$ we get
+
+\be \hat{\sigma}_{q \bar{q}\rightarrow WH} = \frac{(G_{F} M_{W}^{2})^{2}}{3\pi} \frac{|p_{f}|}{\sqrt{\hat{s}}} \frac{3M_{W}^{2}+p_{f}^{2}}{\left[\hat{s^{2}}-M_{W}^{2} \right ]^{2}}  
+\ee
+
+
+
+\textbf{\underline{Decay widths}}\\
+
+We calculated the decay widths for the various decay channels. 
+
+
+\textbf{\underline{$H \rightarrow WW $}~~:}
+
+For this process the matrix element is given by
+\be|M|=-ig_{W}M_{W} g_{\mu \nu} \epsilon^{\mu}(2) \epsilon^{\nu}(3)\ee
+
+
+but in the actual fromula of decay width its the square of the matrix element which apperas, after suming over the polarizations of the vector bosons we obtain
+\begin{IEEEeqnarray}{rCl} |M|^{2} & = &g_{W}^{2}M_{W}^{2} g_{\mu \nu} g_{\alpha \beta} \epsilon^{\mu}(2) \epsilon^{\alpha}(2) \epsilon^{\nu}(3)\epsilon^{\beta}(3)
+\nonumber\\
+& =& g_{W}^{2}M_{W}^{2} \sum_{pol=1,2,3} \epsilon_{\nu}(2) \epsilon_{\beta}(2)\sum_{pol=1,2,3} \epsilon^{\nu}(3)\epsilon^{\beta}(3)
+\nonumber\\
+&= &g_{W}^{2}M_{W}^{2} \left(-g_{\nu \beta} + \frac{p_{2\nu} p_{2\beta}}{M_{W}^{2}} \right) \left(-g^{\nu \beta} + \frac{p^{2\nu} p^{2\beta}}{M_{W}^{2}} \right) 
+\nonumber\\
+&=& g_{W}^{2}M_{W}^{2} \left( 2+ \frac{(p_{3}.p_{2})^{2}}{M_{W}^{4}} \right)~~~~\IEEEyesnumber
+\end{IEEEeqnarray}
+Kinematics of the problem : In CMS of Higgs
+
+
+\begin{IEEEeqnarray}{rCl}
+p_{1} &=& (M_{H},0,0,0)
+\nonumber\\
+ p_{2} &=& (\sqrt{p_{f}^{2}+M_{W}^{2}},p_{f}\sin{\theta},0,p_{f} \cos{\theta})
+\nonumber\\
+ p_{3} &=& (\sqrt{p_{f}^{2}+M_{W}^{2}},-p_{f}\sin{\theta},0,-p_{f} \cos{\theta})
+\IEEEyesnumber
+\end{IEEEeqnarray}
+
+with this we have
+
+$$p_{f}=\frac{M_{H}}{2} \sqrt{1-4x}, ~~~~  x=\frac{M_{W}^{2}} {M_{H}^{2}}$$
+$$(p_{3}.p_{2})= \frac{M_{H}^{2}}{2} (1-2x)$$
+
+so 
+
+\be \sum_{pol}|M|^{2}=\frac{g^{2}M_{H}^{4}}{4M_{W}^{2}} (12x^{2}-4x+1)   \ee
+
+now the total decay width is
+
+\begin{IEEEeqnarray}{rCl}
+\Gamma_{H \rightarrow WW} &=& \frac{S|p_{f}|}{8 \pi  M_{H}^{2}} |M|^{2}
+\nonumber\\
+ &=& \frac{G_{F}M_{H}^{3}}{8\sqrt{2}\pi } \sqrt{1-4x} (12x^{2}-4x+1)
+\IEEEyesnumber
+\end{IEEEeqnarray}
+
+
+
+\textbf{\underline{$ H \rightarrow f \bar{f} $}~~:}
+
+
+
+For this processes the matrix element is given by
+\be M=g_{Hff} \left [\bar{u}(2) \bar{v}(3)\right] \ee
+
+Again squaring this equation and summing over the final spin states we obtain
+\begin{IEEEeqnarray}{rCl}
+\sum_{spin}|M|^{2} &=& g_{Hff}^{2} \sum_{spin}\left [\bar{u}(2) \bar{v}(3)\right]  \left [\bar{u}(2) \bar{v}(3)\right]^{*} 
+\nonumber\\
+&=& g_{Hff}^{2}Tr\left[ (\slashed {p_{3}}  -m ) (\slashed{p_{2}} +m )\right]
+\nonumber\\
+&=& 4 g_{Hff}^{2}(p_{2}.p_{3}-m^{2})
+\IEEEyesnumber
+\end{IEEEeqnarray}
+
+
+\begin{IEEEeqnarray}{rCl}
+\Gamma_{H \rightarrow f \bar{f}} &=& \frac{S|p_{f}|}{8 \pi  M_{H}^{2}} |M|^{2}$$
+\nonumber\\
+&=& \frac{g_{Hff}^{2}|p_{f}|}{2\pi  M_{H}^{2}} [(p_{2}.p_{3})-m^{2}]
+\IEEEyesnumber
+\end{IEEEeqnarray}
+
+Kinematics of the problem : In CMS of Higgs
+
+\begin{IEEEeqnarray}{rCl}
+p_{1} &=& (M_{H},0,0,0)
+\nonumber\\
+ p_{2} &=& (\sqrt{p_{f}^{2}+M_{W}^{2}},p_{f}\sin{\theta},0,p_{f} \cos{\theta})
+\nonumber\\
+ p_{3} &=& (\sqrt{p_{f}^{2}+M_{W}^{2}},-p_{f}\sin{\theta},0,-p_{f} \cos{\theta})
+\IEEEyesnumber
+\end{IEEEeqnarray}
+
+with this we have
+
+$$p_{f}=\frac{M_{H}}{2} \sqrt{1-4x}, ~~~~  x=\frac{M_{f}^{2}} {M_{H}^{2}}$$
+$$(p_{3}.p_{2})= \frac{M_{H}^{2}}{2} (1-2x)$$
+
+so 
+
+
+
+\be \Gamma_{H \rightarrow f \bar{f}}= \frac{G_{F}N_{c}M_{H}m_{f}^{2}}{4 \sqrt{2}\pi^{2}}\left( 1- \frac{4m_{f}^{2}}{M_{H}^{2}}\right)^{3/2} \ee
+
+
+
+\begin{table}[ht]
+\caption{Couplings Involved In various Processes} % title of Table
+\centering  % used for centering table
+\begin{tabular}{c c} % centered columns (2 columns)
+\hline\hline                        %inserts double horizontal lines
+Final State & Couplings of Higgs\\ [0.5ex] % inserts table 
+%heading
+\hline                  % inserts single horizontal line
+$\gamma \gamma$ &  $g_{tth}, g_{wwh}, g_{zzh}$    \\ % inserting body of the table
+$WW$& $g_{tth}, g_{wwh}, g_{zzh}$  \\
+$ZZ$ &  $g_{tth}, g_{wwh}, g_{zzh}$  \\
+$\tau \tau $ &  $g_{tth}, g_{wwh}, g_{zzh},g_{\tau \tau h}$ \\
+$b \bar b$ & $g_{tth}, g_{wwh}, g_{zzh},g_{b \bar b h}$  \\ [1ex]      % [1ex] adds vertical space
+\hline %inserts single line
+\end{tabular}
+\label{table:nonlin} % is used to refer this table in the text
+\end{table}
+
+
+
+
+
+
+
+
+
+
+
+\end{document}

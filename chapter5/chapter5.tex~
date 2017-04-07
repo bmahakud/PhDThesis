@@ -1,0 +1,142 @@
+%\setcounter{section}{0}
+%\setcounter{subsection}{0}
+%\setcounter{subsubsection}{0}
+%\setcounter{equation}{0}
+%\pagenumbering{arabic} 
+%\setcounter{page}{0}    %%%%%KKD used \setcounter{page}{0}  
+%\oddsidemargin 0.9 cm 
+%\evensidemargin -.4 cm
+%\setlength{\textwidth}{152.4 mm}
+\chapter{Statistical Procedures for Search  \label{Statistical Procedures for Search}}
+
+In this chapter we discuss the general statistical procedures for interpreting data toward calculations of the upper limits and significances. We will also describe how nuisance parameters are treated while extracting the upper limits. The concepts we will be discussing here will be used both in the SUSY and LQ analysis.
+
+Both Bayesian and frequentist methods are used to calculate upper limits in CMS. We shall focus on  frequentist approach as we have used that method in our analysises. These methods allow one toquantify the level of incompatibility of the data with the signal hypothesis, which is expressed in terms of  confidence level (CL). It is common to require 95\% CL for excluding a signal, however this is a convention.
+
+We denote $s$ as the signal yield for a given analysis and  $b$ is the background yield. We also name $\mu$ to be the signal strength, defined as the $\mu =s_{0}/s$ where $s_{0}$ is the signal yield after scaled by $\mu$. Both predicted signal and background yields, prior to the scrutiny of the observed data entering the statistical analysis, are subject to multiple uncertainties that are handled
+by introducing nuisance parameters $\theta$, so that signal and background expectations become
+functions of the these parameters: $s(\theta)$ and $b(\theta)$.
+
+All sources of uncertainties are taken to be either 100\%-correlated (positively or nega-
+tively) or uncorrelated (independent).  Partially correlated errors are either broken down
+to  sub-components  that  can  be  said  to  be  either  100\%  correlated  or  uncorrelated,  or
+declared  to  be  100\%  or  0\%  correlated,  whichever  is  believed  to  be  appropriate  or  more
+conservative.   This  allows  us  to  include  all  constraints  in  the  likelihood  functions  in  a
+clean factorised form.
+
+
+
+
+
+\section{ Observed Limits}
+
+To calculate observed limits we use a test statistic that is widely known as the LHC test statistic. In the following we will construct the test statistic by defining few things . Let's first construct a likelihood function 
+
+\begin{align}
+\it L(data | \mu, \theta) & = \rm Poisson[data | \mu.{\it s}(\theta)+{\it b}(\theta)].p(\tilde{\theta}|\theta) 
+\label{eq:likelihood1}
+\end{align}
+
+
+where data represents either the actual experimental observation or pseudodata used to construct sampling distributions. Here, $\theta$ represents all the nuisance parameters associated. Poisson[data $| \mu \cdot s+ b$ ] stands for a product of poisson probabilities to observe $n_{i}$ events in bin $i$:
+
+
+\begin{align}
+\prod_{i}  \frac{(\mu \cdot s_{i} + b_{i})^{n_{i}}.e^{-\mu s_{i} - b_{i}} }{n_{i}!}
+\label{eq:likelihood2}
+\end{align}
+
+
+To compare the compatibility of the data with the background-only and signal-plus-background hypothesis, where signal is allowed to be scaled by some factor $\mu$, we construct the test statistic: 
+
+
+\begin{align}
+\tilde{q_{\mu}} & = -2\ln \frac{L({\rm data} | \mu, \hat{\theta}_{\mu})}{L({\rm data} | \hat{\mu}, \hat{\theta})} 
+\label{eq:TSLimit}
+\end{align}
+
+
+
+ with a constraint $ 0 \leq \hat{\mu} \leq \mu$. Here, $\hat{\theta}_{\mu}$ refers to the conditional maximum likelihood estimators of $\theta$, given  the signal strength parameter $\mu$ and data that, as before, may refer to the actual experimental observation or pseudodata. The pair of parameter estimators $\hat{\mu}$ and $\hat{\theta}$ corresponds to the global maximum of the likelihood. The lower constraint is guided by physics(signal rate should be positive ), while the upper constraint is imposed by hand to guarantee a one-sided confidence interval. Physics wise, this means upward fluctuations of the data such that $\hat{\mu} > \mu$ are not considered as evidence against the signal hypothesis. 
+
+
+\begin{itemize}
+\item Once we define the test statistic , then the observed value of the test statistic $\tilde{q_{\mu}}^{obs}$ is found. 
+
+
+\item Next step is to find the values  of  the  nuisance  parameters best  describing  the observed data (i.e.  maximising the likelihood as given before), for the background-only and signal-plus-background hypothesis, respectively.
+
+
+\item Then the probability distributions of test statistic is generated using toy data for both signal-plus-background  and background  hypothesis. Lets denote those as $f(\tilde{q_{\mu}} | \mu, \hat{\theta_{\mu}^{obs}})$ and $f(\tilde{q_{\mu}} | 0, \hat{\theta_{\mu}^{obs}})$ respectively.
+
+ 
+\item After getting the test statistic distributions we obtain two p-values associated with the two hypothesis as 
+
+\begin{align}
+p_{\mu} & = P(\tilde{q_{\mu}} \geq \tilde{q}_{\mu}^{\rm obs} | {\rm signal+background}) = \int_{\tilde{q_{\mu}^{\rm obs}}}^{\infty} f(\tilde{q}_{\mu} | \mu, \hat{\theta}_{\mu}^{\rm obs}) d\tilde{q}_{\mu}
+\label{eq:pvaluesplusb}
+\end{align}
+
+and 
+
+\begin{align}
+1 - p_{b} & = P(\tilde{q_{\mu}} \geq \tilde{q}_{\mu}^{\rm obs} | {\rm background}) = \int_{\tilde{q_{0}^{\rm obs}}}^{\infty} f(\tilde{q}_{\mu} | 0, \hat{\theta}_{0}^{\rm obs}) d\tilde{q}_{\mu}
+\label{eq:pvalueb}
+\end{align}
+
+\item Then we calculate $CL_{s}$ as the ratio of these two probabilities i.e. 
+
+\begin{align}
+CL_{s}(\mu) & = \frac{p_{\mu}}{1 - p_{b}}
+\label{eq:CLs}
+\end{align}
+
+\item To quote the 95\%  CL  upper  limit  on $\mu$,  denoted  as $\mu^{95\%CL}$, we adjust until we reach $CL_{s}$= 0.05.
+
+\end{itemize}
+
+
+\section{Expected Limits }
+
+A most straightforward way for defining the expected median upper-limit and $\pm 1 \sigma$ and $\pm 2 \sigma$  bands for the
+background-only hypothesis is to generate a large set of background only pseudodata and calculate $CL_{s}$ and  $\mu^{95\%CL}$ for all of them as if they were real data. One can then build a cumulative probability distribution of results by starting integration from the side corresponding to low event yield
+The point at which the cumulative probability distribution crosses the quantile of 50\% is the median expected value. The $\pm 1 \sigma$ (68\%) band is defined by the crossings of the 16\% and the 84\% quantiles. Crossings at 2.5\% and 97.5\% define the $\pm 2 \sigma$ (95\%) band. 
+
+
+
+\section{Significance }
+
+The presence of a signal is quantified by the background-only p-value, i.e. the probability for background to fluctuate and give an excess of events as large or larger than the observed one. The test statistic used to get the p-value for this purpose, is slightly different one and is defined as 
+
+\begin{align}
+\tilde{q_{0}} & = -2\ln \frac{L({\rm data} | 0, \hat{\theta}_{0})}{L({\rm data} | \hat{\mu}, \hat{\theta})} 
+\label{eq:TSSignificance}
+\end{align}
+
+with a constraint $\hat{\mu} \geq 0$. The p-value is obtained by 
+
+ 
+\begin{align}
+p_{0} & = P(q_{0} \geq q_{0}^{\rm obs} | {\rm background}) = \int_{q_{0}^{\rm obs}}^{\infty} f(q_{0} | 0, \hat{\theta}_{0}^{\rm obs}) d\tilde{q}_{0}
+\label{eq:pvalueSig}
+\end{align}
+
+
+To convert the p-value to significance Z, we use a normal gaussian function as: 
+
+
+\begin{align}
+p & = \int_{Z}^{\infty} \frac{1}{\sqrt{2\pi}} e^{\frac{x^{2}}{2}} dx
+\label{eq:Significance}
+\end{align}
+
+The basic principles of approach are what we discussed here. Details of how systematics are treated will be discussed in the respective analysis section.
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,131 @@
+
+\subsection{Experimental Verification of the SM}
+During the last forty years or so, the SM has been tremendously successful in explaining all the observed phenomena~\cite{collider-physics}. In the process of evolution, it has also predicted many new particles and phenomena. Most of the particles predicted by the SM have been discovered and the unknown processes have been measured precisely. Among the discoveries, the W and Z boson at UA1 and UA2 experiments at SPS, CERN in 1983 \cite {u1-collaboration1, u1-collaboration2, u2-collaboration1, u2-collaboration2}, the discovery of the top quark by Tevatron experiments at Fermilab in 1995 \cite{cdf-collab, do-collab}, and the discovery of a Higgs-like boson in 2012 by the ATLAS \cite{atlas-higgs} and CMS \cite {cms-higgs} experiments at LHC, CERN are the important milestones in particle physics. The mass of gauge bosons and their decay width were precisely measured by the LEP, SLC and Tevatron experiments. The masses of fermions and quark  mixing angles have also been determined experimentally. The Higgs boson is the key ingredient of the SM as it gives mass to all elementary particles. The recently discovered boson having its mass $\sim 125$ GeV by CMS and ATLAS experiments seems to be consistent with the Higgs boson. The latest measured values of SM parameters can be found in Ref.\cite {pdg}. 
+
+
+\subsection{The SM Higgs Boson}
+The introduction of a complex scalar field into the SM in order to generate masses for the SM particles results in a new massive scalar boson, the Higgs boson. Many searches have been performed since it was first proposed in 1960's. The discovery of a particle of mass at $\sim 125$ GeV by the ATLAS and CMS experiments gave strong evidence as to the nature of electroweak symmetry breaking.
+
+The mass of the SM Higgs boson, $m_{H}$, is not a predicted quantity in the SM but rather a function of the self-coupling parameters $\lambda$ and $v$. The latter is determined experimentally to be $v$ = 246 GeV by precisely measuring the rate of muon decay. However, as $\lambda$ is unconstrained, a large range in $m_H$ remains theoretically acceptable for $m_H$.
+\subsection{Constraints and Previous Searches}
+Several theoretical considerations constrain the mass of the SM Higgs boson. The desire to avoid the need for non-perturbative calculations for electroweak processes at high energies constrains the SM Higgs boson mass to be less than around 770 GeV. Conversely, if $m_H$ is too small, then the Higgs potential of Eq. (2.2) contains a global minimum at large values of the scalar field $\phi$. New physics beyond the SM would be required so that this global minimum corresponds to the observed vacuum with $v = 246$ GeV.% This places a loose lower bound on the SM Higgs boson with mass of 114.4 GeV by LEP\cite{lep-higgs}.
+\subsection{Direct Searches}
+The first direct constraints on the Higgs boson at higher masses were provided by the four experiments operating at the Large Electron Positron (LEP) collider \cite{lep-higgs}. By steadily increasing the centre of mass energy of its collisions, LEP was able to exclude $m_H$ up to 114.4 GeV at $95\%$ confidence level. Prior to the LHC run, the CDF and D0 experiments at the Tevatron collider of Fermilab, provided additional limits on the mass of the Higgs boson through direct searches in proton-antiproton collisions. The centre of mass energy available in these collisions, $\sqrt s = 1.96$ TeV, provided sensitivity to a Higgs boson mass between 90 and 190 GeV. Due priority was accorded by the Tevatron experiments to the $\rm H\rightarrow W^{+}W^{-}$ channel at high mass, and to $\rm H\rightarrow b\bar b$, with the associated production of a W or Z boson, at low mass. By the shutdown of the Tevatron in 2011, the two experiments had collected a combined dataset corresponding to a total integrated luminosity of 10 fb$^{-1}$. Figure~\ref{fig:confidence_level_combo} shows the $95\%$ confidence upper limits on the ratio of the excluded Higgs boson production cross section to that predicted by the SM as a function of $m_{H}$ obtained from this dataset \cite{tevnph-group}. Mass hypotheses in the ranges of $100\leq m_{H} \leq 119$ GeV and $141\leq m_{H} \leq 184$ GeV are excluded at $95\%$ confidence level.
+The dotted curve in Fig.~\ref{fig:confidence_level_combo} indicates the expected median exclusion assuming no SM Higgs boson exists while the solid curve indicates the observed exclusion obtained from the data. Wherever this curve falls below 1, a SM Higgs boson with that mass is excluded at the $95\%$ confidence level as indicated by the green bands. The other coloured bands indicate exclusion limits resulting from direct searches for the SM Higgs boson conducted by other experiments prior to June 2012. The plot is taken from Ref.\cite{tevnph-group}.
+\begin{figure}[htbt]
+    \centering
+   \includegraphics[width=12.0cm,height=8.5cm]{/home/bibhu/Desktop/AllFolders/ThesisWriting/PhDThesis/chapter2/figures2/DO_CDF_LHC.jpg}
+    \caption{ \small {The $95\%$ confidence upper limits on the ratio of Higgs boson production to the SM prediction as a function of $m_H$.}}
+    \label{fig:confidence_level_combo}
+\end{figure}
+\subsection{Precision Measurements}
+Collision data taken at the Tevatron are combined with precision measurements of electroweak observables performed by the LEP and SLD Collaboration (based at SLAC) to constrain the mass of the Higgs boson. Figure~\ref{fig:Delta chi-square} shows the relative $\chi^2$ from a fit to the data as a function of $m_H$ . The minimum of the curve is near 94 GeV with an experimental uncertainty of +29 and -24 GeV. The theoretical uncertainty is indicated by the blue band. The yellow bands indicate the excluded regions in $m_H$ provided by direct searches for the SM Higgs boson conducted at LEP and LHC by July 2012. The solid curve here is the nominal fit with theoretical uncertainties indicated in blue while the dashed curves indicate alternative theoretical prescriptions. %The yellow bands indicate the regions excluded at the $95\%$ confidence level from direct searches for the SM Higgs boson conducted at LEP and the LHC before July 2012.
+\begin{figure}[htbt]
+    \centering
+    \includegraphics[width=9.0cm,height=9cm]{/home/bibhu/Desktop/AllFolders/ThesisWriting/PhDThesis/chapter2/figures2/Lep_lhc_exclu.jpg}
+    \caption{\small {$\Delta \chi^2$ from a global fit to the combined data from CDF, D0, SLD and 
+LEP collaborations as a function of $m_H$ \cite {lep-group}.}}. 
+\label{fig:Delta chi-square}
+\end{figure}
+
+
+\subsection {The Higgs Boson Production Modes}
+At the LHC, protons collide at higher energies compared to that previously available at the Tevatron. The increased center-of-mass energy of proton-proton collisions enhances the rate at which the Higgs boson can be produced and thus improves the search sensitivity to higher masses. There are four major channels for Higgs production at LHC. The tree level diagrams for these channels are shown in Fig.~\ref{fig:higgs_production} and described in details below.
+\begin{figure}[htbt]
+    \centering
+    \includegraphics[width=14.0cm,height=10.5cm]{/home/bibhu/Desktop/AllFolders/ThesisWriting/PhDThesis/chapter2/figures2/higgs_production.pdf}
+    \caption{\small {The SM Higgs production modes at LHC: (a) gluon-gluon fusion (ggH); (b) vector boson fusion (VBF or qqH); (c) W and Z associated production (or Higgsstrahlung or VH); (d) $\rm t\bar t$ associated production (or $\rm t\bar tH$)}}  
+    \label{fig:higgs_production}
+\end{figure}
+\begin{enumerate}
+\item {\bf {Gluon-Gluon Fusion Process:}} The most dominant Higgs production mechanism at the LHC for all possible Higgs masses is the gluon-gluon fusion (ggH) process as shown in Fig.~\ref{fig:higgs_production} (a). In this process, gluons from each of the colliding protons fuse together to form a Higgs boson.
+\item {\bf {Vector Boson Fusion Process:}} Another important Higgs production process is the vector boson fusion (VBF or qqH) as shown in Fig.~\ref{fig:higgs_production} (b), where quarks from the protons radiate W or Z bosons that subsequently fuse to form the Higgs boson.  The interacting quarks in the VBF events also give rise to high-energy jets produced at small angles that can be detected and used to help to identify this type of events.
+\item {\bf {Associated Production along with W or Z boson:}} The associated production (VH) as shown in Fig.~\ref{fig:higgs_production} (c), where a vector boson, either a W or a Z, is produced together with the Higgs boson. Both VBF and VH processes have a better signal-to-background ratio compared to ggH but these occur less frequently.
+\item {\bf {Associated production via top quark:}} The least significant Higgs production mechanism is the production in association with top quark pair ($\rm t\bar t H$) as shown in Fig.~\ref{fig:higgs_production} (d). In this mode, the major background to the signal is the SM $\rm t\bar t H$ production.
+\end{enumerate} 
+\subsubsection{The Higgs Boson Production Cross Section}
+As described earlier, the most dominant Higgs production process at the LHC is the gluon-gluon-fusion (ggH) process over the whole mass range. The various production cross sections of the Higgs boson as a function of $\rm m_H$ at a typical LHC energy are shown in Fig.~\ref{fig:sm_higgs_production cross sections}.
+\begin{figure}[H]
+\centering
+\includegraphics[width=8.0cm,height=6.5cm]{/home/bibhu/Desktop/AllFolders/ThesisWriting/PhDThesis/chapter2/figures2/Higgs_XS_8TeV_lx.pdf}
+\caption{\small {Standard Model Higgs boson production cross sections at $\sqrt{s}$ = 8 TeV }}
+\label{fig:sm_higgs_production cross sections}
+\end{figure}
+
+The ggH process proceeds via a top quark triangular loop as shown in Fig.~\ref{fig:higgs_production} (a). The Next-to-leading order (NLO) QCD corrections are found to increase the cross section for this process by a factor of around 2. Next-to-next-to-leading order (NNLO) calculations are also available and show a further increase of about $10-30\%$. There is about $10-20\%$ uncertainty on the cross section of the Higgs boson from ggH mostly owing to parton density function (PDF) and it is shown by the blue band in Fig.~\ref{fig:sm_higgs_production cross sections}.
+
+The next dominant process is VBF process where the production cross section is nearly a factor of 10 smaller than the ggH production mode for most of the high mass regions. The cross sections of both ggH and VBF are comparable only for the very high mass regime ($\sim 1$ TeV). In the VBF process, both the leading order (LO) and next-to-leading order (NLO) cross sections are known with small uncertainties and higher order QCD corrections, with $\sim 10\%$ shown by the red band in Fig.~\ref{fig:sm_higgs_production cross sections}.
+
+The Higgs production cross section via the associate production mode is several orders of magnitude lower than the ggH and VBF production modes. The QCD corrections are quite large while the NLO calculation results in an increase of the cross section by a factor of 1.2-1.4 with respect to the LO value. There is about 20-25$\%$ uncertainty for this production mode. The last production mode is Higgs production with $\rm t\bar t$  pair where the cross section is about 100 times less than ggH.
+
+\subsection{The Higgs Boson Decay}
+The branching ratios of various Higgs decay channels as a function of $m_H$ are shown in Fig.~\ref{fig:higgs_decay}. According to the $m_H$ value, the Higgs decay processes are divided into the Low, Intermediate, and High mass region. In the low mass region (up to $\sim 130$ GeV), the Higgs boson decaying into fermions is the dominant one, especially the Higgs can decay via the $\rm H\rightarrow\rm b\bar b$ channel. In the intermediate mass region, the Higgs boson decays into vector boson pairs dominate. A peak in the $\rm H\rightarrow \rm W^{+}\rm W^{-}$ decay is visible around 160 GeV, where the production of two on-shell W bosons become possible and the production of a real $\rm ZZ$ pair is still not allowed. At high masses ($\sim 350$ GeV), the $t\bar t$ pair can also be produced. Indeed, the most promising decay channels for the Higgs discovery do not only depend on the corresponding branching ratios, but also on the capability of experimentally detecting the signal while rejecting backgrounds as optimally as possible.
+\begin{figure}[htbt]
+    \centering
+    \includegraphics[width=8.0cm,height=6.5cm]{/home/bibhu/Desktop/AllFolders/ThesisWriting/PhDThesis/chapter2/figures2/Higgs_BR_RECT.pdf}
+    \caption{\small {The branching ratios for the different Higgs decay channels as a function of $m_H$ \cite {lhc-cross-section, lhc-cross-section-working group}}} 
+    \label{fig:higgs_decay} 
+\end{figure}
+\subsubsection {Low Mass Region}
+The low mass Higgs regions lies in the mass range $m_H < 130$ GeV. There are three decay processes of interest in this regime.
+\begin{enumerate}
+\item {$\rm H\rightarrow \rm b\bar b$ : This channel has the highest branching ratio but the QCD background makes it extremely difficult to use this channel for the Higgs discovery. The only feasible search for the Higgs boson in this decay mode is its production in association with a vector boson, decaying leptonically. The latter final-state allows to discriminate signal events from the QCD background with two jets.}
+\item {$\rm H\rightarrow \tau \tau$ : This channel is quite promising for the Higgs discovery because of the large event rate expected in the SM compared to the other leptonic decay modes, and has a smaller background contribution compared to the $\rm b\bar b$ decay mode. The search on the $\rm H\rightarrow \tau \tau$ decay mode focuses on the VBF production channel because of its higher signal-to-background ratio. The most promising final state is the one with one $\tau$ decaying leptonically and the other into hadrons. The irreducible backgrounds to this process are the QCD and EW production of two $\tau$ leptons from Z or $\gamma^{\star}$ with associated jets.}
+\item {$\rm H\rightarrow \gamma \gamma$ : This channel has a much lower branching ratio but the two high energy photons constitute a clean signature with only very little backgrounds, mainly from $\rm q\bar q \rm \rightarrow\gamma\gamma$ and $\rm Z\rightarrow \rm e^{+}\rm e^{-}$. Assuming that the Higgs boson exists in this region, the mass can be measured with high precision using this decay channel.}
+\end{enumerate}
+\subsubsection{Intermediate Mass Region}
+In this mass range of from 130-180 GeV, the decay of Higgs boson into a pair of W and Z bosons are the main processes. The branching ratio of $\rm H\rightarrow W^{+}W^{-}$ is always higher than $\rm H\rightarrow ZZ$, particularly in the regions between $\rm 2m_{W}$ and $\rm 2m_{Z}$, where the Higgs boson can decay into two on-shell W bosons (with BR$\sim 1$) and cannot decay to two on-shell Z bosons. The following are the two best channels in this mass region.
+\begin{enumerate}
+\item {$\rm H\rightarrow W^{+}W^{-}\rightarrow 2\ell2\nu:$ This channel is the most promising channel because of very low background. However, due to the presence of neutrinos in the final states, it is impossible to reconstruct the Higgs mass with high precision.}
+\item {$\rm H\rightarrow ZZ \rightarrow 4\ell:$ This channel is also important in this region. Despite of its lower branching ratio, it is very important channel as it offers a clean experimental signature with a very high signal-to-background separation power. Furthermore, it allows to reconstruct the Higgs mass with a high precision. Therefore this channel has always played a major role for the Higgs discovery in this mass range.} %and is termed as the ``Golden channel''.}
+\end{enumerate}
+\subsubsection{High Mass Region}
+This region corresponds to the Higgs mass values above the $\rm 2m_{Z}$ threshold, $\rm m_{H} > 180$ GeV, where the Higgs boson can decay either into two real Z or W bosons. The  $\rm H\rightarrow \rm ZZ\rightarrow \rm 4\ell$ channel is called as the ``Golden Channel'' for the Higgs discovery.  In addition, the $\rm 2\ell2q$, $\rm 2\ell2\nu$ and $\rm 2\ell2\tau$ decay channels also become important in this mass range. The branching ratio of $\rm H\rightarrow \rm ZZ$ is lower than $\rm H\rightarrow \rm W^+W^-$, so $\rm H\rightarrow \rm W^+W^-\rightarrow \ell\nu q\bar q^{\prime}$  is the most important decay channel for the Higgs discovery. In this thesis, we have considered the search channel $\rm H\rightarrow \rm W^+W^- \rightarrow \rm \ell\nu q\bar q^{\prime}$, where two final state jets are highly boosted and eventually merged to form a single {\bf{fat jet (J)}}. The mass range considered in our search is $600 < m_{H} < 1000$ GeV. The detailed event selection, analysis procedure and limit extraction procedure are described in Chapter 6. 
+\subsection{The Higgs Decay Width}
+The total decay width of the Higgs boson is defined as the sum over all the possible decay channels. The total decay width is very narrow in the low mass range while the width becomes rapidly wider for masses larger than 130 GeV. At LHC, the low mass range is therefore is most challenging region because the total decay width is dominated by the detector resolution. In the high mass region, the total decay width comprises of ZZ and WW partial widths, given as:
+\begin{equation} 
+\Gamma\left(\rm H\rightarrow \rm W^{+}\rm W^{-}\right) = \frac {\rm g^2 m_H^3}{\rm 64\pi \rm m_W^2} \sqrt{\rm 1-\rm x_W}\left(1-\rm x_W +\frac {3}{4} \rm x_W^2 \right)
+\end{equation}
+and
+\begin{equation}
+\Gamma\left(\rm H\rightarrow \rm ZZ\right) = \frac {\rm g^2 \rm m_H^3}{128\rm \pi \rm m_Z^2} \sqrt{1-\rm x_Z}\left( 1-\rm x_Z +\frac {3}{4} \rm x_Z^2 \right)
+\end{equation} 
+where, 
+\begin{equation}
+\rm x_W = \frac {\rm 4m_W^2}{\rm m_H^2} , ~~~\rm and~~~ \rm x_Z = \frac {\rm 4m_Z^2}{\rm m_H^2}
+\end{equation}
+
+For the higher Higgs masses, the decay width is comparable to its mass since it is proportional to $m_H^3$. For $m_H \sim 1$ TeV, it has a total decay width of $\Gamma_H \sim 700$ GeV that results in a very broad resonant structure. The SM Higgs boson total decay width as a function of $m_H$ is shown in Fig.~ \ref{fig:higgs_decay_width}.
+\begin{figure}[htbt]
+  \centering
+    \includegraphics[width=9.0cm,height=8.0cm]{/home/bibhu/Desktop/AllFolders/ThesisWriting/PhDThesis/chapter2/figures2/YRHXS_BR_fig2.pdf}
+    \caption{\small {The SM Higgs boson total decay width as a function of $m_H$ \cite{lhc-cross-section-working group}}}  
+    \label{fig:higgs_decay_width} 
+\end{figure}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\section {Going Beyond the Standard Model}
+The SM along with Einstein's theory of general relativity provides us a remarkably simple framework to understand and explain almost all observed phenomena in nature. Still, there are many physical processes that we are unable to decipher within this framework. For instance, we are unable to explain physics happening at a shorter or similar distance than Plank scale, where gravity should be quantized. Further, experimental evidence for dark energy, dark matter etc, seems to escape from this framework and one needs to explore beyond it \cite {bsm}. In the SM, some of the couplings and masses determined by the experiments demand a better explanation, and this requires to some more fundamental theory. For a true unification of electroweak and strong forces, the renormalization group (RG) evolution of three coupling strengths corresponding to $\rm SU(3)_{C}$, $\rm SU(2)_{L}$ and $\rm U(1)_{Y}$ gauge groups should meet at a common point at a higher energy scale, the scale of Grand Unified Theory (GUT). However, given the high precision electroweak measurements and the particle contents of the SM, the RG evolution of three gauge coupling strengths fail to meet at a common point. In SM, neutrino is massless, however recent results on neutrino oscillation suggest that neutrinos have a tiny mass. Although, the SM is able to explain the phenomena of quark mixing and CP violation observed in K and B meson decays, it can't explain the baryon asymmetry in the universe.
+
+Now a days there are several extensions to the SM proposed that try to solve above shortcomings. The front runner is the Supersymmetry (SUSY)\cite {susy-book}. Supersymmetry is a symmetry which relates fermions into bosons and vice versa. It predicts that there exists a superpartners to each and every known particle with a spin difference of 1/2. The important aspect of SUSY is that it can solve the naturalness or hierarchy problem \cite{hierarchy-prob}. There is the so called Minimal Supersymmetric extensions of the Standard Model (MSSM), which assumes minimal gauge group, and the minimal particle content. The MSSM requires two isodoublets of complex scalar fields, the Higgs field, to break electroweak symmetry and generic masses. The two isodoublets must have opposite hypercharge to cancel chiral anomalies and to give mass to the up and down type of quarks, respectively. The prediction of a low mass Higgs in MSSM is quite important for the survival of low-energy SUSY models like MSSM and could be ruled out if such a Higgs boson is not discovered at the LHC.
+
+Apart from these models, there are few others that also try to solve the shortcomings of SM. The Grand Unified Theory (GTU) \cite{gut} is one of them which tries to unify the SM gauge groups to a single, large symmetry group. The three gauge coupling strengths are unified to a single gauge coupling constant at a higher energy scale and as a consequence, it reduces the number of parameters in the model. There are also models that introduce extra space-time dimensions helping to solve the hierarchy problem \cite{extra-dim, mass hierarchy} in the SM. The LHC experiments are expected to provide answers to some of these questions.
+
+

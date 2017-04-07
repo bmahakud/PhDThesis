@@ -1,0 +1,290 @@
+\documentclass[12pt,a4paper,oneside]{kkd}
+\usepackage{epsfig}
+\usepackage{pdfpages}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{setspace}
+%\usepackage{setspace}
+\usepackage{rotating}
+%\pagestyle{fancy}
+\usepackage{graphics}
+\usepackage[round]{natbib}
+\usepackage{float}
+%\usepackage{caption}
+\usepackage{amsmath}
+\usepackage{txfonts}
+\usepackage{epstopdf}
+\usepackage{hyperref}
+\usepackage{physics}
+%\usepackage{bm}
+%\usepackage{psfragx}
+%\usepackage{color}
+%\usepackage{footnote}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{ragged2e} %Added 29/06/2009
+%\usepackage{enumerate}
+%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage[square,sort,comma,numbers]{natbib}
+
+%\newcommand{\eg}{{\rm e.g., }}
+%\newcommand{\cPZ}{{\rm Z }}
+%\newcommand{\zll}{{$\rm Z(\ell^{+} \ell^{-})$+jets }}
+%\newcommand{\znn}{{$\rm Z(\nu \bar{\nu})$+jets }}
+%\newcommand{\gjets}{{\rm $\gamma$+jets }}
+
+%\newcommand{\nbjets}{{$\rm N_{b-jet}$}}
+%\newcommand{\njets}{{$\rm N_{jet}$}}
+%\newcommand{\MHT}{{$\rm H_{T}^{miss}$}}
+%\newcommand{\HT}{{$\rm H_{T}$}}
+%\newcommand{\dphi}{{\rm $\Delta \phi$}}
+%\newcommand{\pt}{{$\rm p_{T}$}}
+
+
+
+\makeatletter
+\parindent 1.5 pc
+\doublespacing
+
+
+
+\begin{document}
+\setcitestyle{square}
+\pagenumbering{roman}
+\addcontentsline{toc}{chapter}{Title page}
+%\input{/media/Softwares/for_rama/other_pages/titlepage.tex}
+\input{/home/bibhu/Desktop/PhDThesis/PhDThesis/other_pages/title.tex}
+\input{/home/bibhu/Desktop/PhDThesis/PhDThesis/other_pages/ded.tex}
+
+\clearpage
+\setlength{\topmargin}{0.05cm} %\Added by Partha
+%\oddsidemargin .75 cm \evensidemargin 2.5 cm
+
+
+\textheight 21.1 cm 
+\textwidth 16.0 cm 
+\pagestyle{headings}
+
+\newcommand{\degr}{\ensuremath{^{\circ}}}
+
+
+\renewcommand{\labelenumi}{(\roman{enumi})}
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+
+
+%\setlength{\topmargin}{-015. mm} {It was in Kanan's file}
+\setlength{\headheight}{10.0 mm}
+\setlength{\headsep}{10.0 mm}
+\setlength{\topskip}{0.00 mm}
+\setlength{\textheight}{215.9 mm}
+\setlength{\textwidth}{152.4 mm}
+
+
+
+\setlength{\parskip}{.75 mm}
+\setlength{\parindent}{6.00 mm}
+\setlength{\floatsep}{4 mm}
+\setlength{\textfloatsep}{4 mm} \setlength{\intextsep}{4 mm}
+\setcounter{secnumdepth}{3} \setcounter{tocdepth}{2}
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{lemma}{Lemma}[chapter]
+\newtheorem{Remark}{Remark}[chapter]
+\newtheorem{corollary}{Corollary}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{observation}[theorem]{Observation}
+\newtheorem{fact}{Fact}[theorem]
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{rule-def}[theorem]{Rule}
+\newcommand{\ccnt}[1]{\multicolumn{1}{|c|}{#1}}
+\newcommand{\fns}[1]{\footnotesize{#1}}
+
+%\singlespacing
+%\doublespacing
+% defineing short form------
+
+
+\newcommand{\sce}{\setcounter{equation}}
+\newcommand{\nn}{\nonumber}
+\newcommand{\lb}{\label}
+\newcounter{saveeqn}
+\newcommand{\alpheqn}{\setcounter{saveeqn}{\value{equation}}
+\stepcounter{saveeqn}\setcounter{equation}{0}%
+\renewcommand{\theequation}{\mbox{\arabic{chapter}.\arabic{saveeqn}\alph{equation}}}}
+\newcommand{\reseteqn}{\setcounter{equation}{\value{saveeqn}}%
+\renewcommand{\theequation}{\arabic{chapter}.\arabic{equation}}}
+\newcounter{savecite}
+\newcommand{\alphcite}{\setcounter{savecite}{\value{cite}}
+\stepcounter{savecite}\setcounter{cite}{0}%
+\renewcommand{\thecite}{\mbox{\arabic{savecite}\alph{cite}}}}
+\newcommand{\resetcite}{\setcounter{cite}{\value{savecite}}%
+\renewcommand{\thecite}{\arabic{cite}}}
+
+\newcommand{\be}{\begin{equation}}
+\newcommand{\e}{\end{equation}}
+\newcommand{\bear}{\begin{eqnarray}}
+\newcommand{\ear}{\end{eqnarray}}
+\newcommand{\nline}{\nonumber \\}
+\newcommand{\f}{\frac}
+\newcommand{\de}{{\rm d}}
+\newcommand{\del}{\partial}
+%\newcommand{\R}{{\cal R}}
+\def\apj{Astrophysical Journal}
+\def\apjl{Astrophysical Journal Letters}
+\def\apjs{Astrophysical Journal Supplement Series}
+\def\mnras{Monthly Notices of Royal Astronomical Society}
+\def\mnrasl{Monthly Notices of Royal Astronomical Society: Letters}
+\def\pra{Physical Review A}
+\def\prb{Physical Review B}
+\def\prl{Physical Review Letters}
+\def\phyrep{Physics Report}
+\def\aj{Astronomical Journal}
+\def\aa{Astronomy \& Astrophysics}
+\def\japa{Journal of Astrophysics and Astronomy}
+\def\jcap{Journal of Cosmology and Astroparticle Physics}
+\def\hfi{Hyperfine Interaction}
+\def\ARPC{Annual Review of Physics and Chemistry}
+\def\nim{Nuclear Instruments and Methods}
+\def\JPSJ{Journal of Physical Society Japan}
+\def\ssc{Solid State Communications}
+\def\jpcm{Journal of Physics: Condensed Matter}
+\def\njp{New Journal of Physics}
+\def\u{{\vec U}}
+\def\th{\vec{\theta}}
+\def\rn{r_{\nu}}
+%\def\rnp{r^{'}_{\nu}}
+\def\rnp{r'_{\nu}}
+\def\newblock{}
+%\def\E{\hat{E}}
+\def\k{{\bf k}}
+\def\kp{k_\parallel}
+\def\HI{\rm HI}
+\def\newblock{}
+
+
+
+\newcommand{\wt}{\widetilde}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\eps}{\varepsilon}
+\renewcommand{\l}{\ell}
+\renewcommand{\r}{r}
+
+\renewcommand{\P}{{\cal P}}
+\renewcommand{\L}{{\cal L}}
+\newcommand{\A}{{\cal A}}
+\newcommand{\B}{{\cal B}}
+\newcommand{\C}{{\cal C}}
+\newcommand{\D}{{\cal D}}
+\newcommand{\K}{{\cal K}}
+\newcommand{\R}{{\cal R}}
+\newcommand{\N}{{\cal N}}
+\newcommand{\Q}{{\cal Q}}
+\newcommand{\E}{{\cal E}}
+\newcommand{\T}{{\cal T}}
+\newcommand{\Scal}{{\cal S}}
+\newcommand{\I}{{\cal I}}
+\newcommand{\LC}{{\cal O}}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\addcontentsline{toc}{chapter}{Certificate by the Supervisor}
+%\input{/home/bibhu/Desktop/PhDThesis/PhDThesis/other_pages/certi.tex}
+%\clearpage
+%\clearpage{\pagestyle{empty}\cleardoublepage} 
+\addcontentsline{toc}{chapter}{Declaration}
+\input{/home/bibhu/Desktop/PhDThesis/PhDThesis/other_pages/decla.tex} 
+\clearpage
+%\clearpage{\pagestyle{empty}\cleardoublepage} 
+\addcontentsline{toc}{chapter}{Acknowledgements}
+\input{/home/bibhu/Desktop/PhDThesis/PhDThesis/other_pages/acknw.tex}
+
+
+
+
+\addcontentsline{toc}{chapter}{Contents}
+\tableofcontents
+\clearpage
+
+
+\addcontentsline{toc}{chapter}{Synopsis}
+\input{/home/bibhu/Desktop/PhDThesis/PhDThesis/synopsis/Synopsis.tex}
+
+\newpage
+
+
+
+%\clearpage{\pagestyle{empty}\cleardoublepage} %Added by PSD
+\addcontentsline{toc}{chapter}{List of Symbols}
+\input{/home/bibhu/Desktop/PhDThesis/PhDThesis/other_pages/symbols.tex} 
+%\clearpage
+%\clearpage{\pagestyle{empty}\cleardoublepage} %Added by PSD
+\addcontentsline{toc}{chapter}{List of Tables}
+\input{/home/bibhu/Desktop/PhDThesis/PhDThesis/other_pages/tablelist.tex}
+%\clearpage
+%\chaptermark{$\empty$}
+%\clearpage{\pagestyle{empty}\cleardoublepage} %Added by PSD
+
+
+\addcontentsline{toc}{chapter}{List of Figures}
+%\clearpage
+%\listoffigures
+\input{/home/bibhu/Desktop/PhDThesis/PhDThesis/other_pages/figurelist.tex}
+%%\clearpage{\pagestyle{empty}}
+%\newpage
+%\chaptermark{$\empty$}
+%\addcontentsline{toc}{chapter}{Abstract}
+%\input{/home/bibhu/Desktop/PhDThesis/PhDThesis/other_pages/abstract.tex}
+%\clearpage
+%\clearpage {\pagestyle{empty}\cleardoublepage}
+
+
+\newpage
+
+
+
+%\addcontentsline{toc}{chapter}{Synopsis}
+
+
+\setcounter{chapter}{0}
+\input{/home/bibhu/Desktop/PhDThesis/PhDThesis/chapter1/chapter1.tex} 
+%\clearpage{\pagestyle{empty}}\cleardoublepage} %%%
+\input{/home/bibhu/Desktop/PhDThesis/PhDThesis/chapter2/chapter2.tex}
+%\clearpage{\pagestyle{empty}\cleardoublepage}
+\input{/home/bibhu/Desktop/PhDThesis/PhDThesis/chapter3/chapter3.tex}
+%\clearpage{\pagestyle{empty}\cleardoublepage}  %%%
+\input{/home/bibhu/Desktop/PhDThesis/PhDThesis/chapter4/chapter4.tex}
+%\clearpage{\pagestyle{empty}\cleardoublepage}  %%%
+\input{/home/bibhu/Desktop/PhDThesis/PhDThesis/chapter5/chapter5.tex}
+%\clearpage{\pagestyle{empty}\cleardoublepage} 
+\input{/home/bibhu/Desktop/PhDThesis/PhDThesis/chapter6/chapter6.tex}
+\input{/home/bibhu/Desktop/PhDThesis/PhDThesis/chapter7/chapter7.tex}
+\input{/home/bibhu/Desktop/PhDThesis/PhDThesis/chapter8/chapter8.tex}
+
+\input{/home/bibhu/Desktop/PhDThesis/PhDThesis/chapter9/chapter9.tex}
+
+%\clearpage{\pagestyle{empty}\cleardoublepage} 
+\clearpage
+\addcontentsline{toc}{chapter}{References}
+\input{/home/bibhu/Desktop/PhDThesis/PhDThesis/other_pages/bibliography.tex}
+
+\bibliographystyle{ifacconf}         %{klunamed}       %{acm}
+\bibliography{references}
+\newpage
+
+%\clearpage{\pagestyle{empty}\cleardoublepage} %%%%%%%%%%%%%%%%%%%%
+%\chaptermark{Appendix}
+%\addcontentsline{toc}{chapter}{Appendix} 
+%\appendix
+%\input{/home/bibhu/Desktop/PhDThesis/PhDThesis/other_pages/AppendixA.tex}
+%\clearpage
+%\clearpage{\pagestyle{empty}\clearpage}
+%\input{/home/bibhu/Desktop/PhDThesis/PhDThesis/other_pages/AppendixB.tex}
+%\clearpage{\pagestyle{empty}\clearpage} %%%%%%%%%%%%%%%%%%%%
+\clearpage
+
+%\chaptermark{Publications}
+%\addcontentsline{toc}{chapter}{List of Publications} 
+%\input{/home/bibhu/Desktop/PhDThesis/PhDThesis/other_pages/publication.tex}
+\end{document}

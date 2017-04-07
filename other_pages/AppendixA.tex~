@@ -1,0 +1,85 @@
+\thispagestyle{empty}
+%\setcounter{section}{0}
+%\setcounter{subsection}{0}
+%\setcounter{subsubsection}{2}
+%\setcounter{equation}{0}
+%\pagenumbering{arabic}
+\hspace{-.8cm}{\huge{\bf Appendix A}}\\\\
+{\bf Multivariate Optimization for the W-tagging:}\\
+
+As described in Section 5.4, a number of jet substructure observables are studied to distinguish
+between a quark- or gluon-initiated jet and a jet coming from hadronic W boson decays.
+Here, we optimize a set of observables to be used in the tagging of W-jets.
+The final result will show that a small subset of very powerful observables can be
+just as performant as a large set of observables. Optimization is performed using Monte Carlo events and the data-to-MC scale factors are then derived from the $t\bar{t}$ control sample. %The scale factors will be presented in Sec.~\ref{sec:ttbar}.
+Optimization is performed for the $\rm H \to WW$ signal sample ($m_H = 600$~GeV) while the background is taken to be the W+jets sample. It is known that the performance of the W-jet tagging is dependent on the polarization of the W boson but our main conclusions will be derived from results on the Higgs decays.
+%For $H \to WW$ at high Higgs masses, above $\sim 400$~GeV, the $W$ bosons are nearly 100\% longitudinally polarized.
+%Further cross-checks are performed using RS Graviton decays to $WW$.
+Basic selection cuts are applied to the samples to define a clean sample of W-jets are:
+\begin{itemize}
+\item $p_T$ of the leptonically decaying W is greater than 200 GeV.
+\item $p_T$ of the hardest CA8 jet in the event is greater than 200 GeV.
+\item Transverse missing energy (MET) is greater than 50 GeV.
+\item $\Delta R_{l,j} > 1.0$; The distance between the lepton and the jet should be large.
+\item $\Delta \Phi_{MET,j} > 2.0$; The azimuthal distance between the missing energy and jet should be large.
+\item $\Delta \Phi_{V,j} > 2.0$; the azimuthal distance between the $W$ boson and jet should be large
+\end{itemize}
+%These same cuts are used in the analysis and will be reiterated in the following section, Sec.~\ref{sec:analysis}.
+The optimization is performed starting with a small set of powerful observables and incrementally adding more observables.
+Multivariate analysis is performed by combining these input observables into a Boosted Decision Tree (BDT) using the TMVA analysis package and the detail can be found in the Ref.\cite {an-12-381}. Performance is evaluated in terms of the background rejection for a given signal efficiency.
+A simple baseline set of observables is chosen of the following three observables: mass drop, Qjets volatility, and N-subjettiness $\tau_2/\tau_1$.
+The ROC curve and signal efficiency versus background rejection, can be seen in the top left plot of Fig.~\ref{fig:ROCs1}. The effect of adding more observables can seen in the same figure.%, Fig.~\ref{fig:ROCs1}.
+The top right includes the same three observables from the top left plot plus additional r-core variables.
+The bottom left includes the same observables from the top right plot plus additional planar flow variables.
+The bottom right includes the same observables from the bottom left plot plus additional subjet kinematic observables.
+From Fig.~\ref{fig:ROCs1}, we see that the addition of more observables does not improve the discrimination power between the signal and background samples.
+The observation of a slight degradation with the additional variables is due to overtraining without a large sample of simulated events.
+\begin{figure}[htbt]
+\centering
+\includegraphics[width=0.45\textwidth]{/media/Softwares/thesis_reorganisations/thesis_bparida/chapter5/jet_observables_fig/tmva_simple.pdf}
+\includegraphics[width=0.45\textwidth]{/media/Softwares/thesis_reorganisations/thesis_bparida/chapter5/jet_observables_fig/tmva_2.pdf}\\
+\includegraphics[width=0.45\textwidth]{/media/Softwares/thesis_reorganisations/thesis_bparida/chapter5/jet_observables_fig/tmva_3.pdf}
+\includegraphics[width=0.45\textwidth]{/media/Softwares/thesis_reorganisations/thesis_bparida/chapter5/jet_observables_fig/tmva_all.pdf}\\
+\caption{\small{ROC curves for W-jet tagging with different sets of observables. Top left: three simple observables. Top right: three simple observables + r-core variables. Bottom left: three simple observables + planar flow observables + r-core variables. Bottom right: All observables include subjet kinematic observables}}
+\label{fig:ROCs1}
+\end{figure}
+
+In Fig.~\ref{fig:tmvaCorr}, the correlations between all the considered substructure observables for W-jet tagging are shown.
+Considering results of the study adding more variables to the multivariate analysis, we now consider only three most powerful variables: mass drop, Qjets volatility, and N-subjettiness $\tau_2/\tau_1$.
+From Fig.~\ref{fig:tmvaCorr}, we see that the mass-drop variable is highly correlated with $\tau_2/\tau_1$.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.65\textwidth]{/media/Softwares/thesis_reorganisations/thesis_bparida/chapter5/jet_observables_fig/tmva_corr.pdf}
+\caption{\small{Linear correlations between all considered observables in W-jet tagging}}
+\label{fig:tmvaCorr}
+\end{figure}
+
+In addition, we also include a more performant version of $\tau_2/\tau_1$.
+%The definition of the N-subjettiness axes in the previous section used the axes defined by the declustering of the kT algorithm.
+By optimizing the definition of the axes, the performance of the N-subjettiness algorithm can be improved.
+We use what is called the ``one-pass" optimization.
+The improvement in performance can be seen in Fig.~\ref{fig:t2t1_onepass}.
+
+\begin{figure}[htbt]
+\centering
+\includegraphics[width=0.65\textwidth]{/media/Softwares/thesis_reorganisations/thesis_bparida/chapter5/jet_observables_fig/onepass_T2T1.pdf}
+\caption{$\tau_2/\tau_1$ with exclusive kT axes and one-pass axis optimization.}
+\label{fig:t2t1_onepass}
+\end{figure}
+
+In order to examine the individual performance of each observable, the ROC curves are presented in Fig.~\ref{fig:ROCs3}.
+The mass drop variable is shown to be least performant while both Qjets volatility, $\Gamma_{\rm Qjet}$, and $\tau_2/\tau_1$ perform similarly.
+However, $\tau_2/\tau_1$ is performing better using the one-pass axis optimization.
+Additionally we combine $\Gamma_{\rm Qjet}$ and $\tau_2/\tau_1$ into an MVA discriminant using BDT and Fisher discriminant (LD).
+We find that using the $\tau_2/\tau_1$ with one-pass axis optimization is nearly as performant as an MVA discriminant.
+\begin{figure}[htbt]
+\centering
+\includegraphics[width=0.75\textwidth]{/media/Softwares/thesis_reorganisations/thesis_bparida/chapter5/jet_observables_fig/testROC.pdf}
+\caption{ROC curves for different observables and combinations for the most performant set.}
+\label{fig:ROCs3}
+\end{figure}
+From these studies, we conclude to use the $\tau_2/\tau_1$ observable with one-pass axis optimization.
+%While being slightly less performant than a multivariate optimization, the ease of implementation and incremental
+%difference from previous $W$-jet tagging analyses.
+%\newpage

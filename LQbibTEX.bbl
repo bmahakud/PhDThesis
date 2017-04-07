@@ -1,0 +1,486 @@
+\begin{thebibliography}{10}
+
+\bibitem{...}
+
+
+\bibitem{pfjetID}
+Particle flow jet identification criteria.
+\newblock {\em CMS Physics Analysis Note: AN-2010/003}, 2010.
+
+\bibitem{heavyNu8tev}
+{Search for heavy neutrinos and W bosons with right-handed couplings in
+  proton-proton collisions at $\sqrt{s}$ = 8 TeV}.
+\newblock {\em Eur. Phys. J. C}, 74(arXiv:1407.3683. CERN-PH-EP-2014-161.
+  CMS-EXO-13-008):3149. 59, Jul 2014.
+\newblock Replaced with published version. Added journal reference and DOI.
+
+\bibitem{muonRecoPaper}
+{Muon Reconstruction and Identification Improvements for Run-2 and First
+  Results with 2015 Run Data}.
+\newblock Jul 2015.
+
+\bibitem{electronRecoPaper}
+Performance of electron reconstruction and selection with the cms detector in
+  proton-proton collisions at sqrt{s} = 8 tev.
+\newblock {\em Journal of Instrumentation}, 10(06):P06005, 2015.
+
+\bibitem{CMS-PAS-EXO-15-005}
+{Search for a Narrow Resonance Produced in 13 TeV pp Collisions Decaying to
+  Electron Pair or Muon Pair Final States}.
+\newblock Technical Report CMS-PAS-EXO-15-005, CERN, Geneva, 2015.
+
+\bibitem{cmslq8tev}
+Search for pair production of first and second generation leptoquarks in
+  proton-proton collisions at $\sqrt{s}=8\text{ }\text{ }\mathrm{TeV}$.
+\newblock {\em Phys. Rev. D}, 93:032004, Feb 2016.
+
+\bibitem{atlasLQ8TeVpaper}
+Georges Aad et~al.
+\newblock {Searches for scalar leptoquarks in pp collisions at ${\sqrt{s}}$ = 8
+  TeV with the ATLAS detector}.
+\newblock {\em Eur. Phys. J.}, C76(1):5, 2016.
+
+\bibitem{Aad:2015caa}
+Georges Aad et~al.
+\newblock {Searches for scalar leptoquarks in pp collisions at
+  $\varvec{\sqrt{s}}$ = 8 TeV with the ATLAS detector}.
+\newblock {\em Eur. Phys. J.}, C76(1):5, 2016.
+
+\bibitem{geant1}
+S.~Agostinelli et~al.
+\newblock {GEANT4: A simulation toolkit}.
+\newblock {\em Nucl. Instrum. Meth.}, A506:250--303, 2003.
+
+\bibitem{CMS_NOTE_2006-106}
+M.~Aldaya, P.~Arce, J.~Caballero, B.~de~la Cruz, P.~Garcia-Abia, J.~M.
+  Hernandez, M.~I. Josa, and E.~Ruiz.
+\newblock Discovery potential and search strategy for the standard model
+  {H}iggs boson in the {$H\to ZZ^\star\to 4\mu$} decay channel using a
+  mass-independent analysis.
+\newblock CMS Note 2006/106, 2006.
+
+\bibitem{LEPewkfits}
+{ALEPH, CDF, D0, DELPHI, L3, OPAL, SLD Collaborations, the LEP Electroweak
+  Working Group, the Tevatron Electroweak Working Group, and the SLD
+  Electroweak and Heavy Flavour Groups}.
+\newblock Precision electroweak measurements and constraints on the {Standard
+  Model}.
+\newblock 2010.
+
+\bibitem{powheg}
+S.~Alioli et~al.
+\newblock A general framework for implementing nlo calculations in shower monte
+  carlo programs: the powheg box.
+\newblock {\em JHEP}, 06:043, 2010.
+
+\bibitem{geant2}
+John Allison et~al.
+\newblock {Geant4 developments and applications}.
+\newblock {\em IEEE Trans. Nucl. Sci.}, 53:270, 2006.
+
+\bibitem{madgraph2}
+J.~Alwall et~al.
+\newblock Madgraph/madevent v4: The new web generation.
+\newblock {\em JHEP}, 09:028, 2007.
+
+\bibitem{Madgraph}
+J.~Alwall et~al.
+\newblock Madgraph 5: Going beyond.
+\newblock {\em JHEP}, 1106:128, 2011.
+
+\bibitem{ATLAS:2011aa}
+{ATLAS Collaboration}.
+\newblock Search for the {H}iggs boson in the {$H\to$WW(*)$\to \ell^+ \nu
+  \ell^- \bar{\nu}$} decay channel in pp collisions at $\sqrt{s}$ = 7 {TeV}
+  with the {ATLAS} detector.
+\newblock Submitted to \textit{Phys. Rev. Lett.}, 2011.
+
+\bibitem{Herwigpp}
+M.~Bahr et~al.
+\newblock Herwig++ physics and manual.
+\newblock {\em Eur.Phys.J}, C58:639--707, 2008.
+
+\bibitem{nnpdf2p3lo}
+Richard~D. Ball et~al.
+\newblock {Parton distributions with LHC data}.
+\newblock {\em Nucl. Phys.}, B867:244--289, 2013.
+
+\bibitem{Gluon}
+W.~Bartel, T.~Canzler, D.~Cords, P.~Dittmann, R.~Eichler, R.~Felst, D.~Haidt,
+  S.~Kawabata, H.~Krehbiel, B.~Naroska, L.H. O'Neill, J.~Olsson, P.~Steffen,
+  W.L. Yen, E.~Elsen, M.~Helm, A.~Petersen, P.~Warming, G.~Weber, H.~Drumm,
+  J.~Heintze, G.~Heinzelmann, R.D. Heuer, J.~von Krogh, P.~Lennert,
+  H.~Matsumura, T.~Nozaki, H.~Rieseberg, A.~Wagner, D.C. Darvill, F.~Foster,
+  G.~Hughes, H.~Wriedt, J.~Allison, J.~Armitage, I.~Duerdoth, J.~Hassard,
+  F.~Loebinger, B.~King, A.~Macbeth, H.~Mills, P.G. Murphy, H.~Prosper,
+  K.~Stephens, D.~Clarke, M.C. Goddard, R.~Hedgecock, R.~Marshall, G.F. Pearce,
+  M.~Imori, T.~Kobayashi, S.~Komamiya, M.~Koshiba, M.~Minowa, S.~Orito,
+  A.~Sato, T.~Suda, H.~Takeda, Y.~Totsuka, Y.~Watanabe, S.~Yamada, and
+  C.~Yanagisawa.
+\newblock Observation of planar three-jet events in e+e− annihilation and
+  evidence for gluon bremsstrahlung.
+\newblock {\em Physics Letters B}, 91(1):142 -- 147, 1980.
+
+\bibitem{CMS_AN_2006-027}
+I.~Belotelov, I.~Golutvin, D.~Bourilkov, A.~Lanyov, E.~Rogalev, M.~Savina, and
+  S.~Shmatov.
+\newblock Search for {ADD} extra dimensional gravity in di-muon channel with
+  the {CMS} detector.
+\newblock CMS Note 2006/076, 2006.
+
+\bibitem{constsub}
+Peter Berta, Martin Spousta, David~W. Miller, and Rupert Leitner.
+\newblock {Particle-level pileup subtraction for jets and jet shapes}.
+\newblock {\em JHEP 06 (2014) 092}, 2014.
+
+\bibitem{Bertolini:2014bba}
+Daniele Bertolini, Philip Harris, Matthew Low, and Nhan Tran.
+\newblock {Pileup Per Particle Identification}.
+\newblock 2014.
+
+\bibitem{Bertram:2000br}
+I.~Bertram, G.~Landsberg, J.~Linnemann, R.~Partridge, M.~Paterno, and H.~B.
+  Prosper.
+\newblock A recipe for the construction of confidence limits.
+\newblock Technical Report {TM-2104}, Fermilab, 2000.
+
+\bibitem{Quark1PhysRevLett.23.930}
+E.~D. Bloom, D.~H. Coward, H.~DeStaebler, J.~Drees, G.~Miller, L.~W. Mo, R.~E.
+  Taylor, M.~Breidenbach, J.~I. Friedman, G.~C. Hartmann, and H.~W. Kendall.
+\newblock High-energy inelastic $e\ensuremath{-}p$ scattering at
+  6\ifmmode^\circ\else\textdegree\fi{} and
+  10\ifmmode^\circ\else\textdegree\fi{}.
+\newblock {\em Phys. Rev. Lett.}, 23:930--934, Oct 1969.
+
+\bibitem{AN-14-130}
+E.~Bouvier and V.~Sordini.
+\newblock Chs studies in photon+jets events.
+\newblock CMS Analysis Note 2014/130, 2014.
+
+\bibitem{Brandt:1997gi}
+A.~Brandt et~al.
+\newblock Measurements of single diffraction at $\sqrt{s} =$ 630 {GeV}:
+  Evidence for a non-linear $\alpha(t)$ of the pomeron.
+\newblock {\em Nucl. Phys. B}, 514:3, 1998.
+
+\bibitem{Quark2PhysRevLett.23.935}
+M.~Breidenbach, J.~I. Friedman, H.~W. Kendall, E.~D. Bloom, D.~H. Coward,
+  H.~DeStaebler, J.~Drees, L.~W. Mo, and R.~E. Taylor.
+\newblock Observed behavior of highly inelastic electron-proton scattering.
+\newblock {\em Phys. Rev. Lett.}, 23:935--939, Oct 1969.
+
+\bibitem{Buchmuller}
+W.~Buchm{\"u}ller and D.~Wyler.
+\newblock Constraints on su(5)-type leptoquarks.
+\newblock {\em Phys. Lett. B}, 177:377, 1986.
+
+\bibitem{Buchmuller:1986zs}
+W.~Buchm{\"u}ller and D.~Wyler.
+\newblock Constraints on {SU(5)}-type leptoquarks.
+\newblock {\em Phys. Lett. B}, 177:377, 1986.
+
+\bibitem{PDF4LHC}
+Jon Butterworth et~al.
+\newblock {PDF4LHC recommendations for LHC Run II}.
+\newblock {\em J. Phys.}, G43:023001, 2016.
+
+\bibitem{Butterworth:2008tr}
+Jonathan~M. Butterworth, Adam~R. Davison, Mathieu Rubin, and Gavin~P. Salam.
+\newblock {Jet substructure as a new Higgs search channel at the LHC}.
+\newblock 2008.
+
+\bibitem{antikt}
+M.~Cacciari, G.~P. Salam, and G.~Soyez.
+\newblock The anti-$k_t$ jet clustering algorithm.
+\newblock {\em JHEP}, 04:063, 2008.
+
+\bibitem{Cacciari:2014jta}
+Matteo Cacciari, Gavin~P. Salam, and Gregory Soyez.
+\newblock {On the use of charged-track information to subtract neutral pileup}.
+\newblock 2014.
+
+\bibitem{Chatrchyan:2008zzk}
+S.~Chatrchyan et~al.
+\newblock The {CMS} experiment at the {CERN} {LHC}.
+\newblock {\em JINST}, 3:S08004, 2008.
+
+\bibitem{CMS}
+S.~Chatrchyan et~al.
+\newblock The {CMS} experiment at the {CERN} {LHC}.
+\newblock {\em JINST}, 3:S08004, 2008.
+
+\bibitem{jetCorrPaper}
+S.~Chatrchyan et~al.
+\newblock {Determination of jet energy calibration and transverse momentum
+  resolution in CMS}.
+\newblock {\em JINST}, 6:11002, 2011.
+
+\bibitem{PTDR2}
+{CMS Collaboration}.
+\newblock {CMS} technical design report, volume {II}: {Physics} performance.
+\newblock {\em J. Phys. G}, 34:995--1579, 2007.
+
+\bibitem{CMS-PAS-PFT-09-001}
+{CMS Collaboration}.
+\newblock Particle flow event reconstruction in cms and performance for jets,
+  taus, and met.
+\newblock {\em CMS Physics Analysis Summary}, CMS-PAS-PFT-09-001, 2009.
+
+\bibitem{CMS-PAS-PFT-10-001}
+{CMS Collaboration}.
+\newblock Commissioning of the particle-flow event reconstruction with the
+  first lhc collisions recorded in the cms detector.
+\newblock {\em CMS Physics Analysis Summary}, CMS-PAS-PFT-10-001, 2010.
+
+\bibitem{pflowPAS}
+{CMS Collaboration}.
+\newblock Commissioning of the particle-flow reconstruction in minimum-bias and
+  jet events from {\Pp\Pp} collisions at 7 {TeV}.
+\newblock CMS Physics Analysis Summary CMS-PAS-PFT-10-002, 2010.
+
+\bibitem{CMS-PAS-JME-10-003}
+{CMS Collaboration}.
+\newblock Jet performance in pp collisions at $\sqrt{s}$=7 {TeV}.
+\newblock CMS Physics Analysis Summary CMS-PAS-JME-10-003, 2010.
+
+\bibitem{Khachatryan:2010mp}
+{CMS Collaboration}.
+\newblock Search for pair production of first-generation scalar leptoquarks in
+  pp collisions at $\sqrt{s} = 7$ {TeV}.
+\newblock Submitted to \textit{Phys. Rev. Lett.}, 2010.
+
+\bibitem{CMS-PAPER-MUO-10-004}
+{CMS Collaboration}.
+\newblock Performance of cms muon reconstruction in pp collision events at
+  $\sqrt{s} = 7$\tev.
+\newblock Submitted to \textit{J. Inst.}, 2012.
+
+\bibitem{lumiPAS}
+{CMS Collaboration}.
+\newblock {CMS Luminosity Measurement for the 2015 Data Taking Period}.
+\newblock CMS Physics Analysis Summary CMS-PAS-LUM-15-001, 2015.
+
+\bibitem{1748-0221-6-11-P11002}
+The~CMS collaboration.
+\newblock Determination of jet energy calibration and transverse momentum
+  resolution in cms.
+\newblock {\em Journal of Instrumentation}, 6(11):P11002, 2011.
+
+\bibitem{asymptPaper}
+Glen Cowan, Kyle Cranmer, Eilam Gross, and Ofer Vitells.
+\newblock {Asymptotic formulae for likelihood-based tests of new physics}.
+\newblock {\em Eur. Phys. J. C}, 71:1554, 2011.
+\newblock [Erratum: Eur. Phys. J.C73,2501(2013)].
+
+\bibitem{Csaki:1996ks}
+Csaba Csaki.
+\newblock {The Minimal supersymmetric standard model (MSSM)}.
+\newblock {\em Mod. Phys. Lett.}, A11:599, 1996.
+
+\bibitem{Dasgupta:2013ihk}
+Mrinal Dasgupta, Alessandro Fregoso, Simone Marzani, and Gavin~P. Salam.
+\newblock {Towards an understanding of jet substructure}.
+\newblock {\em JHEP}, 1309:029, 2013.
+
+\bibitem{technicolor2}
+S.~Dimopoulos.
+\newblock Technicolored signatures.
+\newblock {\em Nucl. Phys. B}, 168:69, 1980.
+
+\bibitem{technicolor1}
+S.~Dimopoulos and L.~Susskind.
+\newblock Mass without scalars.
+\newblock {\em Nucl. Phys. B}, 155:237, 1979.
+
+\bibitem{Dokshitzer:1997in}
+Yuri~L. Dokshitzer, G.D. Leder, S.~Moretti, and B.R. Webber.
+\newblock {Better jet clustering algorithms}.
+\newblock {\em JHEP}, 9708:001, 1997.
+
+\bibitem{technicolor3}
+E.~Eichten and K.~Lane.
+\newblock Dynamical breaking of the weak interaction symmetries.
+\newblock {\em Phys. Lett. B}, 90:85, 1980.
+
+\bibitem{Ellis:2009me}
+Stephen~D. Ellis, Christopher~K. Vermilion, and Jonathan~R. Walsh.
+\newblock {Recombination Algorithms and Jet Substructure: Pruning as a Tool for
+  Heavy Particle Searches}.
+\newblock {\em Phys.Rev.}, D81:094023, 2010.
+
+\bibitem{Fayet:1974pd}
+Pierre Fayet.
+\newblock {Supergauge Invariant Extension of the Higgs Mechanism and a Model
+  for the electron and Its Neutrino}.
+\newblock {\em Nucl. Phys.}, B90:104--124, 1975.
+
+\bibitem{Fiedler:2005gu}
+Frank Fiedler.
+\newblock {Top quark production and properties at the Tevatron}.
+\newblock In {\em {Les Rencontres de physique de la Vall'ee d'Aoste, results
+  and perspectives in particle physics, La Thuile, Aoste Valley, February 27 -
+  March 5, 2005}}, pages 503--520, 2005.
+
+\bibitem{Field:2011iq}
+Rick Field.
+\newblock {Min-Bias and the Underlying Event at the LHC}.
+\newblock {\em Acta Phys.Polon.}, B42:2631--2656, 2011.
+
+\bibitem{guts}
+H.~Georgi and S.~Glashow.
+\newblock Unity of all elementary-particle forces.
+\newblock {\em Phys. Rev. Lett.}, 32:438, 1974.
+
+\bibitem{samHarperPrivateComm}
+Sam Harper.
+\newblock Private communication.
+
+\bibitem{superstring_e6}
+J.~L. Hewett and T.~G. Rizzo.
+\newblock {Low-energy phenomenology of superstring-inspired E$_{6}$ models}.
+\newblock {\em Phys. Lett.}, 183:193, 1989.
+
+\bibitem{cuetp8m1Tune}
+Vardan Khachatryan et~al.
+\newblock {Event generator tunes obtained from underlying event and multiparton
+  scattering measurements}.
+\newblock {\em Eur. Phys. J.}, C76(3):155, 2016.
+
+\bibitem{exo-12-041-paper}
+Vardan Khachatryan et~al.
+\newblock {Search for pair production of first and second generation
+  leptoquarks in proton-proton collisions at sqrt(s) = 8 TeV}.
+\newblock {\em Phys. Rev.}, D93(3):032004, 2016.
+
+\bibitem{lqCrossSection2005}
+M~Kr{\"a}mer et~al.
+\newblock Pair production of scalar leptoquarks at the cern lhc.
+\newblock {\em Phys. Rev. D}, 71, 2005.
+
+\bibitem{lqCrossSection}
+M.~Kramer, T.~Plehn, M.~Spira, and P.~M. Zerwas.
+\newblock {Pair production of scalar leptoquarks at the Tevatron}.
+\newblock {\em Phys. Rev. Lett.}, 79:341--344, 1997.
+
+\bibitem{cleansing}
+David Krohn, Matthew Schwartz, Matthew Low, and Lian-Tao Wnag.
+\newblock {Jet Cleansing: Pileup Removal at High Luminosity}.
+\newblock 2013.
+
+\bibitem{Krohn:2009th}
+David Krohn, Jesse Thaler, and Lian-Tao Wang.
+\newblock {Jet Trimming}.
+\newblock {\em JHEP}, 1002:084, 2010.
+
+\bibitem{Larkoski:2014wba}
+Andrew~J. Larkoski, Simone Marzani, Gregory Soyez, and Jesse Thaler.
+\newblock {Soft Drop}.
+\newblock {\em JHEP}, 1405:146, 2014.
+
+\bibitem{madgraph1}
+F.~Maltoni and T.~Stelzer.
+\newblock Madevent: Automatic event generation with madgraph.
+\newblock {\em JHEP}, 02:027, 2003.
+
+\bibitem{Martin:1997ns}
+Stephen~P. Martin.
+\newblock {A Supersymmetry primer}.
+\newblock 1997.
+\newblock [Adv. Ser. Direct. High Energy Phys.18,1(1998)].
+
+\bibitem{RooStats}
+L.~Moneta, K.~Belasco, K.~S. Cranmer, A.~Lazzaro, D.~Piparo, G.~Schott,
+  W.~Verkerke, and M.~Wolf.
+\newblock The {R}oo{S}tats {P}roject.
+\newblock In {\em 13$^\text{th}$ International Workshop on Advanced Computing
+  and Analysis Techniques in Physics Research (ACAT2010)}. SISSA, 2010.
+\newblock {PoS(ACAT2010)057}.
+
+\bibitem{pdg2014}
+K.~A. Olive et~al.
+\newblock {Review of Particle Physics}.
+\newblock {\em Chin. Phys.}, C38:090001, 2014.
+
+\bibitem{Beringer:1900zz}
+{Particle Data Group}, J.~Beringer, et~al.
+\newblock {Review of Particle Physics}.
+\newblock {\em Phys. Rev. D}, 86:010001, 2012.
+
+\bibitem{patisalam}
+J.~C. Pati and A.~Salam.
+\newblock Lepton number as the fourth color.
+\newblock {\em Phys. Rev. D}, 10:275, 1974.
+
+\bibitem{Pich:281332}
+Antonio Pich.
+\newblock {Quantum chromodynamics}.
+\newblock (hep-ph/9505231. FTUV-95-19. IFIC-95-19):51 p, May 1995.
+
+\bibitem{Pich:2007vu}
+Antonio Pich.
+\newblock {The Standard model of electroweak interactions}.
+\newblock In {\em {High-energy physics. Proceedings, European School,
+  Aronsborg, Sweden, June 18-July 1, 2006}}, pages 1--49, 2007.
+\newblock [,1(2007)].
+
+\bibitem{cteq}
+J.~Pumplin et~al.
+\newblock New generation of parton distributions with uncertainties from global
+  qcd analysis.
+\newblock {\em JHEP}, 07:012, 2002.
+
+\bibitem{punzi}
+Giovanni Punzi.
+\newblock {Sensitivity of searches for new signals and its optimization}.
+\newblock {\em eConf}, C030908:MODT002, 2003.
+\newblock [,79(2003)].
+
+\bibitem{PunziSignificance}
+Giovanni Punzi.
+\newblock {Sensitivity of searches for new signals and its optimization}.
+\newblock {\em eConf}, C030908:MODT002, 2003.
+\newblock [,79(2003)].
+
+\bibitem{Randall-Sundrum}
+L.~Randall and R.~Sundrum.
+\newblock A large mass hierarchy from a small extra dimension.
+\newblock {\em Phys. Rev. Lett}, 83:3370, 1999.
+
+\bibitem{read}
+A.~L. Read.
+\newblock Modified frequentist analysis of search results (the $cl_{s}$
+  method).
+\newblock CERN-OPEN 2000-205, 2000.
+\newblock 1st Workshop on Confidence Limits, CERN, Jan. 2000.
+
+\bibitem{composite}
+B.~Schrempp and F.~Schrempp.
+\newblock Light leptoquarks.
+\newblock {\em Phys. Lett. B}, 153:101, 1985.
+
+\bibitem{FCNC}
+O.~Shanker.
+\newblock $\pi$l2, kl3, and k$^0$-$\bar{K^0}$ constraints on leptoquarks and
+  supersymmetric particles.
+\newblock {\em Nucl. Phys. B}, 204:375, 1982.
+
+\bibitem{pythia}
+T.~Sj{\"o}strand et~al.
+\newblock High energy physics event generation with pythia 6.1.
+\newblock {\em Comput. Phys. Commun.}, 135:238, 2001.
+
+\bibitem{Sjostrand:2006za}
+Torbjorn Sjostrand, Stephen Mrenna, and Peter Skands.
+\newblock {PYTHIA} 6.4 physics and manual.
+\newblock {\em JHEP}, 05:026, 2006.
+
+\bibitem{pythia8}
+Torbj{\"o}rn Sj{\"o}strand, Stephen Mrenna, and Peter~Z. Skands.
+\newblock {A Brief Introduction to PYTHIA 8.1}.
+\newblock {\em Comput. Phys. Commun.}, 178:852--867, 2008.
+
+\bibitem{puppi}
+XXX.
+\newblock {Puppi}.
+
+\end{thebibliography}

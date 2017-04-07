@@ -1,0 +1,27 @@
+\begin{thebibliography}{1}
+
+\bibitem{Butterworth:2008tr}
+Jonathan~M. Butterworth, Adam~R. Davison, Mathieu Rubin, and Gavin~P. Salam.
+\newblock {Jet substructure as a new Higgs search channel at the LHC}.
+\newblock 2008.
+
+\bibitem{Cacciari:2014jta}
+Matteo Cacciari, Gavin~P. Salam, and Gregory Soyez.
+\newblock {On the use of charged-track information to subtract neutral pileup}.
+\newblock 2014.
+
+\bibitem{Dokshitzer:1997in}
+Yuri~L. Dokshitzer, G.D. Leder, S.~Moretti, and B.R. Webber.
+\newblock {Better jet clustering algorithms}.
+\newblock {\em JHEP}, 9708:001, 1997.
+
+\bibitem{Chatrchyan:1662652}
+Chatrchyan {\rm et. al}.
+\newblock {Search for new physics in the multijet and missing transverse
+  momentum final state in proton-proton collisions at $\sqrt{s}$ = 8 TeV}.
+\newblock {\em J. High Energy Phys.}, 06(arXiv:1402.4770. CMS-SUS-13-012.
+  CERN-PH-EP-2014-015):055. 37 p, Feb 2014.
+\newblock Comments: Replaced with published version. Added journal reference
+  and DOI.
+
+\end{thebibliography}

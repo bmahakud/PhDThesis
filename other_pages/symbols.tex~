@@ -1,0 +1,51 @@
+%\begin{center}
+%{\Large \textbf{List of Symbols}}
+%\end{center}
+\vspace{0.2cm}
+%%%%%%%%%%%%\begin{center}
+{\Large{\bf List of Symbols}}\\
+\vskip 0.2cm
+\begin{tabular}{ccl}\hline
+{\bf Symbols}&\hspace{1cm} & {\bf Definition}\\ \hline\hline
+%SM && Standard Model \\
+%$e$ & & Electron \\
+%$\mu$ & & Muon \\
+%$\tau$ && Tau \\
+%$\nu_e$ && Electron neutrino\\
+%$\nu_{\mu}$ & & Muon neutrino \\
+%$\nu_{\tau}$ & & Tau neutrino \\
+%$\gamma$ && Photon \\
+LHC && Large Hadron Collider\\
+CMS && Compact Muon Solenoid\\
+PV && Primary vertex\\
+$\sqrt{s}$ & & Center-of-mass-energy\\
+MET & & Missing transverse energy\\
+%$m_H$ && Mass of the Higgs \\
+%$m_J$ && Mass of the jet\\
+$\Gamma$ && Decay width\\
+$\rm fb^{-1}$ && Inverse femtobarn (Unit of integrated luminosity) \\
+GeV & & Giga electron volt \\
+TeV & & Tera electron volt \\
+\hline
+\end{tabular}
+
+\begin{tabular}{lcl}\hline
+{\bf Symbols}&\hspace{2cm} & {\bf Definition}\\ \hline\hline
+$p_T$ && Momentum in the transverse plane\\
+$\eta$ && Pseudorapidity\\
+$\phi$ && Azimuthal angle\\
+$j$ && Jet\\
+$J$ && Fat jet\\
+PF jet  && Particle-flow jet\\
+\hline
+\end{tabular}
+\footnotetext{In some parts of the thesis units of $p_T$ and mass are GeV/c and $\rm GeV/c^2$ respectively while in some other parts we used natural units by taking $\hslash$ = c = 1.}
+%%%%%%%%%\end{center}
+
+
+%\clearpage
+
+%\thispagestyle{empty} 
+
+
+%\newpage

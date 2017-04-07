@@ -1,0 +1,26 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {2.1}{\ignorespaces \relax \fontsize {10.95}{13.6}\selectfont \abovedisplayskip 11\p@ plus3\p@ minus6\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \def \leftmargin \leftmargini \parsep 5\p@ plus2.5\p@ minus\p@ \topsep 10\p@ plus4\p@ minus6\p@ \itemsep 5\p@ plus2.5\p@ minus\p@ {\leftmargin \leftmargini \topsep 9\p@ plus3\p@ minus5\p@ \parsep 4.5\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {Fermions in the SM with different generation.}}}{5}{table.2.1}
+\contentsline {table}{\numberline {2.2}{\ignorespaces \relax \fontsize {10.95}{13.6}\selectfont \abovedisplayskip 11\p@ plus3\p@ minus6\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \def \leftmargin \leftmargini \parsep 5\p@ plus2.5\p@ minus\p@ \topsep 10\p@ plus4\p@ minus6\p@ \itemsep 5\p@ plus2.5\p@ minus\p@ {\leftmargin \leftmargini \topsep 9\p@ plus3\p@ minus5\p@ \parsep 4.5\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {Different interactions and their mediators in nature.}}}{6}{table.2.2}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Field content of MSSM in terms of superfileds(1st coulmn), sparticles and SM particles(2nd and 3rd coulmn) while in the 4th column the quantum numbers for various fields are shown.}}{19}{table.3.1}
+\contentsline {table}{\numberline {3.2}{\ignorespaces Quantum numbers of scalar leptoquarks and possible renormalizable interactions containing them. We take the table from Ref.\nobreakspace {}\cite {LQLHC}}}{21}{table.3.2}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {6.1}{\ignorespaces MC FullSim samples for signal SMS (Simplified SUSY Models) model points.}}{43}{table.6.1}
+\contentsline {table}{\numberline {6.2}{\ignorespaces SM $t\mathaccentV {bar}016{t}$ MC samples used in the analysis. The cross sections are calculated to NNLO (next-to-next-to leading order). }}{43}{table.6.2}
+\contentsline {table}{\numberline {6.3}{\ignorespaces SM QCD MC samples used in the analysis. All cross sections are calculated to LO.}}{44}{table.6.3}
+\contentsline {table}{\numberline {6.4}{\ignorespaces SM $Z\rightarrow \nu \nu +$jets MC samples used in the analysis. The cross sections are calculated to NNLO. }}{44}{table.6.4}
+\contentsline {table}{\numberline {6.5}{\ignorespaces SM $W\rightarrow l \nu +$jets MC samples used in the analysis. The cross sections are calculated to NNLO. }}{44}{table.6.5}
+\contentsline {table}{\numberline {6.6}{\ignorespaces SM diboson and other rare process MC samples used in the analysis. The cross sections are calculated to NNLO. }}{45}{table.6.6}
+\contentsline {table}{\numberline {6.7}{\ignorespaces SM DY+jets MC samples used in the analysis. The cross sections are calculated to NNLO. }}{45}{table.6.7}
+\contentsline {table}{\numberline {6.8}{\ignorespaces SM $\gamma +$jets MC samples used in the analysis. The cross sections are calculated to LO. }}{45}{table.6.8}
+\contentsline {table}{\numberline {6.9}{\ignorespaces Identification and isolation requirements for photons in the barrel and endcap. EA stands for effective area.}}{53}{table.6.9}
+\contentsline {table}{\numberline {6.10}{\ignorespaces Effective areas used in pileup correction as a function of photon pseudorapidity. Three columns shows different effective areas used for calculating Iso$_{\rm pfCh.}$, Iso$_{\rm pfNu.}$ and Iso$_{\rm pfGa.}$, respectively in various $\eta $ bins. }}{53}{table.6.10}
+\contentsline {table}{\numberline {6.11}{\ignorespaces $Z\to \nu \nu $+jets prediction ($N_{Z\to \nu \nu }^{\rm pred}$) in the 40 0-btag analysis bins as determined with the $\gamma +$jets method. We show the inputs to the determination of $N_{Z\to \nu \nu }^{\rm pred}$ as that vary for the 40 bins, including $N_{\gamma }^{\rm obs}$ in EB and EE, $R_{Z/\gamma }$, and double ratio. The first uncertainty on $R_{Z/\gamma }$ comes from the statistical uncertainty on the simulation and the second from variation of the data-MC scale factors for photon reconstruction, ID, and isolation. }}{66}{table.6.11}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {7.1}{\ignorespaces Optimized final selection thresholds for the $eejj$ analysis.}}{74}{table.7.1}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {8.1}{\ignorespaces Summary of grooming parameters}}{77}{table.8.1}
+\addvspace {10\p@ }

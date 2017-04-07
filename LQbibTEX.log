@@ -1,0 +1,116 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=latex 2017.1.31)  7 APR 2017 12:44
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**LQbibTEX
+(./LQbibTEX.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, lo
+aded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (./LQbibTEX.aux)
+\openout1 = `LQbibTEX.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+
+(./LQbibTEX.bbl
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 12.
+
+Underfull \hbox (badness 1701) in paragraph at lines 11--16
+[]\OT1/cmr/m/n/10 Search for heavy neu-tri-nos and W bosons with right-handed c
+ou-
+ []
+
+! Undefined control sequence.
+l.34 ...oton-proton collisions at $\sqrt{s}=8\text
+                                                  { }\text{ }\mathrm{TeV}$.
+? 
+! Undefined control sequence.
+l.34 ...ton collisions at $\sqrt{s}=8\text{ }\text
+                                                  { }\mathrm{TeV}$.
+? 
+! Undefined control sequence.
+<recently read> \varvec 
+                        
+l.46   $\varvec
+               {\sqrt{s}}$ = 8 TeV with the ATLAS detector}.
+? 
+[1
+
+]
+Missing character: There is no â in font cmr10!
+Missing character: There is no ˆ in font cmr10!
+Missing character: There is no ’ in font cmr10!
+
+! Undefined control sequence.
+l.151   6\ifmmode^\circ\else\textdegree
+                                       \fi{} and
+? 
+! Undefined control sequence.
+l.152   10\ifmmode^\circ\else\textdegree
+                                        \fi{}.
+? 
+[2]
+! Undefined control sequence.
+l.238   jet events from {\Pp
+                            \Pp} collisions at 7 {TeV}.
+? 
+! Undefined control sequence.
+l.238   jet events from {\Pp\Pp
+                               } collisions at 7 {TeV}.
+? 
+[3]
+! Undefined control sequence.
+l.255   $\sqrt{s} = 7$\tev
+                          .
+? 
+[4]
+! Undefined control sequence.
+l.395 \newblock In {\em 13$^\text
+                                 {th}$ International Workshop on Advanced Co...
+
+? 
+[5]) [6] (./LQbibTEX.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 301 strings out of 495060
+ 3496 string characters out of 3182053
+ 50977 words of memory out of 3000000
+ 3565 multiletter control sequences out of 15000+200000
+ 4591 words of font info for 17 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 23i,4n,17p,151b,205s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on LQbibTEX.dvi (6 pages, 19460 bytes).

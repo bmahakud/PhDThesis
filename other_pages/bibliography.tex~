@@ -1,0 +1,543 @@
+\begin{thebibliography}{99}
+\onehalfspacing
+%%%%%%%Synopsis and chap1%%%%%%%%%%%%%%%
+\bibitem{SUSYtheo}
+H.~Nilles, ``{Supersymmetry, supergravity and particle physics},''
+  \href{http://dx.doi.org/10.1016/0370-1573(84)90008-5}{{\em Phys. Rep.}
+  {\bfseries 110} (1984) 1}.
+
+
+\bibitem{guts}
+H.~Georgi and S.~Glashow.
+\newblock Unity of all elementary-particle forces.
+\newblock {\em Phys. Rev. Lett.}, 32:438, 1974.
+
+\bibitem{RParity}
+G.~Farrar and P.~Fayet, ``{Phenomenology of the production, decay, and
+  detection of new hadronic states associated with supersymmetry},''
+  \href{http://dx.doi.org/10.1016/0370-2693(78)90858-4}{{\em Phys. Lett. B}
+  {\bfseries 76} (1978) 575}.
+
+\bibitem{Naturaln}
+G.~G. S.~Dimopoulos, ``{Naturalness constraints in supersymmetric theories with
+  nonuniversal soft terms},''
+  \href{http://dx.doi.org/10.1016/0370-2693(95)00961-J}{{\em Phys. Lett. B}
+  {\bfseries 357} (1995) 573}.
+
+\bibitem{SMS1}
+P.~S. Alwall and N.~Toro, ``{Simplified models for a first characterization of
+  new physics at the LHC},''
+  \href{http://dx.doi.org/10.1103/PhysRevD.79.075020}{{\em Phys. Rev. D}
+  {\bfseries 79} (2009) 075020}.
+
+
+\bibitem{LQ1}
+B.~Schrempp and F.~Schremp, ``{Light Leptoquark},''
+  \href{http://dx.doi.org/10.1016/0370-2693(85)91450-9}{{\em Phys. Lett. B}
+  {\bfseries 153} (1985) 101}.
+
+\bibitem{LQ2}
+S.~Dimopoulos and L.~Susskind, ``{Mass Without Scalar},''
+  \href{http://dx.doi.org/10.1016/0550-3213(81)90304-7}{{\em Nucl. Phys. B}
+  {\bfseries 155} (1979) 237}.
+
+\bibitem{LQ3}
+J.~C. Pati and A.~Salam, ``{Lepton Number as the Fourth Color},''
+  \href{http://dx.doi.org/10.1103/PhysRevD.10.275}{{\em Phys. Rev. D}
+  {\bfseries 10} (1974) 275}.
+
+\bibitem{LQ4}
+W.~Buchmuller and D.~Wyler, ``{Constraints on SU(5) Type Leptoquarks},''
+\href{http://dx.doi.org/10.1016/0370-2693(86)90771-9}{{\em Phys. Lett.}
+  {\bfseries B177} (1986) 377--382}.
+%%CITATION = PHLTA,B177,377;%%.
+
+\bibitem{guts}
+H.~Georgi and S.~Glashow.
+\newblock Unity of all elementary-particle forces.
+\newblock {\em Phys. Rev. Lett.}, 32:438, 1974.
+
+
+\bibitem{composite}
+B.~Schrempp and F.~Schrempp.
+\newblock Light leptoquarks.
+\newblock {\em Phys. Lett. B}, 153:101, 1985.
+
+\bibitem{technicolor2}
+S.~Dimopoulos.
+\newblock Technicolored signatures.
+\newblock {\em Nucl. Phys. B}, 168:69, 1980.
+
+
+\bibitem{technicolor3}
+E.~Eichten and K.~Lane.
+\newblock Dynamical breaking of the weak interaction symmetries.
+\newblock {\em Phys. Lett. B}, 90:85, 1980.
+
+
+\bibitem{superstring_e6}
+J.~L. Hewett and T.~G. Rizzo.
+\newblock {Low-energy phenomenology of superstring-inspired E$_{6}$ models}.
+\newblock {\em Phys. Lett.}, 183:193, 1989.
+
+
+
+
+
+
+
+\bibitem{cms}
+{\bfseries CMS} Collaboration, S.~Chatrchyan {\em et~al.}, ``{The CMS
+  experiment at the CERN LHC},''
+\href{http://dx.doi.org/10.1088/1748-0221/3/08/S08004}{{\em JINST} {\bfseries
+  3} (2008) S08004}.
+%%CITATION = JINST,3,S08004;%%.
+
+\bibitem{Beaudette:2014cea}
+{\bfseries CMS} Collaboration, F.~Beaudette, ``{The CMS Particle Flow
+  Algorithm},'' in {\em {Proceedings, International Conference on Calorimetry
+  for the High Energy Frontier (CHEF 2013): Paris, France, April 22-25, 2013}},
+  pp.~295--304.
+\newblock 2013.
+\newblock \href{http://arxiv.org/abs/1401.8155}{{\ttfamily arXiv:1401.8155
+  [hep-ex]}}.
+\newblock
+\url{https://inspirehep.net/record/1279774/files/arXiv:1401.8155.pdf}.
+\newblock
+%%CITATION = ARXIV:1401.8155;%%.
+
+\bibitem{Cacciari:2008gp}
+M.~Cacciari, G.~P. Salam, and G.~Soyez, ``{The Anti-k(t) jet clustering
+  algorithm},'' \href{http://dx.doi.org/10.1088/1126-6708/2008/04/063}{{\em
+  JHEP} {\bfseries 04} (2008) 063},
+\href{http://arxiv.org/abs/0802.1189}{{\ttfamily arXiv:0802.1189 [hep-ph]}}.
+%%CITATION = ARXIV:0802.1189;%%.
+
+\bibitem{CMS-NOTE-2011-005}
+{\bfseries The ATLAS Collaboration, The CMS Collaboration, The LHC Higgs
+  Combination Group} Collaboration, ``{Procedure for the LHC Higgs boson search
+  combination in Summer 2011},'' Tech. Rep. CMS-NOTE-2011-005.
+  ATL-PHYS-PUB-2011-11, CERN, Geneva, Aug, 2011.
+\newblock \url{https://cds.cern.ch/record/1379837}.
+
+\bibitem{CMS-PAS-SUS-15-002}
+{\bfseries CMS} Collaboration, ``{Search for supersymmetry in the multijet and
+  missing transverse momentum channel in pp collisions at 13 TeV},'' Tech. Rep.
+  CMS-PAS-SUS-15-002, CERN, Geneva, 2015.
+\newblock \url{https://cds.cern.ch/record/2114817}.
+
+\bibitem{CMS-PAS-SUS-16-014}
+{\bfseries CMS} Collaboration, ``{Search for supersymmetry in events with jets
+  and missing transverse momentum in proton-proton collisions at 13 TeV},''
+  Tech. Rep. CMS-PAS-SUS-16-014, CERN, Geneva, 2016.
+\newblock \url{https://cds.cern.ch/record/2205158}.
+
+\bibitem{CMS-PAS-EXO-16-043}
+{\bfseries CMS} Collaboration, ``{Search for pair-production of first
+  generation scalar leptoquarks in pp collisions at $\sqrt{s}=13~\mathrm{TeV}$
+  with $2.6~\mathrm{fb}^{-1}$},'' Tech. Rep. CMS-PAS-EXO-16-043, CERN, Geneva,
+  2016.
+\newblock \url{https://cds.cern.ch/record/2205285}.
+
+\bibitem{CMS-PAS-EXO-12-041}
+{\bfseries CMS} Collaboration, ``{Search for Pair-production of First
+  Generation Scalar Leptoquarks in pp Collisions at sqrt s = 8 TeV},'' Tech.
+  Rep. CMS-PAS-EXO-12-041, CERN, Geneva, 2014.
+\newblock \url{https://cds.cern.ch/record/1742179}.
+
+\bibitem{Grooming}
+J.~M. Butterworth, A.~R. Davison, M.~Rubin, and G.~P. Salam, ``{Jet
+  substructure as a new Higgs search channel at the LHC},''
+  \href{http://dx.doi.org/10.1103/PhysRevLett.100.242001}{{\em Phys. Rev.
+  Lett.} {\bfseries 100} (2008) 242001}.
+
+\bibitem{Ellis:2009me}
+S.~D. Ellis, C.~K. Vermilion, and J.~R. Walsh, ``{Recombination Algorithms and
+  Jet Substructure: Pruning as a Tool for Heavy Particle Searches},''
+  \href{http://dx.doi.org/10.1103/PhysRevD.81.094023}{{\em Phys. Rev.}
+  {\bfseries D81} (2010) 094023}.
+
+\bibitem{Dasgupta:2013ihk}
+M.~Dasgupta, A.~Fregoso, S.~Marzani, and G.~P. Salam, ``{Towards an
+  understanding of jet substructure},''
+  \href{http://dx.doi.org/10.1007/JHEP09(2013)029}{{\em JHEP} {\bfseries 09}
+  (2013) 029}.
+
+\bibitem{Krohn:2009th}
+D.~Krohn, J.~Thaler, and L.-T. Wang, ``{Jet Trimming},''
+  \href{http://dx.doi.org/10.1007/JHEP02(2010)084}{{\em JHEP} {\bfseries 02}
+  (2010) 084}.
+
+\bibitem{Larkoski:2014wba}
+A.~J. Larkoski, S.~Marzani, G.~Soyez, and J.~Thaler, ``{Soft Drop},''
+  \href{http://dx.doi.org/10.1007/JHEP05(2014)146}{{\em JHEP} {\bfseries 05}
+  (2014) 146}.
+
+\bibitem{JMEPAS}
+{\bfseries CMS} Collaboration, ``{Study of Pileup Removal Algorithms for Jets
+  },'' Tech. Rep. CMS-PAS-JME-14-001, CERN, Geneva, 2016.
+\newblock \url{https://cds.cern.ch/record/1751454}.
+
+
+\bibitem{MuonPOG}
+{\bfseries CMS} Collaboration, ``{Muon Physics Object Group},''
+\newblock \url{https://twiki.cern.ch/twiki/bin/viewauth/CMS/MuonPOG}
+
+
+\bibitem{ElectronPOG}
+{\bfseries CMS} Collaboration, ``{E/gamma Physics Object Group},''
+\newblock \url{https://twiki.cern.ch/twiki/bin/view/CMS/CutBasedElectronIdentificationRun2}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%synopsis and chap1%%%%%%%%%%%%%%%%%%%%%%
+\bibitem{APichSM}
+Antonio Pich.
+\newblock {The Standard model of electroweak interactions}.
+\newblock In {\em {High-energy physics. Proceedings, European School,
+  Aronsborg, Sweden, June 18-July 1, 2006}}, pages 1--49, 2007.
+\newblock [,1(2007)].
+
+\bibitem{particle physics} F. Halzen and A. D. Martin, ``Quarks and Leptons: An Introductory Course in Modern
+Particle Physics''.
+\bibitem{sm} M. J. Herrero, ``The Standard Model'', {\url {http://arxiv.org/abs/hep-ph/9812242}}.
+
+\bibitem{atlas-higgs} ATLAS Collaboration, ``Observation of a new particle in the search for the Standard Model Higgs boson
+with the ATLAS detector at the LHC'', Physics Letters B 716 (2012) 1–29.
+\bibitem{cms-higgs} CMS Collaboration, ``Observation of a new boson at a mass of 125 GeV with the CMS experiment at
+the LHC'', Physics Letters B 716 (2012) 30–61.
+
+\bibitem{SMandParticles} Wikipedia ``Standard Model'' {\url{https://en.wikipedia.org/wiki/Standard_Model}}.
+
+\bibitem{APichQCD}
+Antonio Pich.
+\newblock {Quantum chromodynamics}.
+\newblock (hep-ph/9505231. FTUV-95-19. IFIC-95-19):51 p, May 1995.
+
+
+
+
+\bibitem{Quark1}
+E.~D. Bloom, D.~H. Coward, H.~DeStaebler, J.~Drees, G.~Miller, L.~W. Mo, R.~E.
+  Taylor, M.~Breidenbach, J.~I. Friedman, G.~C. Hartmann, and H.~W. Kendall.
+\newblock High-energy inelastic $e{-}p$ scattering at $6^{0}$ and $10^{0} $.
+\newblock {\em Phys. Rev. Lett.}, 23:930--934, Oct 1969.
+
+
+
+\bibitem{Quark2}
+M.~Breidenbach, J.~I. Friedman, H.~W. Kendall, E.~D. Bloom, D.~H. Coward,
+  H.~DeStaebler, J.~Drees, L.~W. Mo, and R.~E. Taylor.
+\newblock Observed behavior of highly inelastic electron-proton scattering.
+\newblock {\em Phys. Rev. Lett.}, 23:935--939, Oct 1969.
+
+
+
+\bibitem{Gluon}
+W.~Bartel, T.~Canzler, D.~Cords, P.~Dittmann, R.~Eichler, R.~Felst, D.~Haidt,
+  S.~Kawabata, H.~Krehbiel, B.~Naroska, L.H. O'Neill, J.~Olsson, P.~Steffen,
+  W.L. Yen, E.~Elsen, M.~Helm, A.~Petersen, P.~Warming, G.~Weber, H.~Drumm,
+  J.~Heintze, G.~Heinzelmann, R.D. Heuer, J.~von Krogh, P.~Lennert,
+  H.~Matsumura, T.~Nozaki, H.~Rieseberg, A.~Wagner, D.C. Darvill, F.~Foster,
+  G.~Hughes, H.~Wriedt, J.~Allison, J.~Armitage, I.~Duerdoth, J.~Hassard,
+  F.~Loebinger, B.~King, A.~Macbeth, H.~Mills, P.G. Murphy, H.~Prosper,
+  K.~Stephens, D.~Clarke, M.C. Goddard, R.~Hedgecock, R.~Marshall, G.F. Pearce,
+  M.~Imori, T.~Kobayashi, S.~Komamiya, M.~Koshiba, M.~Minowa, S.~Orito,
+  A.~Sato, T.~Suda, H.~Takeda, Y.~Totsuka, Y.~Watanabe, S.~Yamada, and
+  C.~Yanagisawa.
+\newblock Observation of planar three-jet events in e+e− annihilation and
+  evidence for gluon bremsstrahlung.
+\newblock {\em Physics Letters B}, 91(1):142 -- 147, 1980.
+
+
+
+\bibitem{topquark}
+Frank Fiedler.
+\newblock {Top quark production and properties at the Tevatron}.
+\newblock In {\em {Les Rencontres de physique de la Vall'ee d'Aoste, results
+  and perspectives in particle physics, La Thuile, Aoste Valley, February 27 -
+  March 5, 2005}}, pages 503--520, 2005.
+
+
+\bibitem{AsympQCD1} David J. Gross and Frank Wilczek,``Ultraviolet Behavior of Non-Abelian Gauge Theories", Phys. Rev. Lett. 30 (1973) 1343.
+
+\bibitem{AsympQCD2} H. David Politzer,``Reliable Perturbative Results for Strong Interactions?", Phys. Rev. Lett. 30 (1973) 1346.
+
+\bibitem{GSW} {J. Goldstone}, A. Salam, and S. Weinberg, Phys. Rev. 127, 965 (1962).
+
+
+\bibitem{higgs} P. W. Higgs, ``Broken symmetries and the masses of gauge bosons", Phys. Rev. Lett. 13 (1964) 508 ; F. Englert and R. Brout, ``Broken symmetries and the mass of gauge vector mesons'', Phys.Rev. Lett. 13 (1964) 321.
+
+
+\bibitem{WZbosonMass1}  ``The  LEP  Collaborations  ALEPH,  DELPHI,  L3  and  OPAL  and  the  LEP  Electroweak  Working Group'', \url{http://arxiv.org/abs/hep-ex/0612034}.
+
+\bibitem{WZbosonMass2} ``The ALEPH, DELPHI, L3, OPAL and SLD Collaborations, the LEP Electroweak Working Group and the SLD Electroweak and Heavy Flavour Group'', Phys. Rept. 427 (2006) 257.
+
+\bibitem{TopQuarkMass}  (ATLAS, CDF, CMS, D0 Collaborations),P. A. R. Ade{\it et al.}``First combination of Tevatron and LHC measurements of the top-quak mass'', \url{https://arxiv.org/abs/1403.4427}.
+
+\bibitem{DarkMatter}  (Planck Collaboration)``Planck 2013 results. XVI Cosmological parameters'', \url{https://arxiv.org/abs/1303.5076}.
+
+
+\bibitem{bsm} A. Pomarol, ``Beyond the Standard Model'', CERN Yellow Report CERN-2012-001, pp. 115-151, \url{http://arxiv.org/abs/1202.1391}.
+
+
+\bibitem{SUSYprimer}
+Stephen~P. Martin.
+\newblock {A Supersymmetry primer}.
+\newblock 1997.
+\newblock [Adv. Ser. Direct. High Energy Phys.18,1(1998)].
+
+
+
+
+\bibitem{MSSMref}
+Csaba Csaki.
+\newblock {The Minimal supersymmetric standard model (MSSM)}.
+\newblock {\em Mod. Phys. Lett.}, A11:599, 1996.
+
+
+\bibitem{NMSSMref}
+Pierre Fayet.
+\newblock {Supergauge Invariant Extension of the Higgs Mechanism and a Model
+  for the electron and Its Neutrino}.
+\newblock {\em Nucl. Phys.}, B90:104--124, 1975.
+
+
+\bibitem{extra-dim} T. Appelquist, H. C. Cheng, B. A. Dobrescu, ``Bounds on Universal Extra Dimensions'', Phys. Rev. D64 035002 (2001).
+
+
+
+
+\bibitem{LQLHC} Jason L. Evans, Natsumi Nagata, ``Signatures of Leptoquarks at the LHC
+and Right-handed Neutrinos'', {\url {https://arxiv.org/pdf/1505.00513.pdf}}.
+
+
+\bibitem{pdg1} K. Olive {\it et al.} (Particle Data Group), ``Review of Particle Physics'', Chin. Phys. C38,(2014)090001.
+
+
+\bibitem{cms-jinst} R. Adolphi {\it et al.} (CMS Collaboration), ``The CMS experiment at the CERN LHC'', JINST 0803:S08004, (2008).
+
+\bibitem{physics-tdr-8.1} CMS collaboration, ``Physics Technical Design Report'', Volume I : Detector Performance and software, CMS/LHCC 2006-001, CMS TDR 8.1.
+\bibitem{physics-tdr-8.2} CMS collaboration, ``Physics Technical Design Report'', Volume II : Physics performance, CMS/LHCC 2006-021, CMS TDR 8.2.
+
+
+
+\bibitem{cms-det} CMS Collaboration, ``Recent Results of the CMS Experiment'', \url{https://inspirehep.net/record/1193345/files/cms.png}.
+
+\bibitem{theLHC} The Large Hadron Collider, ``The Large Hadron Collider'', \url{http://home.cern/topics/large-hadron-collider}.
+
+\bibitem{xsecGlu} LHC SUSY Cross Section Working Group , ``SUSY Cross Sections'', \url{https://twiki.cern.ch/twiki/bin/view/LHCPhysics/SUSYCrossSections}.
+
+\bibitem{PValgo} E. Chabanat and N. Estre , ``Deterministic annealing for vertex finding at CMS'', \url{http://dx.doi.org/10.5170/CERN-2005-002.287}.
+
+
+\bibitem{GSF} {\bf CMS} Collaboration ,``Electromagnetic Physics Objects Commisioning with first LHC data'', \url{http://dx.doi.org/10.5170/CERN-2005-002.287}.
+
+
+\bibitem {PFmethod} CMS Collaboration, ``Commissioning of the Particle-Flow Reconstruction in
+Minimum-Bias and Jet Events from pp Collisions at 7 TeV'', CMS-PAS-PFT-2010-002 (2010).
+
+
+\bibitem {antiKT} M. Cacciari, G. P. Salam, and G. Soyez, ``The anti-$k_t$ jet clustering algorithm'', JHEP 04
+(2008) 063, \url{http://arxiv.org/abs/0802.1189}.
+
+\bibitem {MuonReco} CMS Collaboration, S.Chatrchyan {\it et al} ``Performance of CMS Muon reconstruction in pp collision events at $\sqrt{s}$= 7 TeV '', JINST 7 (2012) P10002, \url{http://arxiv.org/abs/1206.4071}.
+
+
+
+\bibitem{Butterworth:2008tr}
+Jonathan~M. Butterworth, Adam~R. Davison, Mathieu Rubin, and Gavin~P. Salam.
+\newblock {Jet substructure as a new Higgs search channel at the LHC}.
+\newblock 2008.
+
+
+\bibitem{Dokshitzer:1997in}
+Yuri~L. Dokshitzer, G.D. Leder, S.~Moretti, and B.R. Webber.
+\newblock {Better jet clustering algorithms}.
+\newblock {\em JHEP}, 9708:001, 1997.
+
+
+
+\bibitem{Cacciari:2014jta}
+Matteo Cacciari, Gavin~P. Salam, and Gregory Soyez.
+\newblock {On the use of charged-track information to subtract neutral pileup}.
+\newblock 2014.
+
+
+
+
+\bibitem{SUSYhad8TeV}
+Chatrchyan {\rm et. al}.
+\newblock {Search for new physics in the multijet and missing transverse
+  momentum final state in proton-proton collisions at $\sqrt{s}$ = 8 TeV}.
+\newblock {\em J. High Energy Phys.}, 06(arXiv:1402.4770. CMS-SUS-13-012.
+  CERN-PH-EP-2014-015):055. 37 p, Feb 2014.
+\newblock Comments: Replaced with published version. Added journal reference
+  and DOI.
+
+
+
+
+
+\bibitem{CMSSUSPublic} CMS Collaboration , ``https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS '', \url{https://twiki.cern.ch/twiki/bin/view/CMSPublic/SUSYSMSSummaryPlots8TeV}.
+
+
+
+
+
+\bibitem{atlasLQ8TeVpaper}
+Georges Aad et~al.
+\newblock {Searches for scalar leptoquarks in pp collisions at ${\sqrt{s}}$ = 8
+  TeV with the ATLAS detector}.
+\newblock {\em Eur. Phys. J.}, C76(1):5, 2016.
+
+
+
+
+
+
+
+
+
+%%%%555referenced till here 
+\bibitem{collider-physics} Guido Altarelli, ``Collider Physics within the Standard Model: a Primer'', \url{http://arxiv.org/abs/1303.2842}.
+\bibitem{u1-collaboration1} G. Arnison {\it et al.} (UA1 Collaboration), Phys. Lett. B122 (1983) 103.
+\bibitem{u1-collaboration2} G. Arnison {\it et al.} (UA1 Collaboration), Phys. Lett. B126 (1983) 398.
+\bibitem{u2-collaboration1} M. Banner {\it et al.} (UA2 Collaboration), Phys. Lett. B122 (1983) 476.
+\bibitem{u2-collaboration2} P. Bagnaia {\it et al.} (UA2 Collaboration), Phys. Lett.B129 (1983) 130. 
+\bibitem{cdf-collab} F. Abe {\it et al.} (CDF Collaboration), Phys. Rev. Lett. 74 (1995) 2626.
+\bibitem{do-collab}  S. Abachi {\it et al.} (D0 Collaboration), Phys. Rev. Lett. 74 (1995) 2632.
+
+\bibitem{pdg} J. Beringer {\it et al.} (Particle Data Group), ``REVIEW OF PARTICLE PHYSICS'', Phys. Rev. D86,010001 (2012).
+
+\bibitem{lep-higgs} G. Abbiendi, {\it et al.} (the ALEPH Collaboration, the DELPHI Collaboration, the L3 Collaboration and the OPAL Collaboration, The LEP Working Group for Higgs Boson Searches) "Search for the Standard Model Higgs Boson at LEP" {\url{http://arxiv.org/abs/hep-ex/0306033v1}}.
+
+\bibitem{tevnph-group} ``Combined CDF and D0 Search for Standard Model Higgs Boson Production with up to 10.0 fb$^{-1}$ of Data''. {\url{ http://arxiv.org/abs/1203.3774}}.
+\bibitem {lep-group} ``The LEP Electroweak Working Group'', {\url {http://lepewwg.web.cern.ch/LEPEWWG/}}.
+\bibitem{lhc-cross-section}  S. Dittmaier {\it et. al.} ``Handbook of LHC Higgs Cross Sections: 2. Differential Distributions'', \url{http://arxiv.org/abs/arXiv:1201.3084}. 
+\bibitem{lhc-cross-section-working group} ``LHC Higgs Cross Section Working Group (2012-2013)'', {\url {https://twiki.cern.ch/twiki/bin/view/LHCPhysics/CrossSections}}.
+
+\bibitem{susy-book} J. Wess and J. Bagger, ``Supersymmetry and Supergravity'', Princeton Series in Physics.
+\bibitem{hierarchy-prob} Nima Arkani-Hamed, Savas Dimopoulos, Gia Dvali, ``The Hierarchy Problem and New Dimensions at a Millimeter'', Phys. Lett. B 429:263-272, 1998, \url{http://arxiv.org/abs/hep-ph/9803315}.
+
+\bibitem{gut} W. de Boer ``Grand Unified Theories and Supersymmetry in Particle Physics and Cosmology'' {\url{http://arxiv.org/abs/hep-ph/9402266}}.
+
+
+\bibitem{mass hierarchy} L. Randall, R. Sundrum, ``A Large Mass Hierarchy from a Small Extra Dimension'', Phys. Rev. Lett. 83, 3370, \url{http://arxiv.org/abs/hep-ph/9905221}.
+%%%%%%%%%%%%%%%%%%% chapter -3 %%%%%%%%%%%%%%%%%%%%%%%%%%
+\bibitem{lhc-design-report} ``The LHC Design Report v.1'', CERN-2004-003-V-1 {\url {http://cdsweb.cern.ch/record/782076}}.
+\bibitem{alice} ALICE Collaboration, ``Technical Proposal for a Large Ion Collider Experiment at the CERN LHC'', CERN-LHCC-95-71 (1995).
+\bibitem {atlas} ATLAS Collaboration, ``Detector and Physics Performance Technical Design Report, vol. 1'',
+CERN-LHCC-99-14 (1999).
+
+\bibitem{lhc-b} LHCb Collaboration, ``LHCb Technical Proposal'', CERN-LHCC-98-04 (1998).
+
+\bibitem{cms-trigger} C. Seez, ``The CMS trigger system'', Eur Phys J C 34, s01, s151–s159 (2004).
+\bibitem{cms-workbook} The CMS Offline Workbook. {\url{https://twiki.cern.ch/twiki/bin/view/CMSPublic/WorkBook}}.
+%\bibitem{root} {\url{http://root.cern.ch/drupal/}}
+%%%%%%%%%%%%%%%%%%%% chapter-4 %%%%%%%%%%%%%%%%%%%%%%%%%%
+\bibitem{calman-filtering} R. Fruhwirth, ``Application of Kalman filtering to track and vertex fitting'', Nucl. Instrum. Meth. A262 (1987) 444-450.
+\bibitem {track and primary-vertex} CMS Collaboration, ``Description and performance of track and primary-vertex reconstruction with the CMS tracker'', CMS-TRK-11-001, \url{http://arxiv.org/abs/1405.6569}.
+\bibitem {DA-algorithim} E. Chabanat {\it et al.} Deterministic Annealing for Vertex Finding at CMS. {\url{https://cds.cern.ch/record/865587/files/p287.pdf}} .
+\bibitem{vertex filter} A. Giammanco, "Particle Identification with Energy Loss in the
+CMS Silicon Strip Tracker, CMS AN 2007/008, (2007).
+\bibitem{muon-performance} CMS Collaboration, ``Performance of muon identiﬁcation in pp collisions at $\sqrt {s}$ = 7 TeV''. CMS-PAS-MUO-10-002.
+\bibitem{cms-tdr} CMS Physics, Technical Design Report, Detector Performance and Software, Vol-1, CMS/LHCC 2006-001, CMS TDR 8.1.
+\bibitem{global-muon} G. Abbiendi {\it et al.}, CMS-AN-2008-097 (2008).
+\bibitem{track-fitting} R. Fruhwirth, ``Track fitting with non-Gaussian noise'', Computer Physics Communications 100 (1997) 1–16. 
+\bibitem{gsf-electron} W. Adam {\it et. al.}, ``Reconstruction of electrons with the gaussian-sum filter in the cms tracker at the lhc, CMS NOTE-2005/001 (2005).
+\bibitem{electron-performance} ``Electron performance with 19.6 $fb^{-1}$ of data collected at $\sqrt {s} $ = 8 TeV with the CMS detector'', CMS-DP-2013-003 ; CERN-CMS-DP-2013-003 (2013).
+\bibitem{CS} M. Cacciari and G. P. Salam, ``Pileup subtraction using jet areas'', Phys.Lett. B 659 (2008).
+119–126, \url{http://arxiv.org/abs/0707.1378}.
+\bibitem{jet-theory} S.D. Ellis {\it et. al.} ``Jets in hadron–hadron collisions'', Progress in Particle and Nuclear Physics 60 (2008) 484–551.
+\bibitem{performance-jet alg} CMS Collaboration, ``Performance of Jet Algorithms in CMS'', CMS-PAS-JME-07-003.
+\bibitem{calo jet} V. Chetluru {\it et. al.} CMS-AN-2009/067 (2009).
+\bibitem{track jet} CMS Collaboration, ``Performance of Jet Reconstruction with Charged Tracks only'', CMS-PAS-JME-08-001 (2008).
+\bibitem{jpt jet} CMS Collaboration, ``Jet Plus Tracks Algorithm for Calorimeter Jet Energy Corrections in CMS'', CMS-PAS-JME-09-002 (2009).
+\bibitem{pflow jet} CMS Collaboration, ``Particle–Flow Event Reconstruction in CMS and Performance for Jets, Taus, and $E_T^{miss}$'', CMS-PAS-PFT-09-001 (2009).
+\bibitem{jec} CMS Collaboration, ``Determination of the jet energy scale in CMS with pp collisions at $\sqrt {s}$ = 7 TeV'', CMS-PAS-JME-10-010 (2010).
+\bibitem {cms-an-12-366} B. Parida {\it et. al.} ``Jet energy resolution with Z$\rightarrow(\mu^+\mu^-)$ + jet events at $\sqrt {s}$ = 7 TeV'' CMS-AN-12-366 (2012).
+
+\bibitem{b-quark jet} CMS Collaboration, ``Identification of b-quark jets with the CMS experiment'', JINST 8 (2013) P04013, {\url{http://arxiv.org/abs/1211.4462}}.
+\bibitem{b-tag-pog} CMS b-tag POG twiki, {\url{https://twiki.cern.ch/twiki/bin/viewauth/CMS/BtagPOG}}.
+\bibitem {missing energy} CMS Collaboration, ``Missing transverse energy performance of the CMS detector'', JINST 6 (2011) 09001, {\url{http://arxiv.org/abs/1106.5048}}.
+%%%%%%%%%%%%%%%%%%%% chapter-5 %%%%%%%%%%%%%%%%%%%%%%%%%%%
+\bibitem{kt-alg} S. Cataniand, Y. L. Dokshitzerand, M. H. Seymour, and B. R. Webber, ``Longitudinally
+invariant K-t clustering algorithms for hadron hadron collisions,'' Nucl. Phys. B 406:187 (1993).
+\bibitem{sucssesive jet alg} S. D. Ellis and D. E. Soper, ``Successive combination jet algorithm for hadron collisions'', Phys. Rev. D 48 3160 (1993).
+\bibitem {CA-alg.} {Y. L. Dokshitzer}, G. Leder, S. Moretti, and B. Webber, ``Better jet clustering algorithms'',
+JHEP 9708 (1997) 001, \url{http://arxiv.org/abs/hep-ph/9707323}.
+\bibitem{fastjet} G. S. Matteo Cacciari and G. Soyez, ``FastJet 2.3 User Manual'', Phys. Lett. B 641:57 (2006).
+\bibitem{grooming} S.D. Ellis, C.K. Vermilion and J.R. Walsh, ``Techniques for improved heavy particle searches
+with jet substructure'', Phys. Rev. D 80 (2009) 051501, \url{http://arxiv.org/abs/0903.5081}. 
+\bibitem {filtering} J. M. Butterworth {\it et al.}, ``Jet substructure as a new Higgs-search channel at the LHC'',
+Phys. Rev. Lett. 100 (2008) 242001, \url{http://arxiv.org/abs/0802.2470}.
+\bibitem {trimming} D. Krohn, J. Thaler, and L.-T. Wang, ``Jet Trimming'', JHEP 02 (2010) 084, {\url{http://arxiv.org/abs/0912.1342}}.
+\bibitem {pruning} S. D. Ellis, C. K. Vermilion, and J. R. Walsh, ``Recombination Algorithms and Jet
+Substructure: Pruning as a Tool for Heavy Particle Searches'', Phys. Rev. D 81 (2010) 094023, \url{http://arxiv.org/abs/0912.0033}.
+\bibitem{softdrop} A. J. Larkoski, S. Marzani, G. Soyez, and J. Thaler, ``Soft Drop'', JHEP 1405 (2014) 146, \url{http://arxiv.org/abs/1402.2657}.
+\bibitem {DFMS-mmdt} M. Dasgupta, A. Fregoso, S. Marzani, and G. P. Salam, ``Towards an understanding of jet
+substructure'', JHEP 1309 (2013) 029, \url{http://arxiv.org/abs/1307.0007}.
+\bibitem {BDRS} J. M. Butterworth, A. R. Davison, M. Rubin, and G. P. Salam, ``Jet substructure as a new
+Higgs search channel at the LHC'', \url{http://arxiv.org/abs/0810.0409}.
+\bibitem {smp-12-019} CMS Collaboration, ``Studies of jet mass in dijet and W/Z + jet events'', CMS-PAS-SMP-12-019 (2012).
+\bibitem{w-tag-theory} Y. Cui, Z. Han, and M. D. Schwartz, ``W-jet Tagging: Optimizing the Identification of Boosted Hadronically-Decaying W Bosons'', Phys.Rev. D83 (2011), \url{http://arxiv.org/abs/1012.2077}.
+\bibitem {TV} J. Thaler and K. Van Tilburg, ``Identifying Boosted Objects with N-subjettiness'', JHEP 1103 (2011) 015, {\url{http://arxiv.org/abs/1011.2268}}.
+\bibitem{q-jet} S. D. Ellis $\it et al.$, ``Qjets: A Non-Deterministic Approach to Tree-Based Jet Substructure'', Phys.Rev.Lett. 108 (2012) 182003, \url{http://arxiv.org/abs/1201.1914}.
+%%%%%%%%%5%%%%%%  chapter-6 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\bibitem{an-13-414} B. Parida {\it et al.} ``Semi-leptonic decay of HWW at high mass in exclusive jet bins'', CMS-AN-13-414 (2014).
+\bibitem{hig-14-008} CMS Collaboration, ``Search for a Standard Model Higgs-like boson decaying into $WW\rightarrow \ell\nu q\bar q^{\prime}$ in exclusive jet bins in pp collisions at $\sqrt {s}$ = 8 TeV'', CMS-PAS-HIG-14-008, (2014).
+
+\bibitem{an-12-381} B. Parida {\it et. al.} ``Searches for new physics in the $\rm WW\rightarrow \ell\nu j$ final state with merged W bosons'', CMS-AN-12-381, (2013).
+\bibitem{hig-13-008} CMS Collaboration, ``Search for a Standard Model-like Higgs boson decaying into $WW\rightarrow \ell \nu q\bar q^{\prime}$ in pp collisions at $\sqrt {s}$ = 8 TeV'', CMS-PAS-HIG-13-008 (2013).
+\bibitem{powheg} S. Frixione, P. Nason, and C. Oleari, ``Matching NLO QCD computations with Parton
+Shower simulations: the POWHEG method'', JHEP 11 (2007) 070, \url{http://arxiv.org/abs/0709.2092}.
+\bibitem{pythia} T. Sjostrand, S. Mrenna, and P.Z. Skands, ``PYTHIA 6.4 Physics and Manual'', JHEP, 05, 422 (2006).
+\bibitem{herwig} G. Corcella {\it et. al.} ``HERWIG 6: an event generator for hadron emission reactions with interfering gluons" JHEP, 01, 010 (2001). 
+\bibitem{group-pattuple}  {\url {https://twiki.cern.ch/twiki/bin/view/CMS/HiggsWWTolnujjCommonPATtuples}}.
+\bibitem{gsf electron} CMS Collaboration, ``Electron Reconstruction and Selection Studies with First CMS 7
+TeV Data'', CMS-PAS-EGM-10-004 (2010).
+\bibitem{muon identification} CMS Collaboration, ``Performance of CMS muon identification in pp collisions at $\sqrt {s}$ = 7 TeV'', CMS-PAS-MUO-2010-002 (2010).
+\bibitem {met performance} CMS Collaboration, ``CMS MET Performance in Events Containing Electroweak Bosons from pp Collisions at $\sqrt s$= 7 TeV'', CMS-PAS-JME-10-005.
+\bibitem{pflow} CMS Collaboration, ``Particle-Flow Event Reconstruction in CMS and Performance for Jets, Taus, and MET'', CMS-PAS-PFT-2009-001 (2009).
+
+\bibitem{jet performance} CMS Collaboration, ``Jet Performance in pp Collisions at $\sqrt s$= 7 TeV'', CMS-PAS-JME-10-003, (2010).
+\bibitem {jet id}  CMS Collaboration, ``Jet identification in high pile-up environment'', CMS twiki
+PileupJetID twiki (2012) {\url {https://twiki.cern.ch/twiki/bin/viewauth/CMS/PileupJetID}}.
+\bibitem{cms-an-12-029} A. Benaglia, L. Di Matteo, and P. Govoni, ``Search for Higgs Boson Decays into Two W
+Bosons in the Semi-leptonic Final State with the Full 2011 pp Dataset at $\sqrt{s}$ = 7 TeV'', CMS-AN-12-029 (2012).
+\bibitem{cms-an-12-021} N. Akchurin {\it et al.}, ``Computation of Offline and Trigger Efficiencies for Standard Model
+Higgs boson search in $\rm H\rightarrow WW\rightarrow \ell\nu jj$ decay'', CMS-AN-12-021 (2012).
+\bibitem{massive resonance} CMS Collaboration, ``Search for massive resonances decaying into pairs of
+boosted bosons in semi-leptonic final states at $\sqrt{s}$= 8 TeV'', \url{http://arxiv.org/abs/1405.3447}.
+\bibitem{dijet mass} {CMS Collaboration}, ``Studies of jet mass in dijet and W/Z + jet events'',
+JHEP 1305 (2013) 090, \url{http://arxiv.org/abs/1303.4811}.
+\bibitem{w-tag} {CMS Collaboration}, ``Identifying Hadronically Decaying Vector Bosons Merged into a
+Single Jet'', CMS-PAS-JME-13-006 (2013).
+\bibitem{b-jet} {CMS Collaboration}, ``b-Jet Identification in the CMS Experiment'', CMS-PAS-BTV-11-004, (2012).
+\bibitem {diboson production} CMS Collaboration, “Measurement of $W^+W^-$ and ZZ production cross
+sections in pp collisions at $\sqrt{s}$ = 8 TeV”, Phys.Lett. B721 (2013) 190–211, \url{http://arxiv.org/abs/1301.4698}.
+
+\bibitem{higgs-cross section} LHC Higgs Cross Section Working Group Collaboration, ``Handbook of LHC Higgs
+Cross Sections: 3. Higgs Properties'',  \url{http://arxiv.org/abs/1307.1347}.
+\bibitem{CLs} CLs ``Procedure for the LHC Higgs boson search combination in summer 2011'', ATL-PHYS-PUB-2011-011, CMS NOTE-2011/005 (2011).
+\bibitem{cLs} {A. L. Read}, ``Presentation of search results: the CLs technique'', Journal of Physics G: Nuclear and Particle Physics 28 (2002), no. 10, 2693.
+\bibitem{lumi} CMS Collaboration, ``CMS Luminosity Based on Pixel Cluster Counting - Summer 2013 Update'', CMS-PAS-LUM-13-001 (2013).
+\bibitem{vv-scattering} {A. Ballestrero}, G. Bevilacqua, D. B. Franzosi, and E. Maina, ``How well can the LHC
+distinguish between the SM light Higgs scenario, a composite Higgs and the Higgsless
+case using VV scattering channels?'', JHEP 11 (2009) 126, \url{http://arxiv.org/abs/0909.3838}.
+%%%%%%%%%%%%%%%%% chapter-7 %%%%%%%%%%%%%%%%%%%%%%%%%%
+\bibitem{pileup AN} B.Parida {\it et. al.} ``Study of Pileup Removal Algorithms for Jets'', CMS-AN-14-175 (2014).
+\bibitem{pileup removal alg.} CMS Collaboration, ``Study of Pileup Removal Algorithms for Jets'', CMS-PAS-JME-14-001 (2014).
+\bibitem {S} G. Soyez {\it et al}., ``Pileup subtraction for jet shapes'', Phys. Rev. Lett. 110 (2013), no. 16, 162001, \url{http://arxiv.org/abs/1211.2811}.
+\bibitem {EVW} S. D. Ellis, C. K. Vermilion, and J. R. Walsh, ``Techniques for improved heavy particle
+searches with jet substructure'', Phys. Rev. D 80 (2009) 051501, \url{http://arxiv.org/abs/0903.5081}.
+\bibitem {safe subtraction} M. Cacciari, G. P. Salam, and G. Soyez, ``On the use of charged-track information to subtract neutral pileup'', \url{http://arxiv.org/abs/1404.7353}.
+
+\bibitem{constituent_subtract} Peter Berta, Martin Spousta, David W. Miller, Rupert Leitner,``Particle-level pileup subtraction for jets and jet shapes" JHEP 1406 (2014) 092,\url{http://arxiv.org/abs/1403.3108}.
+
+\bibitem{cleansing} D. Krohn, M. Schwartz, M. Low, and L.-T. Wang, ``Jet Cleansing: Pileup Removal at High
+Luminosity'', \url{http://arxiv.org/abs/1309.4777}.
+\bibitem{puppi} D. Bertolini, P. Harris, M. Low, and N. Tran, ``Pileup Per Particle Identification'', \url{http://arxiv.org/abs/1407.6013}.
+\bibitem{ferno} R. Fernow, Introduction to experimental particle physics.
+\bibitem{D-green} D. Green, The Physics of Particle Detectors.
+\end{thebibliography}
