@@ -25,13 +25,13 @@ Similarly, in the leptoquark analysis we have  extended the previous limits. How
 \centering
 \includegraphics[width=0.42\textwidth]{/home/bibhu/Desktop/PhDThesis/PhDThesis/chapter9/LQ18Tevlimit.pdf}
 \includegraphics[width=0.42\textwidth]{/home/bibhu/Desktop/PhDThesis/PhDThesis/chapter9/LQLimitPlot.pdf}
-\caption{\label{fig:LQLimit8TeV13TeV}The 95\% CL upper limits on the leptoquark production cross section times branching fraction. The left plot is taken from Ref.~\cite{CMS-PAS-EXO-12-041}. The right plot is produced by us with 2.6 $\rm fb^{-1}$ of data.}
+\caption{\label{fig:LQLimit8TeV13TeV}The 95\% CL upper limits on the leptoquark production cross section times branching fraction. The left plot is taken from Ref.~\cite{CMS-PAS-EXO-12-041} while the right plot is our result based on 2.6 $\rm fb^{-1}$ of data.}
 \end{figure}
 
 
 At the end, we have presented a study on the various advanced pileup mitigation techniques. It turns out that grooming is very useful when jets are contaminated with pileup. Motivated by our study, many of the current CMS analysises are using grooming techiques for pileup mitigation.
 
-With this we conclude the presentation of various works that are carried out during our PhD.
+Even though the searches yield null results for new physics, but the results are useful in excluding the parameter space for the SUSY and leptoquarks. But as we understand the SM is incomplete, so there must be new physics at a scale currently not known to us. We believe, with collection of more data with higher energies in the future years could potentialy reveal signatures of new phyisics.  With this we conclude the presentation of various works that are carried out during our PhD.
 
 
 
