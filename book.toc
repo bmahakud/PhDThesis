@@ -8,29 +8,29 @@
 \contentsline {section}{\numberline {0.3}Event Reconstruction }{10}{section.0.3}
 \contentsline {section}{\numberline {0.4} Search for Supersymmetry with 13 TeV pp Collision Data}{11}{section.0.4}
 \contentsline {subsection}{\numberline {0.4.1}Study on 2.3 $\rm fb^{-1}$ of 2015 Data}{12}{subsection.0.4.1}
-\contentsline {subsubsection}{\numberline {0.4.1.1}Event Selection and Search Region}{12}{subsubsection.0.4.1.1}
+\contentsline {subsubsection}{\numberline {0.4.1.1}Event Selection and Search Region}{13}{subsubsection.0.4.1.1}
 \contentsline {subsubsection}{\numberline {0.4.1.2}Background Estimation }{14}{subsubsection.0.4.1.2}
 \contentsline {paragraph}{\relax $\@@underline {\hbox {Z to neutrinos}}\mathsurround \z@ $\relax : }{14}{section*.2}
 \contentsline {paragraph}{\relax $\@@underline {\hbox {Lost lepton}}\mathsurround \z@ $\relax : }{16}{section*.3}
 \contentsline {paragraph}{\relax $\@@underline {\hbox {QCD}}\mathsurround \z@ $\relax : }{16}{section*.4}
 \contentsline {paragraph}{\relax $\@@underline {\hbox {Hadronic tau}}\mathsurround \z@ $\relax : }{17}{section*.5}
 \contentsline {subsubsection}{\numberline {0.4.1.3}Uncertainties}{17}{subsubsection.0.4.1.3}
-\contentsline {subsubsection}{\numberline {0.4.1.4}Results}{18}{subsubsection.0.4.1.4}
+\contentsline {subsubsection}{\numberline {0.4.1.4}Results}{19}{subsubsection.0.4.1.4}
 \contentsline {subsection}{\numberline {0.4.2}Study on 12.9 $\rm fb^{-1}$ of 2016 Data}{20}{subsection.0.4.2}
 \contentsline {subsubsection}{\numberline {0.4.2.1}Search Region and Event Selection}{20}{subsubsection.0.4.2.1}
-\contentsline {subsubsection}{\numberline {0.4.2.2}Background Estimation}{21}{subsubsection.0.4.2.2}
+\contentsline {subsubsection}{\numberline {0.4.2.2}Background Estimation}{22}{subsubsection.0.4.2.2}
 \contentsline {subsubsection}{\numberline {0.4.2.3}Uncertainties}{22}{subsubsection.0.4.2.3}
 \contentsline {subsubsection}{\numberline {0.4.2.4}Results}{22}{subsubsection.0.4.2.4}
-\contentsline {section}{\numberline {0.5}Search for Pair Production of First Generation Leptoquarks}{23}{section.0.5}
-\contentsline {subsection}{\numberline {0.5.1}Background Estimation}{24}{subsection.0.5.1}
-\contentsline {subsection}{\numberline {0.5.2}Results}{24}{subsection.0.5.2}
+\contentsline {section}{\numberline {0.5}Search for Pair Production of First Generation Leptoquarks}{24}{section.0.5}
+\contentsline {subsection}{\numberline {0.5.1}Background Estimation}{25}{subsection.0.5.1}
+\contentsline {subsection}{\numberline {0.5.2}Results}{25}{subsection.0.5.2}
 \contentsline {section}{\numberline {0.6}Advanced Pileup Mitigation Techniques}{25}{section.0.6}
-\contentsline {subsection}{\numberline {0.6.1}Jet Grooming }{25}{subsection.0.6.1}
-\contentsline {subsection}{\numberline {0.6.2}Results}{26}{subsection.0.6.2}
-\contentsline {section}{\numberline {0.7}Summary}{28}{section.0.7}
-\contentsline {chapter}{List of Symbols}{30}{section.0.7}
-\contentsline {chapter}{List of Tables}{30}{section.0.7}
-\contentsline {chapter}{List of Figures}{32}{chapter*.6}
+\contentsline {subsection}{\numberline {0.6.1}Jet Grooming }{26}{subsection.0.6.1}
+\contentsline {subsection}{\numberline {0.6.2}Results}{27}{subsection.0.6.2}
+\contentsline {section}{\numberline {0.7}Summary}{29}{section.0.7}
+\contentsline {chapter}{List of Symbols}{31}{section.0.7}
+\contentsline {chapter}{List of Tables}{31}{section.0.7}
+\contentsline {chapter}{List of Figures}{33}{chapter*.6}
 \contentsline {chapter}{Chapter \numberline {1}Introduction }{1}{chapter.1}
 \contentsline {chapter}{Chapter \numberline {2}The Standard Model of Particle Physics }{4}{chapter.2}
 \contentsline {section}{\numberline {2.1}Introduction}{4}{section.2.1}
@@ -41,46 +41,47 @@
 \contentsline {section}{\numberline {2.5}Drawbacks of the Standard Model}{15}{section.2.5}
 \contentsline {chapter}{Chapter \numberline {3}Beyond the Standard Model }{17}{chapter.3}
 \contentsline {section}{\numberline {3.1}Supersymmetry}{17}{section.3.1}
-\contentsline {section}{\numberline {3.2}Leptoquark models}{20}{section.3.2}
+\contentsline {section}{\numberline {3.2}Leptoquark models}{21}{section.3.2}
 \contentsline {chapter}{Chapter \numberline {4}The Compact Muon Solenoid }{22}{chapter.4}
 \contentsline {section}{\numberline {4.1}CMS detector}{22}{section.4.1}
 \contentsline {subsection}{\numberline {4.1.1}Tracker}{23}{subsection.4.1.1}
 \contentsline {subsection}{\numberline {4.1.2}Electromagnetic Calorimeter}{25}{subsection.4.1.2}
 \contentsline {subsection}{\numberline {4.1.3}Hadron Calorimeter}{28}{subsection.4.1.3}
 \contentsline {subsection}{\numberline {4.1.4}Muon System}{30}{subsection.4.1.4}
-\contentsline {section}{\numberline {4.2}Object Reconstruction}{33}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Reconstruction of Primary Vertex}{33}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}Electron Reconstruction}{33}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}Muon Reconstruction}{34}{subsection.4.2.3}
-\contentsline {subsection}{\numberline {4.2.4}Jet Reconstruction}{34}{subsection.4.2.4}
-\contentsline {subsection}{\numberline {4.2.5}Missing Transverse Energy}{35}{subsection.4.2.5}
-\contentsline {chapter}{Chapter \numberline {5}Statistical Procedures for Search }{36}{chapter.5}
-\contentsline {section}{\numberline {5.1} Observed Limits}{37}{section.5.1}
-\contentsline {section}{\numberline {5.2}Expected Limits }{39}{section.5.2}
-\contentsline {section}{\numberline {5.3}Significance }{40}{section.5.3}
-\contentsline {chapter}{Chapter \numberline {6}Search for Supersymmetry with 13 TeV pp Collision Data }{41}{chapter.6}
-\contentsline {section}{\numberline {6.1}Study with 2.3 $\rm fb^{-1}$ of the 2015 Data}{43}{section.6.1}
-\contentsline {subsection}{\numberline {6.1.1}Data-MC samples and trigger}{43}{subsection.6.1.1}
-\contentsline {subsubsection}{\numberline {6.1.1.1}Trigger}{46}{subsubsection.6.1.1.1}
-\contentsline {subsection}{\numberline {6.1.2}Event Selection criteria and exclusive search intervals}{46}{subsection.6.1.2}
-\contentsline {subsection}{\numberline {6.1.3}Backgrounds}{50}{subsection.6.1.3}
-\contentsline {subsubsection}{\numberline {6.1.3.1}$Z(\rightarrow \nu \mathaccentV {bar}016{\nu })+jets$ background estimation}{51}{subsubsection.6.1.3.1}
-\contentsline {paragraph}{\relax $\@@underline {\hbox {Lost lepton}}\mathsurround \z@ $\relax : }{58}{section*.8}
-\contentsline {paragraph}{\relax $\@@underline {\hbox {QCD}}\mathsurround \z@ $\relax : }{58}{section*.9}
-\contentsline {paragraph}{\relax $\@@underline {\hbox {Hadronic tau}}\mathsurround \z@ $\relax : }{59}{section*.10}
-\contentsline {subsection}{\numberline {6.1.4}Results and statistical interpretation}{59}{subsection.6.1.4}
-\contentsline {section}{\numberline {6.2}Study with 12.9 $\bf \rm fb^{-1}$ of 2016 data}{60}{section.6.2}
-\contentsline {subsection}{\numberline {6.2.1}Search binning}{62}{subsection.6.2.1}
-\contentsline {subsection}{\numberline {6.2.2}\bf $\bf Z(\rightarrow \nu \mathaccentV {bar}016{\nu })+$ jets background estimation}{63}{subsection.6.2.2}
-\contentsline {subsection}{\numberline {6.2.3}Results and statistical interpretation}{64}{subsection.6.2.3}
-\contentsline {chapter}{Chapter \numberline {7}Search for Pair Production of First Generation Leptoquarks }{67}{chapter.7}
-\contentsline {section}{\numberline {7.1}Event Selection}{68}{section.7.1}
-\contentsline {subsubsection}{\numberline {7.1.0.1}Preselection}{68}{subsubsection.7.1.0.1}
-\contentsline {subsubsection}{\numberline {7.1.0.2}final selection}{70}{subsubsection.7.1.0.2}
-\contentsline {section}{\numberline {7.2} Backgrounds}{71}{section.7.2}
-\contentsline {subsection}{\numberline {7.2.1}QCD multijet :}{71}{subsection.7.2.1}
-\contentsline {section}{\numberline {7.3}Results and statistical interpretation}{72}{section.7.3}
-\contentsline {chapter}{Chapter \numberline {8}Advanced Pilup Mitigation Techniques }{75}{chapter.8}
-\contentsline {subsection}{\numberline {8.0.1}Simulation-only results at high pileup}{77}{subsection.8.0.1}
-\contentsline {chapter}{Chapter \numberline {9}Summary and Conclusion }{81}{chapter.9}
-\contentsline {chapter}{References}{84}{figure.9.2}
+\contentsline {section}{\numberline {4.2}Object Reconstruction}{34}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1} Primary Vertex Reconstruction}{34}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Electron Reconstruction}{34}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Muon Reconstruction}{35}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Jet Reconstruction}{35}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.5}Missing Transverse Energy}{36}{subsection.4.2.5}
+\contentsline {chapter}{Chapter \numberline {5}Statistical Procedures for Search }{37}{chapter.5}
+\contentsline {section}{\numberline {5.1} Observed Limits}{38}{section.5.1}
+\contentsline {section}{\numberline {5.2}Expected Limits }{40}{section.5.2}
+\contentsline {section}{\numberline {5.3}Significance }{41}{section.5.3}
+\contentsline {chapter}{Chapter \numberline {6}Search for SUSY with 13 TeV pp Collision Data }{42}{chapter.6}
+\contentsline {section}{\numberline {6.1}Study with 2.3 $\rm fb^{-1}$ of the 2015 Data}{44}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Data-MC Samples and Trigger}{44}{subsection.6.1.1}
+\contentsline {subsubsection}{\numberline {6.1.1.1}Trigger}{47}{subsubsection.6.1.1.1}
+\contentsline {subsection}{\numberline {6.1.2}Event Selection Criteria and Exclusive Search Intervals}{47}{subsection.6.1.2}
+\contentsline {subsection}{\numberline {6.1.3}Backgrounds}{51}{subsection.6.1.3}
+\contentsline {subsubsection}{\numberline {6.1.3.1}$Z(\rightarrow \nu \mathaccentV {bar}016{\nu })+$jets background estimation}{52}{subsubsection.6.1.3.1}
+\contentsline {paragraph}{\relax $\@@underline {\hbox {Lost lepton}}\mathsurround \z@ $\relax : }{60}{section*.8}
+\contentsline {paragraph}{\relax $\@@underline {\hbox {QCD}}\mathsurround \z@ $\relax : }{61}{section*.9}
+\contentsline {paragraph}{\relax $\@@underline {\hbox {Hadronic tau}}\mathsurround \z@ $\relax : }{62}{section*.10}
+\contentsline {subsubsection}{\numberline {6.1.3.2}Uncertainties}{62}{subsubsection.6.1.3.2}
+\contentsline {subsection}{\numberline {6.1.4}Results and Statistical Interpretation}{64}{subsection.6.1.4}
+\contentsline {section}{\numberline {6.2}Study with 12.9 $\bf \rm fb^{-1}$ of 2016 data}{66}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Search Binning}{66}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}\bf $\bf Z(\rightarrow \nu \mathaccentV {bar}016{\nu })+$jets Background Estimation}{68}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.3}Results and Statistical Interpretation}{69}{subsection.6.2.3}
+\contentsline {chapter}{Chapter \numberline {7}Search for Pair Production of First Generation Leptoquarks }{72}{chapter.7}
+\contentsline {section}{\numberline {7.1}Event Selection}{73}{section.7.1}
+\contentsline {subsubsection}{\numberline {7.1.0.1}Preselection}{74}{subsubsection.7.1.0.1}
+\contentsline {subsubsection}{\numberline {7.1.0.2}Final Selection}{75}{subsubsection.7.1.0.2}
+\contentsline {section}{\numberline {7.2} Backgrounds}{76}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}QCD multijet:}{77}{subsection.7.2.1}
+\contentsline {section}{\numberline {7.3}Results and Statistical Interpretation}{77}{section.7.3}
+\contentsline {chapter}{Chapter \numberline {8}Advanced Pileup Mitigation Techniques }{81}{chapter.8}
+\contentsline {subsection}{\numberline {8.0.1}Simulation Results at High Pileup}{83}{subsection.8.0.1}
+\contentsline {chapter}{Chapter \numberline {9}Summary and Conclusions }{88}{chapter.9}
+\contentsline {chapter}{References}{91}{figure.9.2}

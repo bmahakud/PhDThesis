@@ -1198,7 +1198,7 @@ author = "W. Bartel and T. Canzler and D. Cords and P. Dittmann and R. Eichler a
 
 
 
-@article{Punzi:2003bu,
+@article{PunziSignificance,
       author         = "Punzi, Giovanni",
       title          = "{Sensitivity of searches for new signals and its
                         optimization}",
@@ -1216,6 +1216,54 @@ author = "W. Bartel and T. Canzler and D. Cords and P. Dittmann and R. Eichler a
       reportNumber   = "PHYSTAT-2003-MODT002",
       SLACcitation   = "%%CITATION = PHYSICS/0308063;%%"
 }
+
+
+@inproceedings{PruningPic,
+      author         = "Peruzzi, Marco",
+      title          = "{Jet and photon physics}",
+      booktitle      = "{Proceedings, 2nd Conference on Large Hadron Collider
+                        Physics Conference (LHCP 2014): New York, USA, June 2-7,
+                        2014}",
+      collaboration  = "ATLAS, CMS",
+      url            = "https://inspirehep.net/record/1319482/files/arXiv:1409.8539.pdf",
+      year           = "2014",
+      eprint         = "1409.8539",
+      archivePrefix  = "arXiv",
+      primaryClass   = "hep-ex",
+      reportNumber   = "CMS-CR-2014-228",
+      SLACcitation   = "%%CITATION = ARXIV:1409.8539;%%"
+}
+
+
+
+
+
+
+
+
+
+
+@article{XsecSUSY,
+      author         = "Borschensky, Christoph and Krämer, Michael and Kulesza,
+                        Anna and Mangano, Michelangelo and Padhi, Sanjay and
+                        Plehn, Tilman and Portell, Xavier",
+      title          = "{Squark and gluino production cross sections in pp
+                        collisions at $\sqrt{s}$ = 13, 14, 33 and 100 TeV}",
+      journal        = "Eur. Phys. J.",
+      volume         = "C74",
+      year           = "2014",
+      number         = "12",
+      pages          = "3174",
+      doi            = "10.1140/epjc/s10052-014-3174-y",
+      eprint         = "1407.5066",
+      archivePrefix  = "arXiv",
+      primaryClass   = "hep-ph",
+      reportNumber   = "MS-TP-14-25, CERN-PH-TH-2014-137, TTK-14-13",
+      SLACcitation   = "%%CITATION = ARXIV:1407.5066;%%"
+}
+
+
+
 
 
 

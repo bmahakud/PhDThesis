@@ -152,6 +152,13 @@ E.~D. Bloom, D.~H. Coward, H.~DeStaebler, J.~Drees, G.~Miller, L.~W. Mo, R.~E.
   10\ifmmode^\circ\else\textdegree\fi{}.
 \newblock {\em Phys. Rev. Lett.}, 23:930--934, Oct 1969.
 
+\bibitem{XsecSUSY}
+Christoph Borschensky, Michael Krämer, Anna Kulesza, Michelangelo Mangano,
+  Sanjay Padhi, Tilman Plehn, and Xavier Portell.
+\newblock {Squark and gluino production cross sections in pp collisions at
+  $\sqrt{s}$ = 13, 14, 33 and 100 TeV}.
+\newblock {\em Eur. Phys. J.}, C74(12):3174, 2014.
+
 \bibitem{AN-14-130}
 E.~Bouvier and V.~Sordini.
 \newblock Chs studies in photon+jets events.
@@ -410,6 +417,12 @@ K.~A. Olive et~al.
 J.~C. Pati and A.~Salam.
 \newblock Lepton number as the fourth color.
 \newblock {\em Phys. Rev. D}, 10:275, 1974.
+
+\bibitem{PruningPic}
+Marco Peruzzi.
+\newblock {Jet and photon physics}.
+\newblock In {\em {Proceedings, 2nd Conference on Large Hadron Collider Physics
+  Conference (LHCP 2014): New York, USA, June 2-7, 2014}}, 2014.
 
 \bibitem{Pich:281332}
 Antonio Pich.

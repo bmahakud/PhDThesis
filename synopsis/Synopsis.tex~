@@ -85,7 +85,7 @@ We search for supersymmetry in all hadronic final states with proton-proton coll
 
 Another search for the pair production of first generation scalar leptoquarks decaying to leptons and jets is presented. The data corresponding to 2.6 $\rm fb^{-1}$ were collected from proton-proton collisions at a center-of-mass energy of 13 TeV. No significant deviation is found with respect to the standard model predictions. Upper limits are set on cross section times branching fraction.  
 
-The increase of instantaneous luminosity for Run II LHC results in a large number of additional proton-proton collisions in a given event (pileup) leading to contamination of jets. We study advanced pileup removal techniques like trimming, prunning and soft-drop  etc. The focus was on preparation for Run II for which we expected up to 40 additional pileup events in comparison to Run I LHC data that had typically half the pileup events on average.
+The increase of instantaneous luminosity for Run II LHC results in a large number of additional proton-proton collisions in a given event (pileup) leading to contamination of jets. We study advanced pileup removal techniques like trimming, pruning and soft-drop  etc. The focus was on preparation for Run II for which we expected up to 40 additional pileup events in comparison to Run I LHC data that had typically half the pileup events on average.
 
 
 %\end{abstract}
@@ -210,8 +210,8 @@ quark and an off-shell bottom squark. The off-shell bottom squark decays to a bo
 and the LSP, where the LSP is assumed to be the lightest neutralino 
 that escapes detection, leading to significant missing transverse energy. The second scenario, shown in Fig. 1 (middle), is the same as the first one except with top quarks and off-shell top squarks appearing in place of the bottom
 quarks and squarks. The third scenario, shown in Fig. 1 (right), is the corresponding
-situation with gluino decay to a light-flavored quark and off-shell squark up, down, strange,
-and charm with equal probability, for each gluino separately. 
+situation with the gluino decay to a light-flavored quark and off-shell squark up, down, strange,
+and charm with equal probability, for each of them separately separately. 
 
 \begin{figure}[h]
 \centering
@@ -223,8 +223,8 @@ and charm with equal probability, for each gluino separately.
 \end{figure}
 
 The SM quark and lepton sectors are strikingly similar in terms of the number of particles and generations. This hints that the two sectors could be
-related by a fundamental symmetry. Many beyond the SM theories , include
-such a symmetry~\cite{LQ1,LQ2,LQ3,LQ4}, which gives rise to new class of bosons called leptoquarks (LQs). Leptoquarks couple
+related by a fundamental symmetry. Many beyond the SM theories, include
+such a symmetry~\cite{composite,LQ2,LQ3,LQ4}, which gives rise to new class of bosons called leptoquarks (LQs). LQs couple
 to both leptons and quarks, carrying lepton and baryon numbers as well as fractional electric charge.
 They can be either scalar or vector particles (carrying zero or one unit of spin) and are color
 triplets. Current experimental searches for rare processes mediated by lepton number violation and
@@ -233,7 +233,7 @@ not mix. Their pair-production at the LHC proceeds mainly via gluon-gluon (gg) f
 quark-antiquark ($\rm q\bar{q}$) annihilation. Due  to  the gg dominance,  along  with  the  fact  that  only  one q-Feynman  diagram
 contains the LQ-quark-lepton vertex, the scalar LQ pair-production has a negligible dependence on the
  LQ-quark-lepton Yukawa coupling, usually denoted as $\lambda$. LQ searches are essentially independent of $\lambda$. 
-In our search we consider pair produced LQs with each of them decaying to an electron and a quark. Therfore we look for signatue in two electron and two jet final states in the data.
+In our search we consider pair produced LQs with each of them decaying to an electron and a quark. Therefore we look for signature in two electron and two jet final states in the data.
 
 In the two physics topics discussed above as well as many other important studies at the LHC, the performance of jets is extremely important.
  One of the key challenges of the  LHC run is the increase of instantaneous luminosity, which results in a large number of additional proton-proton collisions (pileup) in each event. In such high pileup environment, an accurate reconstruction of jet properties and shapes has become more and more demanding. The most common observables for jets at the LHC  are primarily the jet $\rm p_{T}$, pseudorapidity($\eta$), and $\phi$.
@@ -284,13 +284,12 @@ where $\rm H_{T}$ is the scalar sum of the jet $\rm p_{T}$. As a measure of miss
 transverse momentum, we use the variable $\rm H_{T}^{miss}$, which is the magnitude of the vector sum of
 the jet $\rm p_{T}$. We present a general search for gluino pair production leading to final states with
 large $\rm H_{T}$, large $\rm H_{T}^{miss}$ as well as large jet multiplicity. The data are examined in exclusive bins of $ \rm \bf{ N_{jet}}$, $ \rm \bf{ N_{b-jet}}$, $ \rm \bf{ H_{T}}$,
-and $ \rm \bf{H_{T}^{miss}}$, where $\rm N_{jet}$ is the number of jets and $\rm N_{b-jet}$ the number of tagged bottom quark jets
-(b jets). 
+and $ \rm \bf{H_{T}^{miss}}$, where $\rm N_{jet}$ is the number of jets and $\rm N_{b-jet}$, the number of tagged bottom quark jets. 
 
 
 The principal sources of background arise from the SM production of top quarks, a W or Z
 boson in association with jets (W+jets or Z+jets ), and multiple jets through the strong
-interaction. We refer to the latter class of background as quantum chromodynamics (QCD)
+interaction. We refer to the last class of background as quantum chromodynamics (QCD)
 multijet events. Although events with top quarks mostly come from top quark-antiquark ($\rm t\bar{t}$) production,
 a modest contribution is also from single top quark processes. The W and Z bosons in W+jets and Z+jets events
 can be either on- or off-shell. For top quark and W+jets events, significant $\rm H_{T}^{miss}$  can arise if the
@@ -330,10 +329,10 @@ our focus on gluino pair production;
 \item $\rm H_{T}$ $\textgreater $ 500 GeV, where $\rm H_{T}$ is the scalar $\rm p_{T}$ sum of jets with $|\eta|$ $<$ 2.4;
 
 \item $\rm H_{T}^{miss}$ $>$ 200 GeV, where $\rm H_{T}^{miss}$ is the magnitude of $\rm \overrightarrow{H}_{T}^{miss}$, the negative of the vector
-$p_{T}$ sum of jets with $|\eta|$ $<$ 5; the $\eta$ range is extended in this case so that  ${\rm \overrightarrow{H}_{T}^{miss}}$ better
+$\rm p_{T}$ sum of jets with $|\eta|$ $<$ 5; the $\eta$ range is extended in this case so that  ${\rm \overrightarrow{H}_{T}^{miss}}$ better
 represents the total missing transverse momentum in a given event;
 
-\item  No identified, isolated electron (muon) candidate with $p_{T}$ $\textgreater$ 10 GeV and $|\eta|$ $<$ 2.5 ($<$2.4);
+\item  No identified, isolated electron (muon) candidate with $\rm p_{T}$ $\textgreater$ 10 GeV and $|\eta|$ $<$ 2.5 ($<$2.4);
 
 \item No isolated charged-particle track with $|\eta|$ $<$  2.4, $\rm m_{T}$ $<$ 100 GeV, and $\rm p_{T}$ $\textgreater $ 10 GeV
 ($p_{T}$ $\textgreater$ 5 GeV if the track is identified as an electron or muon candidate) where $\rm m_{T}$ is the transverse mass formed from the ${\rm \overrightarrow{p_{T}}^{miss}}$ and isolated-track
@@ -346,10 +345,10 @@ $\rm j_{3}$ and $\rm j_{4}$), with   the azimuthal angle between $\rm H_{T}^{mis
 The search is performed in the following 72 ($=3\times4\times3\times3$) exclusive intervals of the four search variables:
 \begin{itemize}
 
- \item ${\bf 3 }$ $\rm N_{jet}$ bins: 4$–$6, 7$–$8 and $\geq$9;
+ \item ${\bf 3 }$ $\rm N_{jet}$ bins: 4-6, 7-8 and $\geq$9;
  \item ${\bf 4 }$ $\rm N_{b-jet}$ bins: 0, 1, 2 and $\geq$3;
- \item ${\bf 3 }$ $\rm H_{T}$ bins: 500$–$800, 800$–$1200 and $\textgreater$1200 GeV;
- \item ${\bf 3 }$ $\rm H_{T}^{miss}$ bins : 200$–$500, 500$–$750 and $\textgreater$750 GeV.
+ \item ${\bf 3 }$ $\rm H_{T}$ bins: 500-800, 800-1200 and $\textgreater$1200 GeV;
+ \item ${\bf 3 }$ $\rm H_{T}^{miss}$ bins : 200-500, 500-750 and $\textgreater$750 GeV.
 \end{itemize}
 
 \subsubsection{Background Estimation }
@@ -360,7 +359,7 @@ divided into four different types, namely Z to neutrinos, lost lepton, QCD and h
 \paragraph{\underline {Z to neutrinos}: }
 
 
-This is the most important backgrounds being an ireducible one. We are talking about events with a Z boson produced in association with jets when the Z decays to two neutrinos. The most straightforward way to measure this background is
+This is the most important backgrounds being an irreducible one. We are talking about events with a Z boson produced in association with jets when the Z decays to two neutrinos. The most straightforward way to measure this background is
 to exploit the decays $\rm Z(\ell^{+} \ell^{-})$+jets in which the Z boson can be
 reconstructed from the observed pair of muons or electrons.  The
 efficiency-corrected yields from these decays can be translated
@@ -387,10 +386,10 @@ the extent possible with the $\rm Z(\ell^{+} \ell^{-})$+jets data sample, supple
 information where necessary. We use simulation to correct for the
 resulting distribution to the higher $\rm N_{jet}$ bins.
 
-As shown in Eq.(~\ref{eq:gjet1}), we predict the number of $\rm Z(\to\nu \bar{\nu})$ + jets events contributing 
-to each of the 18 0-btag analysis bins ($\rm N_{Z(\to\nu \bar{\nu})}^{\rm pred}$ ) from the number of events in the corresponding 
+As shown in Eq.(~\ref{eq:gjet1}), we predict the number of $\rm Z(\to\nu \bar{\nu})$+jets events contributing 
+to each of the 18 0-btag analysis bins ($\rm N_{Z(\to\nu \bar{\nu})}^{\rm pred}$) from the number of events in the corresponding 
 bin of the $\gamma$+jets control sample ($\rm N_{\gamma}^{\rm obs}$), the purity of the 
-control sample ($\beta$), and the ratio of the numbers of $\rm Z\to\nu \bar{\nu}$ + jets events and $\gamma$+jets events 
+control sample ($\beta$), and the ratio of the numbers of $\rm Z\to\nu \bar{\nu}$+jets events and $\gamma$+jets events 
 obtained from leading order {\sc MadGraph}+{\sc Pythia} (${\cal
   R}_{Z(\nu\bar{\nu})/\gamma} \cdot {\cal F}_{\rm dir}$).  Here ${\cal
   F}_{\rm dir}$ is the fraction of prompt photons that are direct.
@@ -453,7 +452,7 @@ The $\rm H_{T}^{miss}$ in QCD multijet events is almost always due to a mismeasu
        serves as the QCD control sample.
        %Figure~\ref{fig:qcd-mdp-split1d} shows \dphi distributions for zero-lepton events
        %passing the baseline selection in bins of \HT, \MHT, and \njets.
-       The backgrond at high $\rm \Delta \phi$, is estimated from the QCD yield at low
+       The background at high $\rm \Delta \phi$, is estimated from the QCD yield at low
        $\rm \Delta \phi$ and a high/low ratio $R^{\rm QCD}$ for the QCD component.
        The $\rm \Delta \phi$ distribution  shows that the high/low ratio
        has some dependence on the search variables $\rm H_{T}$, $\rm H_{T}^{miss}$, and $\rm N_{jet}$.
@@ -515,7 +514,7 @@ The effect of the statistical and systematic uncertainties is at most 1.1 $\%$ a
 \item {\bf Jet Energy Corrections: } The jet energy corrections (JECs) are varied using the $\rm p_{T}$
 and $\eta$ dependent jet energy scale uncertainties from the official database, with a separate set of corrections for the fast simulation samples. The overall effect ranges from 0.5 $\%$ to 4$\%$. 
 
-\item {\bf PDF: } The LHC4PDF prescription for the uncertainty on the total cross section is included as $\pm$1 $\sigma$ bands in the results plots. 
+\item {\bf PDF: } The LHC4PDF prescription for the uncertainty on the total cross section is included as $\pm$1 $\sigma$ bands in the results. 
 
 \end{itemize}
  
@@ -527,7 +526,7 @@ and $\eta$ dependent jet energy scale uncertainties from the official database, 
 
 \subsubsection{Results}
 The data in the signal regions are found to be in 
-generally good agreement with the predicted backgrounds. Therefor we do not see any evidence for new physics. For the 72
+generally good agreement with the predicted backgrounds. Therefore we do not see any evidence for new physics. For the 72
 search bins, the observed data and the pre-fit predictions for each background component are shown in Fig.~\ref{fig:Datavsbkg}. The 95\% confidence-level   (CL) upper limit is calculated on the production cross section taking all 72 bins. The upper limits on the signal cross section and the exclusion curves are shown in Fig.~\ref{fig:Limit2015Synop}. For calculating the upper limits we use  a test  statistic  $\rm q_{\mu}$ = $-$2ln($L_{\mu}/L_{max}$), where $L_{max}$ is the maximum likelihood determined by allowing all parameters including the SUSY signal strength $\mu$ to vary and $L_{\mu}$ is the maximum likelihood for a fixed signal strength . The details of the statistical procedure can be found in Ref.~\cite{CMS-NOTE-2011-005}.  For an explanation of the treatment of uncertainties, we refer to Ref. ~\cite{CMS-PAS-SUS-15-002}. As can be seen from the plots in Fig.~\ref{fig:Limit2015Synop} the observed exclusion limits for low LSP masses lie around 1600 GeV both for four top and four b-quark final state, for four light quark final state, it is around 1450 GeV of gluino mass. The small disagreement of observed exclusion curves with the expected ones can be ascribed to the small insignificant excesses of events we see in various bins.  
 \begin{figure}[h]
 \begin{center}
@@ -545,7 +544,7 @@ search bins, the observed data and the pre-fit predictions for each background c
 
 \newpage
 \subsection{Study on 12.9 $\rm fb^{-1}$ of 2016 Data}
-In 2016 we lowered the $\rm H_{T}$ and $\rm N_{jet}$ thresholds to enhance the search sensitivity to some stop and squark production models. Also the number of bins is changed from 72 to 160 for an increased sensitivity. The important event selection and search region definitions that are different with respect to the 2015 analysis are given below. 
+In 2016 we lowered the $\rm H_{T}$ and $\rm N_{jet}$ thresholds to enhance the search sensitivity to some stop and squark production models. Also the number of bins is changed from 72 to 160 for an increased sensitivity. The important event selection and search region definitions that are different with respect to the 2015 analysis are described below. 
 \subsubsection{Search Region and Event Selection}
 
 The following requirements define the selection criteria for signal event candidates:
@@ -559,7 +558,7 @@ All other criteria remain almost the same as for the 2015 analysis (see Sec. 4.1
 The search is performed in the following 160 ($=4\times4\times10$) exclusive intervals of the four search variables:
 \begin{itemize}
 
- \item ${\bf 3 }$ $\rm N_{jet}$ bins: 3$-$4, 5$-$6,7$–$8, $\geq$9;
+ \item ${\bf 3 }$ $\rm N_{jet}$ bins: 3-4, 5-6,7-8, $\geq$9;
  \item ${\bf 4 }$ $\rm N_{b-jet}$ bins: 0, 1, 2, $\geq$3;
  \item  ${\bf 10 }$ bins in $\rm H_{T}$ and $\rm H_{T}^{miss}$: defined below
 
@@ -598,13 +597,13 @@ The search is performed in the following 160 ($=4\times4\times10$) exclusive int
 
 
 \subsubsection{Background Estimation}
-Similar methods to estimate various SM backgrounds are employed in this analysis even though their relative composition has changed from 2015 owing to the change of baselines. As the phase space has changed, these methods are optimized accordingly. Below we describe the changes for the Z($\rightarrow \nu \bar{\nu}$)+jets background. Details of other background estimations can be found in Ref.~\cite{CMS-PAS-SUS-16-014}
+Similar methods to estimate various SM backgrounds are employed in this analysis even though their relative composition has changed from 2015 owing to the change of baselines. As the phase space has changed, these methods are optimized accordingly. Below we describe the changes for the Z($\rightarrow \nu \bar{\nu}$)+jets background. Details of other background estimations can be found in Ref.~\cite{CMS-PAS-SUS-16-014}.
 
 \underline{Z($\rightarrow \nu \bar{\nu}$)+jets: } 
 
 \begin{itemize}
 
-\item A new high$-$statistics MC sample is used to calculate the transfer factor $\rm R_{Z/\gamma}$ helping to  reduce the related systematic uncertainty.
+\item A new high-statistics MC sample is used to calculate the transfer factor $\rm R_{Z/\gamma}$ helping to  reduce the related systematic uncertainty.
 
 \item For the calculation of photon purity, a charged isolation template is used instead of $\sigma_{i\eta i\eta}$ as we find it to have a better performance.
 
@@ -616,24 +615,24 @@ Note that due to the change in $\rm H_{T}^{miss}$ and $\rm N_{jet}$ threshold th
 
 \subsubsection{Uncertainties}
 
-The uncertainties are treated in the same way as it is done with 2015 data. The $\%$ uncertainties are also similar when compared with the previous analysis.
+The uncertainties are treated in the same way as it is done with 2015 data. The $\%$ uncertainties are also similar to the previous analysis.
 
 
 
 
 \subsubsection{Results}
-Fig.~\ref{fig:Datavsbkg2016} shows the predicted background vs. the observed data. The background is found to be statistically compatible with data for all 160 regions. Thus, we do not see any evidence for new physics. The  95\% CL uppper limits on the cross section are shown in Fig.~\ref{fig:Limit2016Synop}. These plots show significant improvements in terms of expected limits when compared to the previous results with 2.3 $\rm fb^{-1}$ of data (Fig.~\ref{fig:Limit2015}). But the mismatch between the observed and expected curves owing to the deficit of events in some of the bins.   
+Fig.~\ref{fig:Datavsbkg2016} shows the predicted background vs. the observed data. The background is found to be statistically compatible with data for all 160 regions. Thus, we do not see any evidence for new physics. The  95\% CL uppper limits on the cross section are shown in Fig.~\ref{fig:Limit2016Synop}. These plots show significant improvements in terms of expected limits when compared to the previous results with 2.3 $\rm fb^{-1}$ of data (Fig.~\ref{fig:Limit2015}). The mismatch between the observed and expected curves owing to the deficit of events in some of the bins.   
 \begin{figure}
 \centering
 \includegraphics[width=10cm,height=5cm]{/home/bibhu/Desktop/PhDThesis/PhDThesis/synopsis/results-plot-prefit-12_9-log.pdf}
-\caption{\label{fig:Datavsbkg2016} Data vs. the SM background before fit}
+\caption{\label{fig:Datavsbkg2016} Data vs. the SM background before fit.}
 \end{figure}
 \begin{figure}[h]
 \centering
 \includegraphics[width=0.32\textwidth]{/home/bibhu/Desktop/PhDThesis/PhDThesis/synopsis/T1tttt_12p9_limit.pdf}
 \includegraphics[width=0.32\textwidth]{/home/bibhu/Desktop/PhDThesis/PhDThesis/synopsis/T1qqqq_12p9_limit.pdf}
 \includegraphics[width=0.32\textwidth]{/home/bibhu/Desktop/PhDThesis/PhDThesis/synopsis/T1bbbb_12p9_limit.pdf}
-\caption{\label{fig:Limit2016Synop}The 95\% CL upper limits on the production cross sections for four top quark (left),four light quark (middle) and four b-quark (right) in the final state}
+\caption{\label{fig:Limit2016Synop}The 95\% CL upper limits on the production cross sections for four top quark (left),four light quark (middle) and four b-quark (right) in the final state.}
 \end{figure}
 
 
@@ -668,7 +667,7 @@ The data vs. backgrounds plots for two variables are shown in the Fig.~\ref{figu
 \centering
 \includegraphics[width=0.32\textwidth]{/home/bibhu/Desktop/PhDThesis/PhDThesis/synopsis/Mee_PAS_eejj.pdf}
 \includegraphics[width=0.32\textwidth]{/home/bibhu/Desktop/PhDThesis/PhDThesis/synopsis/sT_PAS_eejj.pdf}
-\caption{\label{figure:DataVsMCinVariableLQ1}Data vs. background plots for$\rm M_{ee}$ (left) and $\rm S_{T}$ (right) }
+\caption{\label{figure:DataVsMCinVariableLQ1}Data vs. background plots for $\rm M_{ee}$ (left) and $\rm S_{T}$ (right). }
 \end{figure}
 
 
@@ -691,7 +690,7 @@ backgrounds are determined in our analysis.
 
 
 \subsection{Results}
-Similar to the two SUSY analyses, we observe no significant excess of events as compared to the SM backgrounds. The broad excess of the events that was seen in the 8 TeV analysis~\cite{CMS-PAS-EXO-12-041} has dissapeared with the 2015 data. We set the upper limits on the cross section times branching fraction using the same tool as before. Fig. ~\ref{figure:LimitLQ12016Synop} shows both the observed and expected limits for different leptoquark masses. We exclude leptoquark masses up to 1130 GeV from this study. 
+Similar to the two SUSY analyses, we observe no significant excess of events as compared to the SM backgrounds. The broad excess of the events that was seen in the 8 TeV analysis~\cite{CMS-PAS-EXO-12-041} has disappeared with the 2015 data. We set the upper limits on the cross section times branching fraction using the same tool as before. Fig. ~\ref{figure:LimitLQ12016Synop} shows both the observed and expected limits for different leptoquark masses. We exclude leptoquark masses up to 1130 GeV from this study. 
 
 \begin{figure}[h]
 \centering
@@ -727,7 +726,7 @@ The jet is reclustered using the CA algorithm.  Then the jet is declustered and 
 $\frac{{\rm min}(\rm p_{T_{j1}},\rm p_{T_{j2}})}{\rm p_{T_{j1}}+p_{T_{j2}}} > z_{\rm cut} \times \left( \frac{\Delta R_{12}}{R_0} \right)^{\beta}$
 
 where the algorithm parameters are $z_{\rm cut}$ and $\beta$.
-If the condition is met, the declustering continues, otherwise only the leading $p_{T}$ subjet is kept.
+If the condition is met, the declustering continues, otherwise only the leading $\rm p_{T}$ subjet is kept.
 In the case when $\beta=0$, soft drop can be considered a generalization of the modified mass drop tagger (MMDT)~\cite{Dasgupta:2013ihk}. 
 
 
@@ -772,7 +771,7 @@ The parameters for the grooming algorithms explored in this study can be found i
 \centering
 \includegraphics[width=15cm,height=5cm]{/home/bibhu/Desktop/PhDThesis/PhDThesis/synopsis/1DPFCHS_QCD.pdf}
 
-\caption{\label{fig:grooming1D} The mass distributions of PFCHS jets after application of trimming (left), pruning (pruning) and soft-drop (right) for different set of parameters. The ungroomed mass distribution is shown to compare the aggressiveness of grooming methods. }
+\caption{\label{fig:grooming1D} The mass distributions of PFCHS jets after application of trimming (left), pruning (middle) and soft-drop (right) for different set of parameters. The ungroomed mass distribution is shown to compare the aggressiveness of grooming methods. }
 \end{figure}
 
 \begin{figure}[h]
@@ -792,7 +791,7 @@ Average jet mass and jet resolutions are taken as quality parameters for determi
 
 We have presented the searches for SUSY and leptoquarks with 13 TeV pp collision data recorded with CMS. The SUSY search targets for direct gluino, stop and squark pair production in all hadronic final state. Two separate searches with 2.3 $\rm fb^{-1}$ of 2015 and 12.9 $\rm fb^{-1}$ of 2016 data yield null results of new physics. Similarly no signatures of any signal are found in the search of  first generation scalar leptoquarks performed with 2.6 $\rm fb^{-1}$ of the 2015 data. Upper limits on the signal cross section  are obtained in all three cases significantly extending the previous 8TeV limits.   
 
-Lastly, a study on advanced pileup mitigation techniques is presented. Performance of various jet grooming methods like trimming, pruning and softdrop are compared. Optimized quality parameters of these techniques are recommended for future use.   
+Lastly, a study on advanced pileup mitigation techniques is presented. Performance of various jet grooming methods like trimming, pruning and soft-drop are compared. Optimized quality parameters of these techniques are recommended for future use.   
 
 
 %\begin{table}

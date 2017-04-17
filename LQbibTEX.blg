@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2012/Debian)
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: LQbibTEX.aux
 The style file: plain.bst
@@ -56,45 +56,45 @@ Warning--there's a number but no volume in Pich:281332
 Warning--empty institution in read
 Warning--empty journal in puppi
 Warning--empty year in puppi
-You've used 86 entries,
+You've used 88 entries,
             2118 wiz_defined-function locations,
-            978 strings with 16797 characters,
-and the built_in function-call counts, 26350 in all, are:
-= -- 2462
-> -- 1494
+            990 strings with 17240 characters,
+and the built_in function-call counts, 27034 in all, are:
+= -- 2520
+> -- 1539
 < -- 11
-+ -- 603
-- -- 510
-* -- 1920
-:= -- 4686
-add.period$ -- 257
-call.type$ -- 86
-change.case$ -- 490
++ -- 621
+- -- 526
+* -- 1972
+:= -- 4806
+add.period$ -- 263
+call.type$ -- 88
+change.case$ -- 504
 chr.to.int$ -- 0
-cite$ -- 117
-duplicate$ -- 911
-empty$ -- 1870
-format.name$ -- 510
-if$ -- 5267
+cite$ -- 119
+duplicate$ -- 936
+empty$ -- 1922
+format.name$ -- 526
+if$ -- 5404
 int.to.chr$ -- 0
-int.to.str$ -- 86
-missing$ -- 71
-newline$ -- 431
-num.names$ -- 158
-pop$ -- 396
+int.to.str$ -- 88
+missing$ -- 73
+newline$ -- 441
+num.names$ -- 162
+pop$ -- 412
 preamble$ -- 1
-purify$ -- 406
+purify$ -- 418
 quote$ -- 0
-skip$ -- 652
+skip$ -- 666
 stack$ -- 0
-substring$ -- 1259
-swap$ -- 91
+substring$ -- 1281
+swap$ -- 94
 text.length$ -- 11
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 344
+type$ -- 352
 warning$ -- 31
-while$ -- 220
-width$ -- 88
-write$ -- 911
+while$ -- 225
+width$ -- 90
+write$ -- 932
 (There were 5 error messages)

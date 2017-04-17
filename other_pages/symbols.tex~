@@ -31,7 +31,7 @@ TeV & & Tera electron volt \\
 
 \begin{tabular}{lcl}\hline
 {\bf Symbols}&\hspace{2cm} & {\bf Definition}\\ \hline\hline
-$p_T$ && Momentum in the transverse plane\\
+$\rm p_T$ && Momentum in the transverse plane\\
 $\eta$ && Pseudorapidity\\
 $\phi$ && Azimuthal angle\\
 $j$ && Jet\\

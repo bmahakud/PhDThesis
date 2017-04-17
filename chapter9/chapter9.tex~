@@ -9,7 +9,7 @@
 %\setlength{\textwidth}{152.4 mm}
 \chapter{Summary and Conclusions  \label{ Summary and Conclusions}}
 
-In this thesis we have presented our studies on three different topics. The first two are on the search for physics beyond the standard model, especially for supersymmetry and leptoquarks. We did not find any evidence of new physics in these studies, however the limits we obtained significantly more restrictive compared to the previous 8-TeV results. To drive the point home, we compare the upper limits on the cross section just from one channel that has four top quarks in the final state( Fig.~\ref{fig:Limit8vs13SUSY} shows the limits). We see that the upper limit for a zero LSP mass hypothesis has been extended from around 1.2 to 1.6 TeV with a small amount of 13 TeV data. Although we have not shown comparison plots from four light-quark or four b-quark final states (all these results for 8 and 13 TeV could be found at CMS public page ~\cite{CMSSUSPublic})  the message is similar i.e., our results provide more stringent limit on the new physics parameter space. More ever in the 2016 analysis with 12.9 $\rm fb^{-1}$ of data, we extended the 2.3 $\rm fb^{-1}$ limits. 
+In this thesis we have presented our studies on three different topics. The first two are on the search for physics beyond the standard model, especially for supersymmetry and leptoquarks. We did not find any evidence of new physics in these studies, however the limits we obtained are significantly more restrictive compared to the previous 8-TeV results. To drive the point home, we compare in Fig.~\ref{fig:Limit8vs13SUSY} the upper limits on the cross section just from one channel that has four top quarks in the final state shows the limits). We see that the upper limit for a zero LSP mass hypothesis has been extended from around 1.2 to 1.6 TeV with a small amount of 13 TeV data. Although we have not shown comparison plots from four light-quark or four b-quark final states (all these results for 8 and 13 TeV could be found at the CMS public page ~\cite{CMSSUSPublic})  the message is similar i.e., our results provide more stringent limit on the new physics parameter space. Moreover in the 2016 analysis with 12.9 $\rm fb^{-1}$ of data, we extended the 2.3 $\rm fb^{-1}$ limits. 
 
 \begin{figure}[h]
 \centering
@@ -19,7 +19,7 @@ In this thesis we have presented our studies on three different topics. The firs
 \end{figure}
 
 
-Similarly, in the leptoquark analysis we have  extended the previous limits. However, the limits are not improved as much as in SUSY because the increase in SUSY production cross section is much higher going from 8 to 13 TeV as compared to the LQ models. In Fig.~\ref{fig:LQLimit8TeV13TeV}, we present a comparison of the 8TeV limit vis-a-vis the 13 TeV limit. More ever a small excess seen for an LQ mass 650 GeV in the 8TeV analysis ~\cite{CMS-PAS-EXO-12-041} was not confirmed in our analysis indicating the prior signal could be a fluctuation.
+Similarly, in the leptoquark analysis we have  extended the previous limits. However, these are not improved as in SUSY because the increase in SUSY production cross section is much higher going from 8 to 13 TeV compared to the LQ models. In Fig.~\ref{fig:LQLimit8TeV13TeV}, we present a comparison of the 8 TeV limit vis-a-vis the 13 TeV one. Further, a small excess seen for an LQ mass  of 650 GeV in the 8 TeV analysis ~\cite{CMS-PAS-EXO-12-041} was not confirmed in our analysis indicating the prior signal could be a  statistical fluctuation.
 
 \begin{figure}[h]
 \centering
@@ -29,9 +29,11 @@ Similarly, in the leptoquark analysis we have  extended the previous limits. How
 \end{figure}
 
 
-At the end, we have presented a study on the various advanced pileup mitigation techniques. It turns out that grooming is very useful when jets are contaminated with pileup. Motivated by our study, many of the current CMS analysises are using grooming techiques for pileup mitigation.
+At the end, we have presented a study on the various advanced pileup mitigation techniques. It turns out that grooming is very useful when jets are contaminated with pileup. Motivated by our study, many of the current CMS analyses are using grooming techniques for pileup mitigation.
 
-Even though the searches yield null results for new physics, but the results are useful in excluding the parameter space for the SUSY and leptoquarks. But as we understand the SM is incomplete, so there must be new physics at a scale currently not known to us. We believe, with collection of more data with higher energies in the future years could potentialy reveal signatures of new phyisics.  With this we conclude the presentation of various works that are carried out during our PhD.
+Though our searches yielded null results for new physics, the results were useful in excluding the parameter space for SUSY and leptoquarks. As we understand the SM is incomplete, there must be new physics at a scale currently not known to us. We believe, with collection of more data with higher energies in the coming years could potentially reveal new physics.  
+
+On this positive note, we conclude the thesis.
 
 
 
